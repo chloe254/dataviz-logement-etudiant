@@ -1,0 +1,156 @@
+adresse,nom,telephone,loyer_min_eur,loyer_max_eur,loyer_mediane_eur,arrondissement,logement_1_type,logement_1_surface_m2,logement_1_loyer_eur,logement_2_type,logement_2_surface_m2,logement_2_loyer_eur,logement_3_type,logement_3_surface_m2,logement_3_loyer_eur,logement_4_type,logement_4_surface_m2,logement_4_loyer_eur,logement_5_type,logement_5_surface_m2,logement_5_loyer_eur,logement_6_type,logement_6_surface_m2,logement_6_loyer_eur,latitude,longitude
+"53 rue Lhomond, 75005 Paris",Résidence Coubertin,01 40 51 56 50,219.13,584.51,258.95,5.0,T1,13.0,219.13,T1,13.0,232.5,T1,17.0,285.4,DUPLEX,22.9,584.51,,,,,,,48.8411622,2.3485716
+8 rue Rollin 75005 Paris,Résidence Rollin,01 40 51 56 50,306.3,414.25,376.5750000000001,5.0,T1,18.0,375.24,T1,21.0,410.51,T1BIS,21.0,306.3,T1BIS,28.0,346.91,T1BIS,34.0,377.91,T1BIS,40.0,414.25,48.8446664,2.3512615
+39 avenue Georges Bernanos 75005 Paris,Résidence Jean Sarrailh,,491.13,570.76,530.9449999999999,5.0,T1,16.0,491.13,T1,28.0,570.76,,,,,,,,,,,,,48.8402234,2.3376518
+3 rue des Carmes 75005 Paris,Résidence les Carmes,01 40 57 57 03,,,,5.0,,,,,,,,,,,,,,,,,,,48.8492548,2.3477207
+24 rue Bonaparte 75006 Paris,Résidence Bonaparte,,367.0,431.05,399.025,6.0,T1,15.0,367.0,T1,20.0,431.05,,,,,,,,,,,,,48.8558338,2.3341004
+5-5 bis rue Mazet 75006 Paris,Résidence Mazet,,449.4,592.61,521.005,6.0,T1,17.0,449.4,T1,26.0,592.61,,,,,,,,,,,,,48.8539042,2.3390873
+13 rue Philippe de Girard 75010 Paris,Résidence Philippe de Girard 1,01 40 51 37 68,354.44,438.87,373.67,10.0,T1,22.0,354.44,T1,31.0,438.87,T2,48.0,373.67,,,,,,,,,,48.8821354,2.3613759
+151 avenue Ledru Rollin 75011 Paris,Résidence Bastille,01 40 51 35 64,324.0,511.0,417.5,11.0,T1,15.0,324.0,T2,24.0,511.0,,,,,,,,,,,,,48.855064,2.3781589
+91-95 rue de la Fontaine au Roi 75011 Paris,Résidence Fontaine au Roi 1,01 40 51 55 88,473.42,498.01,485.715,11.0,T1,16.0,473.42,T1,18.0,498.01,,,,,,,,,,,,,48.8699928,2.3790394
+88-90 rue de la Fontaine au Roi 75011 Paris,Résidence Fontaine au Roi 2,01 40 51 55 88,464.4,534.93,499.66,11.0,T1,17.0,464.4,T1,20.0,499.66,T1,22.0,534.93,,,,,,,,,,48.8699928,2.3790394
+"2 Passage Marie Rogissart, 75 012 Paris",Résidence Reuilly,01 40 51 35 64,341.86,415.92,368.73,12.0,T1,18.0,402.23,T1,19.0,415.92,T2,30.0,364.62,T2,30.0,368.73,T3,43.0,341.86,T3,43.0,391.29,48.8474306,2.3854803
+244 rue de Bercy 75012 Paris,Résidence Bercy,01 40 51 35 64,347.86,490.01,416.8,12.0,T1,14.0,347.86,T1,17.0,386.34,T1,20.0,423.97,T1,26.0,490.01,T2,35.0,390.07,T2,40.0,416.8,48.8472639,2.3689774
+45 Boulevard Diderot 75012 Paris,Résidence Cîteaux,01 40 51 35 63,321.11,615.01,468.06,12.0,T1,11.0,321.11,,,,,,,,,,,,,,,,48.8467121,2.3799619
+37 Bd du Port Royal 75013 Paris,Résidence pour la réussite Lourcine,,229.3,403.5,316.4,13.0,T1,11.0,229.3,T1,22.0,403.5,,,,,,,,,,,,,,
+150 boulevard Vincent Auriol 75013 Paris,Résidence Claude Lalet (anciennement Vincent Auriol),01 40 51 56 59,397.26,461.38,410.625,13.0,T1,19.0,397.26,T5,,419.71,T6,,401.54,,,,,,,,,,48.8325177,2.3601412
+3-5 rue de Reims 75013 Paris,Résidence Reims,,391.65,434.4,413.025,13.0,T1,18.0,391.65,T1,21.0,434.4,,,,,,,,,,,,,48.8285199,2.3716107
+81bis rue du Chevaleret 75013 Paris,Résidence Chevaleret,,363.58,570.92,424.5,13.0,T1,18.0,363.58,T1,21.0,424.5,T1,27.0,497.17,T1,33.0,570.92,,,,,,,48.8310492,2.3743852
+6 place du docteur Yersin 75013 Paris,Résidence Docteur Yersin,,429.4,429.4,429.4,13.0,T1,18.0,429.4,,,,,,,,,,,,,,,,48.8207373,2.3724356
+54-56 rue des Grands Moulins 75013 Paris,Résidence Grands Moulins,,416.85,446.77,431.81,13.0,T1,20.0,416.85,,,,,,,,,,,,,,,,48.8287004,2.379271
+77 rue Amiral Mouchez 75013 Paris,Résidence Amiral Mouchez,,421.57,454.71,438.14,13.0,T1,18.0,421.57,T1,20.0,454.71,,,,,,,,,,,,,48.8208471,2.3436101
+9-17 rue Louise Bourgeois 75013 Paris,Résidence Louise Bourgeois,01 40 51 57 75,413.95,497.31,441.205,13.0,T1,18.0,413.95,T1,19.0,427.85,T1,21.0,454.56,T1,24.0,497.31,,,,,,,48.8261314,2.37928
+51-53 rue Domrémy 75013 Paris,Résidence Domrémy,,426.2,471.08,448.64,13.0,T1,19.0,426.2,T1,19.0,471.08,,,,,,,,,,,,,48.8303851,2.3730921
+3-11 rue Nicole Reine Lepaute 75013 Paris,Résidence Nicole Reine Lepaute,,407.16,491.6,449.38,13.0,T1,17.0,407.16,T1,22.0,491.6,,,,,,,,,,,,,48.8265223,2.3814159
+14-18 rue Julie Daubié 75013 Paris,Résidence Julie Daubié,,400.02,510.1,455.06,13.0,T1,19.0,400.02,T1,27.0,510.1,,,,,,,,,,,,,48.8271183,2.3798755
+97 boulevard de l'Hôpital 75013 Paris,Résidence Pitié-Salpêtrière,,444.71,471.42,458.065,13.0,T1,19.0,444.71,T1,21.0,471.42,,,,,,,,,,,,,48.8374932,2.3605635
+29 rue Daviel 75013 Paris,Résidence Daviel,,408.65,608.5,469.56,13.0,T1,16.0,408.65,T1,20.0,469.56,T1,31.0,608.5,,,,,,,,,,48.8281997,2.3440593
+120 avenue de Choisy 75013 Paris,Résidence Choisy,,468.97,564.17,511.8,13.0,T1,20.0,468.97,T1,22.0,511.8,T1,26.0,564.17,,,,,,,,,,48.8264979,2.3598578
+Adresse :  80bis rue de la Tombe Issoire 75014,Résidence Alésia,01 40 51 35 05,346.9,397.12,364.525,14.0,T1,17.0,357.58,T2,,346.9,,,,,,,,,,,,,,
+7 place de la Garenne 75014 Paris,Résidence La Garenne,01 40 51 55 72,347.02,397.26,372.14,14.0,T1,18.0,347.02,T1,22.0,397.26,,,,,,,,,,,,,48.833448,2.3200431
+9 rue de la Tombe Issoire 75014 Paris,Résidence Tombe Issoire,01 40 51 35 05,384.1,448.22,396.92,14.0,T1,17.0,384.1,T1,18.0,396.92,T1,22.0,448.22,,,,,,,,,,48.8325941,2.3358035
+13-17 rue Dareau 75014 Paris,Résidence Dareau,,285.93,527.4,428.08,14.0,CHAMBRE,9.0,285.93,T1,11.0,428.08,T1,20.0,527.4,,,,,,,,,,48.8313234,2.3377802
+14-16 Place de la Porte de Vanves 75014 Paris,Résidence Porte de Vanves,01 40 51 55 72,417.85,475.56,448.85,14.0,T1,18.0,417.85,T1,21.0,448.85,T1,23.0,475.56,,,,,,,,,,48.8268117,2.3045838
+"146-158, rue de la Tombe Issoire, 75014",Résidence Jourdan,01 40 51 35 05,447.33,660.01,470.85,14.0,T1,19.0,447.33,T2,42.0,470.85,,,,,,,,,,,,,48.8225558,2.3303653
+26 rue du faubourg Saint-Jacques 75014 Paris,Résidence Saint-Jacques,,462.17,557.3,541.61,14.0,T1,11.0,462.17,T1,15.0,541.61,T1,18.0,557.3,,,,,,,,,,48.8373793,2.3385537
+161 bis rue de la Convention 75015 Paris,Résidence Convention,,373.81,447.09,421.44,15.0,T1,18.0,421.44,T1,21.0,447.09,T2,27.0,373.81,,,,,,,,,,48.8386388,2.2935633
+20-20 bis rue du Colonel Avia 75015 Paris,Résidence Avia,,428.3,467.85,448.0750000000001,15.0,T1,22.0,467.85,T1BIS,35.0,428.3,,,,,,,,,,,,,,
+383 rue de Vaugirard 75015 Paris,Résidence Vaugirard,01 40 51 57 08,418.33,565.82,449.32,15.0,T1,17.0,418.33,T1,18.0,434.36,T1,19.0,449.32,T1,21.0,471.77,T1,28.0,565.82,,,,48.8355739,2.2931272
+20-26 rue Bernard Buffet 75017 Paris,Résidence Martin Luther King,01 40 51 37 68,443.5,492.66,468.08,17.0,T1,19.0,443.5,T1,23.0,492.66,,,,,,,,,,,,,48.8914744,2.3151896
+27 boulevard Bessières 75017 Paris,Résidence Bessières,01 40 51 35 47,475.77,475.77,475.77,17.0,T1,15.0,475.77,,,,,,,,,,,,,,,,48.8973802,2.3259754
+83 bis rue Philippe de Girard 75018 Paris,Résidence Philippe de Girard 3,01 40 51 37 62 / 64,328.84,449.6,340.58500000000004,18.0,T1,18.0,334.17,T1,23.0,379.06,T2,31.0,449.6,T5,79.0,347.0,T7,119.0,328.84,T6,,328.84,48.8883187,2.3606089
+74 rue Philippe de Girard 75018 Paris,Résidence Philippe de Girard 2,01 40 51 37 75,333.3,438.57,377.645,18.0,T1,15.0,364.82,T1,17.0,390.47,T1,21.0,438.57,T2,49.0,333.3,,,,,,,48.8883138,2.3607799
+61 rue Myrha 75018 Paris,Résidence Myrha 1,01 40 51 37 61 / 63,366.61,420.05,393.33,18.0,T1,18.0,366.61,T1,22.0,420.05,,,,,,,,,,,,,48.8867545,2.3513206
+46 boulevard Ornano 75018 Paris,Résidence Ornano 1,01 40 51 37 62 / 64,380.0,440.91,410.455,18.0,T1,23.0,440.91,T1BIS,34.0,380.0,,,,,,,,,,,,,48.8948365,2.3472299
+57-57bis boulevard Ornano 75018 Paris,Résidence Ornano 2,01 40 51 37 62 / 64,388.02,455.36,415.28,18.0,T1,16.0,388.02,T1,17.0,401.92,T1,19.0,428.64,T1,21.0,455.36,,,,,,,48.8977189,2.3445613
+2 rue Cavallotti 75018 Paris,Résidence Forest Cavallotti,01 40 51 37 68,413.45,502.7,420.4,18.0,T1,19.0,420.4,T1,26.0,502.7,T1BIS,35.0,413.45,,,,,,,,,,48.8859074,2.328787
+14-24 avenue de la Porte des Poissonniers 75018 Paris,Résidence Poissonniers,01 40 51 37 75,373.14,456.5,420.425,18.0,T1,19.5,438.33,T1,21.0,456.5,T1BIS,26.0,373.14,T1BIS,31.0,402.52,,,,,,,48.898875,2.3524423
+2 rue Championnet 75018 Paris,Résidence Championnet 2,01 40 51 37 75,408.67,435.4,422.035,18.0,T1,20.0,435.4,T1,,408.67,,,,,,,,,,,,,48.8951996,2.3526966
+55 rue Myrha 75018 Paris,Résidence Myrha 2,01 40 51 37 62 / 64,392.2,483.57,429.61,18.0,T1,18.0,392.2,T1,21.0,429.61,T3,51.0,483.57,,,,,,,,,,48.8868323,2.3518373
+204 rue Championnet 75018 Paris,Résidence Championnet 1,01 40 51 37 68,374.72,439.91,435.1,18.0,T1,16.0,374.72,T1,21.0,439.91,T1BIS,39.0,435.1,,,,,,,,,,48.8938747,2.3308328
+"48, rue de la Goutte d'or 75018 Paris",Résidence Goutte d'or,01 40 51 37 61 / 63,398.37,481.74,440.055,18.0,T1,15.0,398.37,T1,21.0,481.74,,,,,,,,,,,,,48.8851909,2.3506596
+8 rue Romy Schneider 75018 Paris,Résidence Andrée Chédid,01 40 51 37 75,376.92,489.15,441.05,18.0,T1,14.0,376.92,T1,19.0,441.05,T1,22.0,489.15,,,,,,,,,,48.8882247,2.3612608
+1-3 rue Pajol 75018 Paris,Résidence Pajol 1,01 40 51 37 62 / 64,396.05,501.32,442.54,18.0,T1,20.0,442.54,T1,25.0,501.32,T1BIS,31.0,396.05,,,,,,,,,,48.885588,2.360701
+22-24 rue Cavé 75018 Paris,Résidence Cavé,01 40 51 37 61 / 63,438.16,449.91,444.035,18.0,T1,18.0,438.16,T1,19.0,449.91,,,,,,,,,,,,,48.8867636,2.3552205
+24-28 rue Laghouat 75018 Paris,Résidence Laghouat,01 40 51 37 61 / 63,426.99,497.52,449.43,18.0,T1,17.0,426.99,T1,19.0,449.43,T1,23.0,497.52,,,,,,,,,,48.8878891,2.3548521
+5/7 rue Romy Schneider 75018 Paris,Résidence Romy Schneider,01 40 51 37 75,436.02,520.45,457.4,18.0,T1,18.0,436.02,T1,19.0,457.4,T1,24.0,520.45,,,,,,,,,,48.8881397,2.3613242
+9 rue Poulet 75018 Paris,Résidence Poulet,01 40 51 37 62 / 64,376.26,560.08,468.17,18.0,T1,18.0,376.26,T1BIS,30.0,560.08,,,,,,,,,,,,,48.8868691,2.3485266
+63-65ter rue Philippe de Girard 75018 Paris,Résidence Pajol 2,01 40 51 37 62 / 64,487.31,597.4,535.41,18.0,T1,17.0,487.31,T1,20.0,535.41,T1,23.0,597.4,,,,,,,,,,,
+60-60 bis rue d'Aubervilliers 75019 Paris,Résidence Aubervilliers,01 40 51 37 62 / 64,353.21,423.75,390.34,19.0,T1,19.0,382.06,T1,23.0,423.75,T1BIS,30.0,353.21,T2,40.0,398.62,,,,,,,48.8862121,2.366386
+173 boulevard Macdonald 75019 Paris,Résidence Rosa Parks,01 40 51 56 41- 42,408.4,553.75,434.585,19.0,T1,18.0,408.4,T1,19.0,421.22,T1,21.0,447.95,T1,29.0,553.75,,,,,,,48.8984302,2.3761461
+"25 rue de l'Argonne, 75019 Paris",Résidence Argonne,01 40 51 57 67,411.88,540.13,437.53,19.0,T1,18.0,411.88,T1,19.0,426.85,T1,20.0,437.53,T1,21.0,454.63,T1,28.0,540.13,,,,48.8938808,2.3824098
+Adresse : 58-60 bis rue de la Mouzaia 75019 Paris,Résidence Mouzaïa,01 40 51 56 41 - 42,310.0,567.0,454.0,19.0,T1,32.0,567.0,T1,,310.0,T2,,356.0,T3,,450.0,,,,,,,,
+18 boulevard d’Indochine 75019 Paris,Résidence Indochine,01 40 51 57 67 - 68,327.31,581.67,459.83,19.0,T1,25.0,394.4,T1BIS,32.0,581.67,T2,,327.31,,,,,,,,,,48.8853239,2.3971342
+12-14 rue de l'Ourcq 75019 Paris,Résidence Ourcq,01 40 51 57 67 - 68,439.22,485.18,462.2000000000001,19.0,T1,18.0,439.22,T1,21.0,485.18,,,,,,,,,,,,,48.8884914,2.3842987
+11 rue Delphine Seyrig 75019 Paris,Résidence Delphine Seyrig,01 40 51 56 41 - 42,440.3,503.35,470.22,19.0,T1,20.0,440.3,T1,22.0,470.22,T1,26.0,503.35,,,,,,,,,,48.8942087,2.3974648
+26-26bis rue de Thionville 75019 Paris,Résidence Thionville,01 40 51 57 67- 68,509.45,621.67,538.31,19.0,T1,20.0,509.45,T1,22.0,538.31,T1,27.0,621.67,,,,,,,,,,48.8885733,2.3819445
+9 rue de Lunéville 75019 Paris,Résidence Luneville,01 40 51 56 41 - 42,512.93,677.52,595.2249999999999,19.0,T1,17.0,512.93,T1,26.0,677.52,,,,,,,,,,,,,48.8865156,2.3875277
+9 rue Delaître 75020 Paris,Résidence Delaître,01 40 51 55 88,405.47,443.95,424.71,20.0,T1,18.0,405.47,T1,21.0,443.95,,,,,,,,,,,,,48.8674805,2.3873105
+124-130 bd de Ménilmontant 75020 Paris,Résidence Ménilmontant 1,01 40 51 55 88,423.82,453.75,425.42,20.0,T1,18.0,423.82,T1,20.0,453.75,T2,36.0,425.42,,,,,,,,,,48.8629225,2.3875101
+23/25 rue des Frères Flavien 75020 Paris,Résidence Frères Flavien,01 40 51 55 88,349.32,433.64,426.43,20.0,T1,16.0,426.43,T2,,349.32,,,,,,,,,,,,,48.875501,2.4125849
+21 rue Bisson 75020 Paris,Résidence Bisson,01 40 51 55 88,445.4,445.4,445.4,20.0,T1,19.0,445.4,,,,,,,,,,,,,,,,48.8706818,2.3807391
+117 rue de Ménilmontant 75020 Paris,Résidence Frères Goncourt,01 40 51 55 88,438.16,570.68,475.565,20.0,T1,18.0,438.16,T1,20.0,459.53,T1,22.0,491.6,T1,28.0,570.68,,,,,,,48.8696138,2.3932104
+52 rue des Cascades 75020 Paris,Résidence Cascades,01 40 51 55 88,459.97,497.38,478.675,20.0,T1,16.0,459.97,T1,18.0,497.38,,,,,,,,,,,,,48.8720414,2.390829
+4bis-6 rue de la Cour des Noues 75020 Paris,Résidence Cour des Noues,01 40 51 55 88,439.32,570.77,505.045,20.0,T1,16.0,439.32,T1,23.0,570.77,,,,,,,,,,,,,,
+72-74 rue des Haies 75020 Paris,Résidence des Haies,01 40 51 55 88,454.19,603.81,512.43,20.0,T1,16.0,454.19,T1,17.0,485.18,T1,20.0,539.68,T1,24.0,603.81,,,,,,,48.8530386,2.4009288
+109-111 rue de Ménilmontant 75020 Paris,Résidence Ménilmontant 2,01 40 51 55 88,468.08,623.05,549.31,20.0,T1,16.0,468.08,T1,21.0,549.31,T1,26.0,623.05,,,,,,,,,,48.8702716,2.3975348
+"8-10 rue Michel de Bourges 75020 Paris Résidence fermée pour travaux à compter du 27 juillet 2022.    Résidence située entre Nation et le cimetière du Père Lachaise dans le 20e arrondissement, toutes commodités à proximité.",Résidence Michel de Bourges,,,,,20.0,,,,,,,,,,,,,,,,,,,,
+,Résidence Vincent Fayo,01 86 67 10 00,158.0,158.0,158.0,,,7.0,,,,,,,,,,,,,,,,,,
+,Résidence Le Bosquet,01 69 07 68 96 / 06 42 28 96 70,180.0,180.0,180.0,,,8.0,,,,,,,,,,,,,,,,,,
+Résidence de 300 logements à proximité immédiate de l'IUT de Saint-Denis. Proche de tous commerces et des transports.   Chambre : 9m² / 242€ Chambre PMR : 25m² / 328€,Résidence l’Hermitage,01 48 22 15 21,242.0,328.0,285.0,,CHAMBRE,9.0,242.0,CHAMBRE,25.0,328.0,,,,,,,,,,,,,,
+,Résidence Les Châteaux St-Sylvère,01 75 39 88 42,247.0,379.0,313.0,,,14.5,,,,,,,,,,,,,,,,,,
+70 T1 de 18 m². Redevance 2025-2026 : 329€.2 T2 de 30 m². Redevance 2023-2024 : 278€ par personne ou 444€ seul.Bus : ligne 1 (arrêt Husson)Le secrétariat de la résidence est situé à l'antenne du CROUS (8 place François Rabelais - 28000 Chartres).,Toussaint Desanti,02 37 90 70 30,278.0,444.0,329.0,,T1,18.0,329.0,T2,30.0,278.0,,,,,,,,,,,,,,
+"Petite résidence sécurisée de 80 logements dans un bâtiment 3 étages, proche du centre ville et des transports.   T1 et T1 PMR : 18 à 20m² / 351€ T2 : 30m² / 273€ par personne T2 grand : 45m² / 335€ par personne",Résidence Alfred Sisley,01 64 13 01 82,273.0,351.0,335.0,,T1,20.0,351.0,T2,30.0,273.0,T2,45.0,335.0,,,,,,,,,,,
+,Résidence Les Aunettes,01 60 91 72 22 ou 01 60 91 72 25,285.0,391.0,338.0,,,13.0,,,,,,,,,,,,,,,,,,
+Résidence de 220 logements située à la cité Descartes à proximité immédiate de l'université de Gustave Eiffel et des écoles. Proche des commerces et des transports (gare RER à 5 minutes à pieds). T1 : 20m² / 394€ T2 : 33m² / 301€ par personne,Résidence Montesquieu,01 64 68 18 99,301.0,394.0,347.5,,T1,20.0,394.0,T2,33.0,301.0,,,,,,,,,,,,,,
+Résidence de 46 logements située à la cité Descartes à proximité immédiate de l'université Gustave Eiffel et des écoles. Proche des commerces et des transports (gare RER à 5 min à pieds).   T2 : 33m² / 351€ par personne,Résidence Condorcet,01 64 68 18 99,351.0,351.0,351.0,,T2,33.0,351.0,,,,,,,,,,,,,,,,,
+"Résidence de 3 étages proposant 170 logements, située dans un cadre calme et proche de toutes les commodités. T1 : 18m² / 399€ T2 : 30m² / 306€ par personne",Résidence Eugène Pottier,01 48 22 15 21,306.0,399.0,352.5,,T1,18.0,399.0,T2,30.0,306.0,,,,,,,,,,,,,,
+Résidence de 118 logements située au coeur du centre ville de Fontainebleau et proche du château.   T1 : 18 à 22m² / 406€ T2 : 30 à 40m² / 300€ par personne,Résidence Raymond Fischesser,01 60 71 12 12,300.0,406.0,353.0,,T1,22.0,406.0,T2,40.0,300.0,,,,,,,,,,,,,,
+43 T1 <20 m². Redevance 2025-2026 : 325€.3 T1 de 24 m². Redevance 2025-2026 : 357€.3 T1 de 35 m². Redevance 2025-2026 : 412€.4 T1 bis de 35 m². Redevance 2025-2026 : 238€ par personne ou 412€ seul.Bus : ligne 1 (arrêt Husson),Merleau Ponty,02 37 90 70 30,238.0,412.0,357.0,,T1,20.0,325.0,T1,24.0,357.0,T1,35.0,412.0,T1BIS,35.0,238.0,,,,,,,,
+,Résidence Les Chênes d’Or,01 75 39 88 42,292.0,425.0,358.5,,,15.0,,,,,,,,,,,,,,,,,,
+Résidence de 125 logements dans un immeuble de 3 étages proche du centre ville et de l'IUT de Sénart.   T1 et T1 PMR : 20m² / 374€ T2 : 40 à 50m² / 347€ par personne,Résidence de Lieusaint,01 64 13 01 82,347.0,374.0,360.5,,T1,20.0,374.0,T2,50.0,347.0,,,,,,,,,,,,,,
+Résidence de 55 logements réservée aux étudiants internationaux (ERASMUS). Idéalement située sur le Campus de l'Université Paris 8. Chambre : 17 à 20m² / 363€,Résidence Internationale,01 48 22 15 21,363.0,363.0,363.0,,CHAMBRE,20.0,363.0,,,,,,,,,,,,,,,,,
+,Résidence Le Square de l'Échiquier,01 75 39 88 42,345.0,394.0,369.5,,,17.5,,,,,,,,,,,,,,,,,,
+"26 T1 de 19 m². Redevance 2025-2026 : 349€.14 studios de 32 m². Redevance 2025-2026 : 400€.11 T1 bis de 32 m². Redevance 2025-2026 : 245€ par personne ou 400€ seul.Bus: ligne 2, 7 (arrêt Bas Bourgs)Le secrétariat de la résidence est situé à l'antenne du CROUS (8 place François Rabelais - 28000 Chartres).",Jean Zay,02 37 90 70 30,245.0,400.0,374.5,,T1,19.0,349.0,STUDIO,32.0,400.0,T1BIS,32.0,245.0,,,,,,,,,,,
+,Résidence Émilie du Châtelet,01 69 07 68 96 / 06 42 28 96 70,377.0,377.0,377.0,,,15.5,,,,,,,,,,,,,,,,,,
+,Résidence de Nanterre,01 41 20 32 00,266.0,506.0,386.0,,,14.5,,,,,,,,,,,,,,,,,,
+,Résidence René Cassin,01 80 73 04 00,333.0,447.0,390.0,,,15.0,,,,,,,,,,,,,,,,,,
+,Résidence George Sand,01 75 31 91 04,226.0,575.0,400.5,,,18.0,,,,,,,,,,,,,,,,,,
+"Résidence de 190 logements située à proximité des commerces, des transports et de l'Université Paris 8. T1 :16 à 18m² / 398€ T2 : 48 à 60m² / 408€ par personne",Résidence de Stains,01 48 22 15 21,398.0,408.0,403.0,,T1,18.0,398.0,T2,60.0,408.0,,,,,,,,,,,,,,
+Résidence de 140 logements à proximité immédiate de l'université Paris 8 et du métro Sain-Denis Université. T1 : 17 à 22m² / 404€ T1 bis : 30m² / 378€ par personne T2 : 35 à 45m² / 424€ par personne,Résidence Guynemer,01 48 22 15 21,378.0,424.0,404.0,,T1,22.0,404.0,T1BIS,30.0,378.0,T2,45.0,424.0,,,,,,,,,,,
+"Résidence sécurisée de 4 étages, proposant 160 logements. Idéalement située avec la gare RER à 10 minutes à pieds et à proximité du centre ville.   T1 et T1 PMR : 18 à 22 m² / 405€ T1 grand : 30m² / 578€ T2 : 25M² / 354€ par personne",Résidence Ilôt du Bel Air,01 64 13 01 82,354.0,578.0,405.0,,T1,22.0,405.0,T1,30.0,578.0,T2,25.0,354.0,,,,,,,,,,,
+"Grande résidence de 1 300 logements située sur un campus dans un cadre verdoyant et agréable. A proximité de l'IUT de Cachan,de l'EPF, Aivancity et de l'ESTP. A 2 stations de RER de Paris. Chambre : 9m² / 287€ Studette : 12m² / 314€ Studio, studio PMR, studio ULS : 20m² / 442€ T1 : 17m² / 449 à 467€ T2 : 26 à 28m² / 397 à 411€ par personne",Campus de Cachan,01 41 98 68 90,287.0,467.0,411.0,,CHAMBRE,9.0,287.0,STUD,12.0,314.0,STUDIO,20.0,442.0,T1,17.0,467.0,T2,28.0,411.0,,,,,
+,Résidence Les Bas Longchamps,01 86 63 00 90,315.0,511.0,413.0,,,17.0,,,,,,,,,,,,,,,,,,
+,Résidence Charlotte Perriand,01 86 67 10 00,398.0,431.0,414.5,,,15.5,,,,,,,,,,,,,,,,,,
+,Résidence Jean d'Ormesson,01 69 15 38 30 / 01 75 31 91 04,339.0,492.0,415.5,,,17.5,,,,,,,,,,,,,,,,,,
+Résidence sécurisée de 183 logements située à proximité des commerces et des transports. T1 : 18 à 20m² / 442€ T2 : 30 à 34m² / 390€ par personne,Résidence d’Epinay,01 48 21 86 10,390.0,442.0,416.0,,T1,20.0,442.0,T2,34.0,390.0,,,,,,,,,,,,,,
+,Résidence Pierre Soulages,01 86 67 10 00,390.0,443.0,416.5,,,16.0,,,,,,,,,,,,,,,,,,
+,Résidence Eileen Gray,01 69 15 37 38 / 01 75 31 91 04,267.0,570.0,418.5,,,17.0,,,,,,,,,,,,,,,,,,
+,Résidence Rose Valland,01 86 67 10 00,370.0,477.0,423.5,,,20.0,,,,,,,,,,,,,,,,,,
+,Résidence Le Dragueur,01 60 91 72 22 ou 01 60 91 72 25,370.0,478.0,424.0,,,16.0,,,,,,,,,,,,,,,,,,
+,Résidence  Les Jardins de Fleming,01 69 18 97 97,283.0,575.0,429.0,,,17.0,,,,,,,,,,,,,,,,,,
+Résidence de 100 logements idéalement située aux portes de Paris. A proximité du parc de la Villette.   Studette : 15 à 18m² / 384€ Studio : 19m² / 429€ T1 : 25m² / 503€,Résidence du Pré-St-Gervais,01.43.11.20.45,384.0,503.0,429.0,,STUD,18.0,384.0,STUDIO,19.0,429.0,T1,25.0,503.0,,,,,,,,,,,
+Résidence de 99 logements située à proximité immédiate de l'UPEC (faculté de Droit et faculté de santé). Proche du métro et des commerces.   T1 et T1 PMR : 15m² / 424€ T2 : 28 m² / 434€ par personne,Résidence le Trident,01 42 07 36 19,424.0,434.0,429.0,,T1,15.0,424.0,T2,28.0,434.0,,,,,,,,,,,,,,
+,Résidence Vauban,01 80 73 04 00,315.0,549.0,432.0,,,20.0,,,,,,,,,,,,,,,,,,
+,Résidence Olympe de Gouges,01 86 63 00 90,292.0,575.0,433.5,,,17.5,,,,,,,,,,,,,,,,,,
+,Résidence Flora Tristan,01 60 91 72 22 / 01 60 91 72 23 / 01 60 91 72 26,258.0,610.0,434.0,,,17.5,,,,,,,,,,,,,,,,,,
+28 rue du Colonel Pierre Avia75015 Paris,Résidence Bertelotte,01 40 51 57 08,374.47,461.55,434.11,,T2,38.0,374.47,T1,,409.55,,,,,,,,,,,,,,
+,Résidence Jean-Baptiste Lamarck,01 80 73 04 00,321.0,563.0,442.0,,,18.5,,,,,,,,,,,,,,,,,,
+,Résidence Les Linandes Mauves et l'extension,01 75 39 88 42,301.0,583.0,442.0,,,20.0,,,,,,,,,,,,,,,,,,
+,Résidence Marguerite Yourcenar,01 60 91 72 22 ou 01 60 91 72 23,357.0,530.0,443.5,,,18.5,,,,,,,,,,,,,,,,,,
+Résidence de 101 logements située à proximité des transports et des commerces. La résidence se trouve sur le campus Mail des mèches de l'UPEC et proche du Campus centre.   T1 : 20 à 28m² / 438 à 464€ T2 : 34m² / 429€ par personne,Résidence Mail des Mèches,01 42 07 36 19,429.0,464.0,446.5,,T1,28.0,464.0,T2,34.0,429.0,,,,,,,,,,,,,,
+"Adresse de la résidence 24 rue de la Harpe, Paris 5e",Résidence Hostater,01 40 51 55 72,353.8,546.4,450.1,,T1,21.0,546.4,T2,38.0,353.8,,,,,,,,,,,,,,
+,Résidence de l’Île,01 69 07 68 96 / 06 42 28 96 70,395.0,508.0,451.5,,,17.5,,,,,,,,,,,,,,,,,,
+"Idéalement située sur le Campus de Bobigny, elle offre 70 lits, répartis dans 59 logements allant du T1 au T1 bis. T1 et T1 PMR : 18m² / 452€ T1 Duplex (pour 2 personnes) : 25 à 35m² / 331€ par personne T1 Couple : 20 à 25m² / 576€",La Tour de l’Illustration,01.43.11.20.45,331.0,576.0,452.0,,T1,18.0,452.0,T1,35.0,331.0,T1,25.0,576.0,DUPLEX,35.0,331.0,,,,,,,,
+,Résidence Saints-Sauveurs,01 86 63 00 90,342.0,565.0,453.5,,,21.5,,,,,,,,,,,,,,,,,,
+,Résidence Simone Weil,01 80 73 04 00,389.0,519.0,454.0,,,17.0,,,,,,,,,,,,,,,,,,
+8 rue Francis de Croisset75018 Paris,Résidence Francis de Croisset,01 40 51 35 47,424.16,535.31,459.6950000000001,,T1,19.0,535.31,T1BIS,32.0,424.16,DUPLEX,44.0,452.48,DUPLEX,46.0,466.91,,,,,,,,
+Résidence de 150 logements à proximité des transports et des commerces. La résidence est située aux portes de Paris. T1 : 18m² / 433 à 492€ T1 PMR : 18 à 22m² / 433€,Résidence George Sand,0141986890,433.0,492.0,462.5,,T1,18.0,492.0,T1,22.0,433.0,,,,,,,,,,,,,,
+8 rue Parmentier 92200 Neuilly sur Seine,Résidence Parmentier,01 40 51 37 68,439.22,556.78,464.87,,T1,18.0,439.22,T1,20.0,464.87,T1,27.0,556.78,,,,,,,,,,48.8829841,2.2810186
+,Résidence Adrienne Bolland,01 80 73 04 00,368.0,562.0,465.0,,,18.5,,,,,,,,,,,,,,,,,,
+,Résidence Clichy,01 55 46 09 01,356.0,574.0,465.0,,,19.5,,,,,,,,,,,,,,,,,,
+"Résidence de 100 logements de type modulaire, située dans un cadre verdoyant et clos.   T1 et T1 PMR : 18m² / 465€",Résidence IRD Bondy,01.43.11.20.45,465.0,465.0,465.0,,T1,18.0,465.0,,,,,,,,,,,,,,,,,
+,Résidence Jean Zay,01 86 67 10 00,349.0,583.0,466.0,,,21.5,,,,,,,,,,,,,,,,,,
+,Résidence Irène Joliot-Curie,01 75 39 88 42,367.0,567.0,467.0,,,19.5,,,,,,,,,,,,,,,,,,
+Résidence de 111 logements située à proximité des commerces.   T1 : 18 à 22m² / 467€,Résidence de Lognes,01 64 68 18 99,467.0,467.0,467.0,,T1,22.0,467.0,,,,,,,,,,,,,,,,,
+"Loyer au 01/09/2025 69 studios de 17m² : 341,00€ - Dépôt de garantie : 221€ 4 studios adaptés handicap de 22m² : 408, 00€ - Dépôt de garantie : 286€ 2 appartement pour colocation 2 personnes de 36m²: 610,00€ - Dépôt de garantie : 468€ 1 appartement pour colocation 3 personnes de 54m²: 867,00 € - Dépôt de garantie : 702€",Résidence Elsa Triolet,04 90 80 65 22,221.0,867.0,468.0,,STUDIO,17.0,341.0,STUDIO,22.0,,STUDIO,,,,,,,,,,,,,
+,Résidence Georges Charpak,,350.0,600.0,475.0,,,21.5,,,,,,,,,,,,,,,,,,
+"Idéalement située sur le Campus Descartes, cette résidence propose 171 logements. Un Rez-de-Chaussée traversant offre tous les services nécessaires a la vie étudiante : Un foyer/cafétéria, une salle de sport, une salle collective de travail, une laverie. Les logements sont desservis par des coursives intérieures donnant sur un ATRIUM couvert. T1 : 17 à 25m² / 368 à 507€ T2 : 45m² (logement entier) / 475€ par personne T4 colocation : 85m² (logement entier) / 416€ par personne",Résidence de l'ENSA Paris-Est,01.64.68.18.99,416.0,507.0,475.0,,T1,25.0,507.0,T2,45.0,475.0,T4,85.0,416.0,,,,,,,,,,,
+,Résidence Jacqueline Auriol,01 80 73 04 00,382.0,573.0,477.5,,,22.0,,,,,,,,,,,,,,,,,,
+,Résidence Les Rives de L'Yvette,01 69 07 68 96 / 06 42 28 96 70,480.0,480.0,480.0,,,19.5,,,,,,,,,,,,,,,,,,
+"Résidence de 200 logements de type modulaire, idéalement située sur le Campus de l'Université Sorbonne Paris Nord et proche des transports. T1 : 19m² / 393€ T1 couple : 30m² / 571 €",Résidence Ilôt des Poiriers,01.48.21.86.10,393.0,571.0,482.0,,T1,19.0,393.0,T1,30.0,571.0,,,,,,,,,,,,,,
+26 avenue de l'Observatoire75014 Paris,Résidence de l'Observatoire,,421.09,546.13,483.61,,T1,18.0,421.09,T1,19.0,434.98,T1,22.0,476.66,T1,23.0,490.56,T1,25.0,518.35,T1,27.0,546.13,,
+Résidence de 157 logements composée de deux bâtiments de 4 étages. A proximité des commerces et de l'IUT de Montreuil. T1 : 18m² / 459€ T1 grand : 23m² / 510€,Résidence Square Bel Air,0143112045,459.0,510.0,484.5,,T1,18.0,459.0,T1,23.0,510.0,,,,,,,,,,,,,,
+"Résidence de 200 logements située à proximité immédiate du Campus de Bobigny, de l'IUT, de la faculté de médecine et de STAPS. T1 : 16 à 19m² / 380 à 501€ T1 grand : 20 à 24m² / 431 à 572€ T2 : 30m² / 340 à 407€ par personne",Résidence Frida Khalo,01.43.11.20.45,407.0,572.0,501.0,,T1,19.0,501.0,T1,24.0,572.0,T2,30.0,407.0,,,,,,,,,,,
+,Résidence Le Bois Guillaume,01 60 91 72 22 ou 01 60 91 72 23,360.0,644.0,502.0,,,21.0,,,,,,,,,,,,,,,,,,
+,Résidence Les Linandes Mauves,01 30 30 72 74,503.0,503.0,503.0,,,19.5,,,,,,,,,,,,,,,,,,
+"La résidence a une capacité d'accueil de 317 lits et est composée de deux bâtiments avec ascenseurs. Elle est située aux portes de Paris, à proximité des établissements d'enseignement supérieur : ESME-SUDRIA, IPSA, Lycée Ferand Léger, ESIEA, CE3P.   T1 : de 18 à 23 m² / 492€ T1 Couple : de 29 à 38 m² / 822€ T1 PMR : 23 m² / 507€ T2 Duplex : 45 m² / 505€ par personne T3 Duplex : de 54 à 72 m² / 505€ par personne",Résidence Marthe Gautier,01.42.07.36.19,492.0,822.0,505.0,,T1,23.0,492.0,T1,38.0,822.0,T1,23.0,507.0,T2,45.0,505.0,T3,72.0,505.0,DUPLEX,45.0,505.0,,
+,Résidence La Fresque,01 80 73 04 00,456.0,570.0,513.0,,,21.0,,,,,,,,,,,,,,,,,,
+,Résidence Louise Bourgeois,01 86 67 10 00,458.0,578.0,518.0,,,19.5,,,,,,,,,,,,,,,,,,
+,Résidence Jacqueline de Romilly,01 80 73 04 00,493.0,582.0,537.5,,,20.0,,,,,,,,,,,,,,,,,,
+Résidence de 129 logements située à proximité immédiate du RER A et des commerces.   T1 : 17 à 23m² / 345 à 538€,Résidence de Boissy-saint-Léger,01 42 07 36 19,538.0,538.0,538.0,,T1,23.0,538.0,,,,,,,,,,,,,,,,,
+Résidence de 115 logements située à proximité immédiate du RER A et des commerces.   T1 : 15 à 28m² / 353 à 559€,Résidence de Torcy,01 64 68 18 99,559.0,559.0,559.0,,T1,28.0,559.0,,,,,,,,,,,,,,,,,
+,Résidence Les Écuries Malaquais,01 80 73 04 00,381.0,749.0,565.0,,,21.5,,,,,,,,,,,,,,,,,,
+,Résidence Le Vieux Pozzo,01 80 73 04 00,562.0,583.0,572.5,,,21.5,,,,,,,,,,,,,,,,,,
+"Résidence de 340 logements située sur le Campus de Bobigny proche de l'IUT, de la faculté de médecine et de STAPS.   T1 et T1 PMR : 20m² / 404 à 526€ T1 grand : 22 à 30m² / 450 à 679€ T2 : 38 à 40m² / 425 à 432€ par personne T2 couple : 35m² / 776 à 788€",Résidence Campus,01.43.11.20.45,432.0,788.0,602.5,,T1,20.0,526.0,T1,30.0,679.0,T2,40.0,432.0,T2,35.0,788.0,,,,,,,,
+71 rue Castagnary75015 Paris,Résidence Castagnary,0140515708,412.01,964.49,719.56,,T1,28.5,412.01,T4,,964.49,,,,,,,,,,,,,,

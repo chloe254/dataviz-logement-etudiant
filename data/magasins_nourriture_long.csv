@@ -1,0 +1,3043 @@
+departement,libelle_de_commune,arrondissement,type,nombre
+77,Lagny-sur-Marne,775,hypermarche,1
+78,Coignières,782,hypermarche,1
+77,Collégien,775,hypermarche,1
+93,Neuilly-sur-Marne,932,hypermarche,2
+92,Boulogne-Billancourt,923,hypermarche,2
+93,Le Blanc-Mesnil,932,hypermarche,2
+95,Montigny-lès-Cormeilles,951,hypermarche,1
+77,Mareuil-lès-Meaux,771,hypermarche,1
+75,Paris 3e Arrondissement,751,hypermarche,1
+94,Boissy-Saint-Léger,941,hypermarche,1
+75,Paris 1er Arrondissement,751,hypermarche,1
+78,Vélizy-Villacoublay,784,hypermarche,1
+93,Sevran,932,hypermarche,1
+77,Coupvray,775,hypermarche,1
+94,Charenton-le-Pont,941,hypermarche,2
+94,Villejuif,943,hypermarche,1
+94,L'Haÿ-les-Roses,943,hypermarche,1
+93,Drancy,931,hypermarche,1
+78,Rambouillet,782,hypermarche,2
+92,Neuilly-sur-Seine,922,hypermarche,1
+77,Cesson,772,hypermarche,1
+93,Aubervilliers,933,hypermarche,1
+75,Paris 16e Arrondissement,751,hypermarche,4
+78,Les Mureaux,781,hypermarche,1
+75,Paris 17e Arrondissement,751,hypermarche,2
+94,Arcueil,943,hypermarche,2
+78,Conflans-Sainte-Honorine,783,hypermarche,1
+95,Cergy,953,hypermarche,1
+77,Claye-Souilly,775,hypermarche,1
+78,Achères,783,hypermarche,1
+93,Bagnolet,931,hypermarche,1
+92,Rueil-Malmaison,922,hypermarche,1
+78,Saint-Germain-en-Laye,783,hypermarche,1
+93,Villepinte,932,hypermarche,1
+75,Paris 20e Arrondissement,751,hypermarche,2
+78,Maurepas,782,hypermarche,1
+95,L'Isle-Adam,953,hypermarche,1
+95,Taverny,953,hypermarche,1
+78,Orgeval,783,hypermarche,1
+78,Montigny-le-Bretonneux,784,hypermarche,1
+91,Corbeil-Essonnes,912,hypermarche,1
+95,Garges-lès-Gonesse,952,hypermarche,1
+91,Longpont-sur-Orge,913,hypermarche,1
+77,Meaux,771,hypermarche,2
+92,Clichy,922,hypermarche,1
+92,Issy-les-Moulineaux,923,hypermarche,2
+92,Malakoff,921,hypermarche,1
+77,Coulommiers,771,hypermarche,1
+91,Itteville,911,hypermarche,1
+93,Villetaneuse,933,hypermarche,1
+91,Dourdan,911,hypermarche,1
+78,Mantes-la-Jolie,781,hypermarche,1
+95,Moisselles,952,hypermarche,1
+91,Athis-Mons,913,hypermarche,1
+78,Croissy-sur-Seine,783,hypermarche,1
+95,Franconville,953,hypermarche,1
+91,Évry,912,hypermarche,1
+94,Villeneuve-le-Roi,941,hypermarche,1
+77,Lieusaint,772,hypermarche,1
+75,Paris 14e Arrondissement,751,hypermarche,1
+91,Chamarande,911,hypermarche,1
+91,Villebon-sur-Yvette,913,hypermarche,1
+94,Champigny-sur-Marne,942,hypermarche,1
+94,Fontenay-sous-Bois,942,hypermarche,1
+75,Paris 15e Arrondissement,751,hypermarche,3
+77,Serris,775,hypermarche,1
+95,Soisy-sous-Montmorency,952,hypermarche,1
+78,Bois-d'Arcy,784,hypermarche,2
+91,Étampes,911,hypermarche,2
+92,La Garenne-Colombes,922,hypermarche,1
+93,Rosny-sous-Bois,931,hypermarche,1
+77,Villiers-en-Bière,772,hypermarche,1
+93,Le Pré-Saint-Gervais,931,hypermarche,1
+94,Créteil,941,hypermarche,1
+92,Levallois-Perret,922,hypermarche,1
+93,Clichy-sous-Bois,932,hypermarche,1
+77,Montereau-Fault-Yonne,773,hypermarche,1
+78,Chambourcy,783,hypermarche,1
+95,Sarcelles,952,hypermarche,2
+77,Vaux-le-Pénil,772,hypermarche,1
+93,Aulnay-sous-Bois,932,hypermarche,2
+91,La Ville-du-Bois,913,hypermarche,1
+92,Villeneuve-la-Garenne,922,hypermarche,1
+77,Othis,771,hypermarche,1
+77,Pontault-Combault,775,hypermarche,1
+78,Flins-sur-Seine,781,hypermarche,1
+78,Montesson,783,hypermarche,1
+94,Ivry-sur-Seine,941,hypermarche,1
+91,Saint-Michel-sur-Orge,913,hypermarche,1
+91,Boussy-Saint-Antoine,912,hypermarche,1
+93,Bobigny,931,hypermarche,1
+95,Goussainville,952,hypermarche,1
+78,Sartrouville,783,hypermarche,1
+95,Ermont,953,hypermarche,1
+95,Saint-Brice-sous-Forêt,952,hypermarche,1
+93,Noisy-le-Grand,932,hypermarche,1
+95,Sannois,951,hypermarche,1
+92,Meudon,923,hypermarche,1
+91,Vigneux-sur-Seine,912,hypermarche,1
+94,Vitry-sur-Seine,941,hypermarche,2
+92,Colombes,922,hypermarche,3
+93,Montfermeil,932,hypermarche,1
+77,Crécy-la-Chapelle,771,hypermarche,1
+91,Villabé,912,hypermarche,1
+95,Saint-Prix,953,hypermarche,1
+91,Morangis,913,hypermarche,1
+77,La Ferté-sous-Jouarre,771,hypermarche,1
+95,Gonesse,952,hypermarche,1
+92,Chaville,923,hypermarche,1
+93,Montreuil,931,hypermarche,2
+77,Provins,773,hypermarche,2
+78,Voisins-le-Bretonneux,782,hypermarche,1
+77,Avon,774,hypermarche,1
+95,Osny,953,hypermarche,2
+93,Stains,933,hypermarche,1
+92,Vaucresson,923,hypermarche,1
+91,Brétigny-sur-Orge,913,hypermarche,1
+91,Gif-sur-Yvette,913,hypermarche,1
+94,Bonneuil-sur-Marne,941,hypermarche,1
+92,Puteaux,922,hypermarche,1
+93,Saint-Denis,933,hypermarche,1
+93,Tremblay-en-France,932,hypermarche,1
+91,Les Ulis,913,hypermarche,1
+93,Épinay-sur-Seine,933,hypermarche,1
+77,Villeparisis,775,hypermarche,3
+77,Nemours,774,hypermarche,1
+92,Courbevoie,922,hypermarche,1
+91,Sainte-Geneviève-des-Bois,913,hypermarche,1
+95,Argenteuil,951,hypermarche,1
+78,Limay,781,hypermarche,1
+94,Orly,941,hypermarche,1
+94,Le Kremlin-Bicêtre,943,hypermarche,1
+91,Viry-Châtillon,912,hypermarche,1
+91,Massy,913,hypermarche,2
+78,Le Chesnay,784,hypermarche,1
+78,Buchelay,781,hypermarche,1
+95,Persan,953,hypermarche,1
+91,Courcouronnes,912,hypermarche,1
+94,Ormesson-sur-Marne,942,hypermarche,1
+78,Plaisir,784,hypermarche,1
+77,Chelles,775,hypermarche,2
+93,Pantin,931,hypermarche,1
+92,Gennevilliers,922,hypermarche,1
+92,Saint-Cloud,923,hypermarche,1
+94,Thiais,943,hypermarche,1
+95,Saint-Ouen-l'Aumône,953,hypermarche,1
+78,Carrières-sous-Poissy,783,hypermarche,2
+77,Dammarie-les-Lys,772,hypermarche,1
+75,Paris 13e Arrondissement,751,hypermarche,3
+91,Montgeron,912,hypermarche,2
+93,Livry-Gargan,932,hypermarche,2
+77,Champs-sur-Marne,775,hypermarche,1
+91,Épinay-sur-Orge,913,hypermarche,1
+95,Puiseux-en-France,952,supermarche,1
+78,Garancières,782,supermarche,2
+94,Cachan,943,supermarche,4
+77,Lagny-sur-Marne,775,supermarche,1
+91,Savigny-sur-Orge,913,supermarche,3
+93,Villemomble,931,supermarche,4
+78,Saint-Cyr-l'École,784,supermarche,3
+78,Saint-Léger-en-Yvelines,782,supermarche,1
+91,La Ferté-Alais,911,supermarche,1
+91,Marolles-en-Hurepoix,913,supermarche,1
+92,Bois-Colombes,922,supermarche,2
+78,Coignières,782,supermarche,2
+93,Neuilly-sur-Marne,932,supermarche,8
+78,La Verrière,782,supermarche,1
+78,Louveciennes,783,supermarche,1
+77,Sept-Sorts,771,supermarche,1
+92,Boulogne-Billancourt,923,supermarche,27
+78,Saint-Rémy-lès-Chevreuse,782,supermarche,2
+77,Vaires-sur-Marne,775,supermarche,1
+78,Poissy,783,supermarche,4
+91,Bures-sur-Yvette,913,supermarche,1
+91,Juvisy-sur-Orge,913,supermarche,2
+93,Le Blanc-Mesnil,932,supermarche,6
+95,Montigny-lès-Cormeilles,951,supermarche,2
+77,Mareuil-lès-Meaux,771,supermarche,2
+95,Pontoise,953,supermarche,3
+77,Moissy-Cramayel,772,supermarche,1
+77,Bailly-Romainvilliers,775,supermarche,1
+77,Montévrain,775,supermarche,1
+93,Les Pavillons-sous-Bois,931,supermarche,2
+91,Breuillet,911,supermarche,5
+77,Fontainebleau,774,supermarche,3
+75,Paris 3e Arrondissement,751,supermarche,4
+94,Boissy-Saint-Léger,941,supermarche,1
+77,Rozay-en-Brie,773,supermarche,1
+77,Thorigny-sur-Marne,775,supermarche,2
+78,Saint-Arnoult-en-Yvelines,782,supermarche,2
+91,Égly,913,supermarche,1
+95,Herblay,951,supermarche,6
+95,Beaumont-sur-Oise,953,supermarche,4
+75,Paris 1er Arrondissement,751,supermarche,2
+78,Villiers-Saint-Frédéric,782,supermarche,1
+78,Vélizy-Villacoublay,784,supermarche,2
+93,Sevran,932,supermarche,7
+91,Saint-Germain-lès-Corbeil,912,supermarche,3
+78,Épône,781,supermarche,1
+95,Marines,953,supermarche,1
+77,Fontenay-Trésigny,773,supermarche,2
+77,Saint-Soupplets,771,supermarche,2
+91,Quincy-sous-Sénart,912,supermarche,2
+94,Charenton-le-Pont,941,supermarche,3
+91,Ballancourt-sur-Essonne,912,supermarche,1
+77,Saint-Thibault-des-Vignes,775,supermarche,5
+78,Beynes,782,supermarche,1
+77,Esbly,771,supermarche,1
+92,Montrouge,921,supermarche,7
+91,Méréville,911,supermarche,1
+94,Villejuif,943,supermarche,4
+94,L'Haÿ-les-Roses,943,supermarche,4
+93,Drancy,931,supermarche,9
+91,Étréchy,911,supermarche,2
+91,Saint-Germain-lès-Arpajon,913,supermarche,3
+94,Villiers-sur-Marne,942,supermarche,5
+78,Rambouillet,782,supermarche,3
+77,Égreville,774,supermarche,1
+77,Juilly,771,supermarche,1
+78,Orgerus,781,supermarche,1
+92,Neuilly-sur-Seine,922,supermarche,10
+92,Clamart,921,supermarche,9
+77,Bussy-Saint-Georges,775,supermarche,2
+77,Gretz-Armainvilliers,772,supermarche,3
+77,Lizy-sur-Ourcq,771,supermarche,2
+91,Marcoussis,913,supermarche,1
+94,Vincennes,942,supermarche,10
+77,Cesson,772,supermarche,1
+78,La Queue-les-Yvelines,782,supermarche,2
+77,Thomery,774,supermarche,1
+91,Morigny-Champigny,911,supermarche,2
+93,Aubervilliers,933,supermarche,8
+93,Saint-Ouen,933,supermarche,5
+75,Paris 16e Arrondissement,751,supermarche,26
+91,Longjumeau,913,supermarche,3
+77,Souppes-sur-Loing,774,supermarche,2
+78,Les Mureaux,781,supermarche,3
+91,Gometz-le-Châtel,913,supermarche,1
+91,Limours,913,supermarche,2
+91,Orsay,913,supermarche,1
+78,Viroflay,784,supermarche,1
+95,Marly-la-Ville,952,supermarche,1
+75,Paris 17e Arrondissement,751,supermarche,29
+92,Bourg-la-Reine,921,supermarche,2
+93,Le Raincy,932,supermarche,3
+91,Roinville,911,supermarche,1
+92,Châtillon,921,supermarche,6
+94,Arcueil,943,supermarche,2
+78,Conflans-Sainte-Honorine,783,supermarche,4
+95,Cergy,953,supermarche,4
+77,Claye-Souilly,775,supermarche,4
+78,Achères,783,supermarche,3
+78,Les Clayes-sous-Bois,784,supermarche,1
+93,Noisy-le-Sec,931,supermarche,2
+92,Sceaux,921,supermarche,2
+77,Pringy,772,supermarche,1
+77,Saint-Fargeau-Ponthierry,772,supermarche,1
+93,Bagnolet,931,supermarche,2
+78,Noisy-le-Roi,783,supermarche,1
+78,Magnanville,781,supermarche,1
+92,Rueil-Malmaison,922,supermarche,9
+77,Combs-la-Ville,772,supermarche,5
+94,Saint-Maur-des-Fossés,941,supermarche,7
+78,Saint-Germain-en-Laye,783,supermarche,6
+77,Saint-Germain-sur-Morin,771,supermarche,1
+93,Villepinte,932,supermarche,2
+95,Jouy-le-Moutier,953,supermarche,2
+75,Paris 20e Arrondissement,751,supermarche,34
+78,Maurepas,782,supermarche,2
+93,Dugny,931,supermarche,1
+91,Leuville-sur-Orge,913,supermarche,1
+95,L'Isle-Adam,953,supermarche,3
+95,Magny-en-Vexin,953,supermarche,4
+75,Paris 5e Arrondissement,751,supermarche,6
+78,Maisons-Laffitte,783,supermarche,1
+93,Gagny,932,supermarche,3
+77,Mormant,772,supermarche,2
+91,Lisses,912,supermarche,1
+95,Vauréal,953,supermarche,2
+94,Valenton,941,supermarche,3
+95,Montmagny,952,supermarche,1
+77,Lésigny,772,supermarche,1
+95,Taverny,953,supermarche,3
+78,Orgeval,783,supermarche,4
+78,Montigny-le-Bretonneux,784,supermarche,4
+78,Saint-Nom-la-Bretèche,783,supermarche,1
+91,Oncy-sur-École,912,supermarche,1
+77,Ozoir-la-Ferrière,775,supermarche,3
+95,Maffliers,952,supermarche,1
+91,Corbeil-Essonnes,912,supermarche,2
+75,Paris 18e Arrondissement,751,supermarche,33
+95,Groslay,952,supermarche,1
+95,Garges-lès-Gonesse,952,supermarche,4
+91,Crosne,912,supermarche,1
+77,Meaux,771,supermarche,8
+92,Clichy,922,supermarche,9
+94,Villeneuve-Saint-Georges,941,supermarche,3
+94,Le Perreux-sur-Marne,942,supermarche,3
+91,Wissous,913,supermarche,1
+78,Houilles,783,supermarche,6
+92,Issy-les-Moulineaux,923,supermarche,6
+77,La Ferté-Gaucher,773,supermarche,3
+78,Carrières-sur-Seine,783,supermarche,1
+95,Luzarches,952,supermarche,1
+92,Malakoff,921,supermarche,3
+94,Sucy-en-Brie,941,supermarche,6
+75,Paris 6e Arrondissement,751,supermarche,7
+77,Coulommiers,771,supermarche,4
+95,Bessancourt,953,supermarche,2
+95,Enghien-les-Bains,952,supermarche,2
+94,Saint-Maurice,941,supermarche,4
+77,Noisiel,775,supermarche,4
+77,Servon,772,supermarche,2
+93,Villetaneuse,933,supermarche,1
+78,Bonnelles,782,supermarche,1
+95,Montmorency,952,supermarche,2
+95,Le Thillay,952,supermarche,1
+91,Dourdan,911,supermarche,3
+78,Mantes-la-Jolie,781,supermarche,4
+93,Bondy,931,supermarche,6
+91,Athis-Mons,913,supermarche,3
+78,Croissy-sur-Seine,783,supermarche,1
+95,Franconville,953,supermarche,3
+91,Évry,912,supermarche,3
+77,Mitry-Mory,771,supermarche,2
+91,Bruyères-le-Châtel,913,supermarche,1
+78,Hardricourt,781,supermarche,3
+94,Villeneuve-le-Roi,941,supermarche,2
+75,Paris 8e Arrondissement,751,supermarche,23
+77,Lieusaint,772,supermarche,1
+95,Parmain,953,supermarche,1
+91,Morsang-sur-Orge,912,supermarche,3
+91,Angerville,911,supermarche,2
+93,Les Lilas,931,supermarche,3
+75,Paris 14e Arrondissement,751,supermarche,28
+75,Paris 11e Arrondissement,751,supermarche,28
+91,Chamarande,911,supermarche,3
+95,Méry-sur-Oise,953,supermarche,1
+91,Le Coudray-Montceaux,912,supermarche,1
+91,Villebon-sur-Yvette,913,supermarche,3
+91,Vert-le-Petit,912,supermarche,1
+94,Champigny-sur-Marne,942,supermarche,12
+94,Fontenay-sous-Bois,942,supermarche,3
+95,Bernes-sur-Oise,953,supermarche,1
+75,Paris 15e Arrondissement,751,supermarche,47
+78,Houdan,781,supermarche,1
+78,Gargenville,781,supermarche,1
+95,Soisy-sous-Montmorency,952,supermarche,1
+78,Maule,781,supermarche,1
+78,Bois-d'Arcy,784,supermarche,1
+78,Élancourt,782,supermarche,3
+77,Varennes-sur-Seine,773,supermarche,4
+78,Meulan-en-Yvelines,781,supermarche,1
+91,Étampes,911,supermarche,5
+78,Magny-les-Hameaux,782,supermarche,1
+91,Saint-Vrain,913,supermarche,1
+77,Le Mée-sur-Seine,772,supermarche,3
+92,La Garenne-Colombes,922,supermarche,1
+93,Rosny-sous-Bois,931,supermarche,6
+95,Menucourt,953,supermarche,1
+78,Mareil-Marly,783,supermarche,1
+93,Neuilly-Plaisance,932,supermarche,2
+93,Le Pré-Saint-Gervais,931,supermarche,1
+78,Issou,781,supermarche,1
+94,Créteil,941,supermarche,8
+77,Saint-Mard,771,supermarche,1
+92,Levallois-Perret,922,supermarche,11
+77,Nanteuil-lès-Meaux,771,supermarche,1
+93,Clichy-sous-Bois,932,supermarche,1
+95,Viarmes,952,supermarche,2
+95,Puiseux-Pontoise,953,supermarche,1
+95,Arnouville,952,supermarche,4
+77,Croissy-Beaubourg,775,supermarche,1
+78,La Celle-Saint-Cloud,783,supermarche,4
+77,Montereau-Fault-Yonne,773,supermarche,3
+78,Chambourcy,783,supermarche,2
+91,Palaiseau,913,supermarche,2
+78,Villepreux,783,supermarche,1
+95,Sarcelles,952,supermarche,4
+77,Vaux-le-Pénil,772,supermarche,1
+95,Villiers-le-Bel,952,supermarche,6
+93,Aulnay-sous-Bois,932,supermarche,6
+91,La Ville-du-Bois,913,supermarche,1
+95,Pierrelaye,953,supermarche,1
+91,Verrières-le-Buisson,913,supermarche,3
+91,Draveil,912,supermarche,5
+77,Rebais,773,supermarche,1
+92,Villeneuve-la-Garenne,922,supermarche,2
+77,Othis,771,supermarche,2
+93,Coubron,932,supermarche,1
+94,Fresnes,943,supermarche,5
+75,Paris 9e Arrondissement,751,supermarche,19
+77,Pontault-Combault,775,supermarche,7
+78,Flins-sur-Seine,781,supermarche,1
+78,Montesson,783,supermarche,3
+94,Ivry-sur-Seine,941,supermarche,6
+78,Tessancourt-sur-Aubette,781,supermarche,1
+95,Chaumontel,952,supermarche,2
+77,Verneuil-l'Étang,772,supermarche,1
+78,Les Essarts-le-Roi,782,supermarche,1
+95,Domont,952,supermarche,1
+91,Boussy-Saint-Antoine,912,supermarche,1
+92,Châtenay-Malabry,921,supermarche,6
+93,Bobigny,931,supermarche,5
+95,Bezons,951,supermarche,5
+95,Goussainville,952,supermarche,3
+77,Écuelles,774,supermarche,2
+91,Ballainvilliers,913,supermarche,1
+77,Veneux-les-Sablons,774,supermarche,2
+78,Sartrouville,783,supermarche,2
+95,Ermont,953,supermarche,2
+95,Saint-Brice-sous-Forêt,952,supermarche,3
+93,Noisy-le-Grand,932,supermarche,9
+78,Verneuil-sur-Seine,783,supermarche,2
+95,Sannois,951,supermarche,4
+78,Rocquencourt,784,supermarche,1
+92,Meudon,923,supermarche,2
+91,Vigneux-sur-Seine,912,supermarche,3
+95,Saint-Leu-la-Forêt,953,supermarche,1
+94,Saint-Mandé,942,supermarche,4
+77,Émerainville,775,supermarche,1
+78,Fontenay-le-Fleury,784,supermarche,3
+94,Vitry-sur-Seine,941,supermarche,14
+92,Colombes,922,supermarche,7
+78,Chanteloup-les-Vignes,783,supermarche,1
+91,Baulne,911,supermarche,1
+78,Trappes,784,supermarche,1
+93,Montfermeil,932,supermarche,1
+77,Moussy-le-Neuf,771,supermarche,1
+78,Andrésy,783,supermarche,1
+78,Chatou,783,supermarche,2
+77,Rubelles,772,supermarche,1
+77,Chanteloup-en-Brie,775,supermarche,1
+78,Triel-sur-Seine,783,supermarche,1
+91,Saint-Pierre-du-Perray,912,supermarche,2
+91,Villabé,912,supermarche,1
+78,Vernouillet,783,supermarche,2
+78,Buc,784,supermarche,2
+91,Brunoy,912,supermarche,2
+92,Nanterre,922,supermarche,12
+77,Tournan-en-Brie,772,supermarche,2
+77,Crégy-lès-Meaux,771,supermarche,1
+78,Versailles,784,supermarche,5
+91,Morangis,913,supermarche,3
+77,Faremoutiers,771,supermarche,1
+92,Garches,922,supermarche,3
+95,Éragny,953,supermarche,2
+91,Fleury-Mérogis,912,supermarche,1
+77,Château-Landon,774,supermarche,1
+78,Ablis,782,supermarche,2
+77,La Ferté-sous-Jouarre,771,supermarche,3
+77,Cannes-Écluse,773,supermarche,1
+78,Jouy-en-Josas,784,supermarche,1
+77,Melun,772,supermarche,6
+91,Saint-Chéron,911,supermarche,1
+94,Noiseau,942,supermarche,2
+91,Ormoy,912,supermarche,1
+95,Gonesse,952,supermarche,1
+92,Chaville,923,supermarche,1
+93,Montreuil,931,supermarche,18
+77,Boissise-la-Bertrand,772,supermarche,1
+78,Mézières-sur-Seine,781,supermarche,1
+77,Chevry-Cossigny,772,supermarche,1
+91,Saintry-sur-Seine,912,supermarche,1
+77,Provins,773,supermarche,3
+94,Choisy-le-Roi,941,supermarche,4
+78,Méré,782,supermarche,1
+78,Voisins-le-Bretonneux,782,supermarche,1
+91,Épinay-sous-Sénart,912,supermarche,2
+94,Villecresnes,941,supermarche,3
+77,Avon,774,supermarche,3
+95,Osny,953,supermarche,1
+78,Ecquevilly,781,supermarche,1
+78,Guyancourt,784,supermarche,2
+92,Fontenay-aux-Roses,921,supermarche,1
+94,La Queue-en-Brie,942,supermarche,1
+91,Janville-sur-Juine,911,supermarche,1
+77,Trilport,771,supermarche,1
+93,Stains,933,supermarche,2
+95,Cormeilles-en-Parisis,951,supermarche,4
+91,Brétigny-sur-Orge,913,supermarche,6
+94,Nogent-sur-Marne,942,supermarche,1
+78,Freneuse,781,supermarche,3
+78,Jouars-Pontchartrain,782,supermarche,1
+91,Gif-sur-Yvette,913,supermarche,3
+95,Piscop,952,supermarche,1
+94,Bonneuil-sur-Marne,941,supermarche,6
+77,Mousseaux-lès-Bray,773,supermarche,1
+77,Bourron-Marlotte,774,supermarche,1
+92,Puteaux,922,supermarche,2
+75,Paris 2e Arrondissement,751,supermarche,4
+77,Champagne-sur-Seine,774,supermarche,2
+77,Savigny-le-Temple,772,supermarche,6
+78,Le Vésinet,783,supermarche,1
+78,Mantes-la-Ville,781,supermarche,3
+91,Étiolles,912,supermarche,1
+91,Ris-Orangis,912,supermarche,5
+94,Joinville-le-Pont,942,supermarche,1
+93,La Courneuve,933,supermarche,6
+77,Nangis,773,supermarche,7
+77,Boissy-le-Châtel,771,supermarche,1
+92,Sèvres,923,supermarche,3
+93,Saint-Denis,933,supermarche,5
+95,Saint-Witz,952,supermarche,1
+91,Le Plessis-Pâté,913,supermarche,1
+93,Tremblay-en-France,932,supermarche,1
+95,Auvers-sur-Oise,953,supermarche,3
+77,La Chapelle-la-Reine,774,supermarche,1
+94,Chevilly-Larue,943,supermarche,1
+95,Eaubonne,953,supermarche,4
+77,Brie-Comte-Robert,772,supermarche,5
+77,Samoreau,774,supermarche,1
+91,Les Ulis,913,supermarche,3
+93,Pierrefitte-sur-Seine,933,supermarche,5
+93,Épinay-sur-Seine,933,supermarche,8
+91,Montlhéry,913,supermarche,1
+77,Vulaines-sur-Seine,774,supermarche,1
+77,Villeparisis,775,supermarche,3
+75,Paris 7e Arrondissement,751,supermarche,15
+92,Vanves,921,supermarche,3
+91,Chilly-Mazarin,913,supermarche,6
+77,Saint-Pierre-lès-Nemours,774,supermarche,2
+78,Thoiry,782,supermarche,1
+91,Yerres,912,supermarche,3
+94,Marolles-en-Brie,941,supermarche,1
+78,Saint-Hilarion,782,supermarche,1
+77,Nemours,774,supermarche,5
+92,Courbevoie,922,supermarche,14
+91,Sainte-Geneviève-des-Bois,913,supermarche,5
+75,Paris 12e Arrondissement,751,supermarche,25
+95,Deuil-la-Barre,952,supermarche,3
+95,Écouen,952,supermarche,1
+77,Vert-Saint-Denis,772,supermarche,1
+77,Bray-sur-Seine,773,supermarche,2
+95,Argenteuil,951,supermarche,10
+78,Chavenay,783,supermarche,1
+75,Paris 19e Arrondissement,751,supermarche,27
+78,Limay,781,supermarche,1
+94,Orly,941,supermarche,1
+94,Le Kremlin-Bicêtre,943,supermarche,3
+91,Viry-Châtillon,912,supermarche,5
+78,L'Étang-la-Ville,783,supermarche,1
+95,Le Plessis-Bouchard,953,supermarche,1
+95,Louvres,952,supermarche,1
+78,Bréval,781,supermarche,1
+92,Le Plessis-Robinson,921,supermarche,2
+91,Massy,913,supermarche,8
+78,Le Port-Marly,783,supermarche,1
+78,Le Chesnay,784,supermarche,3
+77,Longperrier,771,supermarche,1
+78,Maulette,781,supermarche,2
+95,Persan,953,supermarche,1
+93,Romainville,931,supermarche,4
+91,Courcouronnes,912,supermarche,1
+92,Ville-d'Avray,923,supermarche,3
+94,Chennevières-sur-Marne,942,supermarche,6
+92,Suresnes,922,supermarche,8
+91,Bondoufle,912,supermarche,1
+77,Ferrières-en-Brie,775,supermarche,1
+91,Grigny,912,supermarche,2
+94,Limeil-Brévannes,941,supermarche,1
+91,Maisse,912,supermarche,1
+92,Antony,921,supermarche,8
+77,Dammartin-en-Goële,771,supermarche,2
+77,Roissy-en-Brie,775,supermarche,4
+78,Plaisir,784,supermarche,3
+77,Guignes,772,supermarche,1
+94,Le Plessis-Trévise,942,supermarche,2
+77,Chelles,775,supermarche,6
+91,Milly-la-Forêt,912,supermarche,1
+78,Le Mesnil-Saint-Denis,782,supermarche,2
+77,Nandy,772,supermarche,1
+78,Le Pecq,783,supermarche,1
+95,Saint-Gratien,952,supermarche,5
+93,Pantin,931,supermarche,10
+94,Gentilly,943,supermarche,4
+92,Gennevilliers,922,supermarche,1
+92,Saint-Cloud,923,supermarche,2
+93,Le Bourget,931,supermarche,2
+92,Asnières-sur-Seine,922,supermarche,14
+92,Bagneux,921,supermarche,4
+94,Thiais,943,supermarche,3
+77,Chartrettes,772,supermarche,1
+77,Mouroux,771,supermarche,2
+91,Mennecy,912,supermarche,1
+94,Maisons-Alfort,941,supermarche,9
+95,Saint-Ouen-l'Aumône,953,supermarche,4
+78,Carrières-sous-Poissy,783,supermarche,2
+78,Juziers,781,supermarche,1
+78,Mareil-sur-Mauldre,781,supermarche,1
+91,Arpajon,913,supermarche,3
+77,Dammarie-les-Lys,772,supermarche,3
+94,Alfortville,941,supermarche,4
+77,Lognes,775,supermarche,3
+75,Paris 4e Arrondissement,751,supermarche,3
+75,Paris 13e Arrondissement,751,supermarche,28
+91,Montgeron,912,supermarche,2
+78,Marly-le-Roi,783,supermarche,2
+75,Paris 10e Arrondissement,751,supermarche,21
+93,Livry-Gargan,932,supermarche,4
+78,Le Mesnil-le-Roi,783,supermarche,2
+78,Le Perray-en-Yvelines,782,supermarche,1
+77,Champs-sur-Marne,775,supermarche,2
+94,Bry-sur-Marne,942,supermarche,1
+94,Cachan,943,superette,2
+77,Lagny-sur-Marne,775,superette,1
+91,Savigny-sur-Orge,913,superette,3
+93,Villemomble,931,superette,4
+78,Saint-Cyr-l'École,784,superette,1
+92,Bois-Colombes,922,superette,3
+78,Coignières,782,superette,1
+93,Neuilly-sur-Marne,932,superette,2
+78,Louveciennes,783,superette,1
+77,Torcy,775,superette,2
+92,Boulogne-Billancourt,923,superette,17
+78,Poissy,783,superette,1
+91,Bures-sur-Yvette,913,superette,1
+78,Septeuil,781,superette,2
+93,Le Blanc-Mesnil,932,superette,5
+95,Pontoise,953,superette,2
+78,Vaux-sur-Seine,781,superette,1
+93,Les Pavillons-sous-Bois,931,superette,1
+91,Breuillet,911,superette,1
+75,Paris 3e Arrondissement,751,superette,12
+77,Rozay-en-Brie,773,superette,1
+77,Thorigny-sur-Marne,775,superette,1
+95,Herblay,951,superette,1
+75,Paris 1er Arrondissement,751,superette,9
+78,Vélizy-Villacoublay,784,superette,1
+78,Épône,781,superette,1
+94,Charenton-le-Pont,941,superette,1
+92,Montrouge,921,superette,4
+94,Villejuif,943,superette,5
+94,L'Haÿ-les-Roses,943,superette,1
+93,Drancy,931,superette,3
+94,Villiers-sur-Marne,942,superette,3
+78,Rambouillet,782,superette,1
+91,Nozay,913,superette,1
+78,Orgerus,781,superette,1
+92,Neuilly-sur-Seine,922,superette,8
+92,Clamart,921,superette,2
+77,Saint-Mammès,774,superette,1
+91,Marcoussis,913,superette,1
+94,Vincennes,942,superette,6
+77,Ury,774,superette,1
+91,Morigny-Champigny,911,superette,1
+93,Aubervilliers,933,superette,7
+93,Saint-Ouen,933,superette,4
+75,Paris 16e Arrondissement,751,superette,20
+91,Longjumeau,913,superette,2
+78,Les Mureaux,781,superette,3
+78,Fourqueux,783,superette,1
+78,Viroflay,784,superette,2
+75,Paris 17e Arrondissement,751,superette,30
+92,Châtillon,921,superette,2
+78,Conflans-Sainte-Honorine,783,superette,2
+95,Cergy,953,superette,5
+77,Claye-Souilly,775,superette,1
+78,Les Clayes-sous-Bois,784,superette,3
+93,Noisy-le-Sec,931,superette,1
+92,Sceaux,921,superette,2
+77,Saint-Fargeau-Ponthierry,772,superette,2
+93,Bagnolet,931,superette,2
+92,Rueil-Malmaison,922,superette,6
+94,Saint-Maur-des-Fossés,941,superette,9
+78,Saint-Germain-en-Laye,783,superette,2
+77,Saint-Germain-sur-Morin,771,superette,1
+93,Villepinte,932,superette,1
+75,Paris 20e Arrondissement,751,superette,27
+78,Maurepas,782,superette,1
+93,Dugny,931,superette,1
+95,Magny-en-Vexin,953,superette,1
+91,Lardy,911,superette,1
+75,Paris 5e Arrondissement,751,superette,11
+77,Quincy-Voisins,771,superette,1
+78,Maisons-Laffitte,783,superette,2
+93,Gagny,932,superette,1
+91,Lisses,912,superette,1
+95,Taverny,953,superette,1
+78,Orgeval,783,superette,1
+78,Montigny-le-Bretonneux,784,superette,6
+78,Saint-Nom-la-Bretèche,783,superette,1
+75,Paris 18e Arrondissement,751,superette,20
+77,Meaux,771,superette,2
+92,Clichy,922,superette,9
+94,Villeneuve-Saint-Georges,941,superette,4
+94,Le Perreux-sur-Marne,942,superette,3
+78,Houilles,783,superette,4
+92,Issy-les-Moulineaux,923,superette,4
+78,Carrières-sur-Seine,783,superette,2
+91,Boissy-sous-Saint-Yon,911,superette,1
+92,Malakoff,921,superette,5
+75,Paris 6e Arrondissement,751,superette,12
+77,Coulommiers,771,superette,2
+77,Brou-sur-Chantereine,775,superette,1
+95,Enghien-les-Bains,952,superette,1
+94,Saint-Maurice,941,superette,1
+95,Roissy-en-France,952,superette,3
+78,Mantes-la-Jolie,781,superette,4
+93,Bondy,931,superette,2
+91,Athis-Mons,913,superette,3
+78,Croissy-sur-Seine,783,superette,1
+95,Franconville,953,superette,1
+91,Évry,912,superette,4
+77,Mitry-Mory,771,superette,2
+78,Hardricourt,781,superette,1
+75,Paris 8e Arrondissement,751,superette,13
+91,Morsang-sur-Orge,912,superette,1
+75,Paris 14e Arrondissement,751,superette,12
+77,Longueville,773,superette,1
+77,Coulombs-en-Valois,771,superette,1
+75,Paris 11e Arrondissement,751,superette,29
+94,Champigny-sur-Marne,942,superette,4
+94,Fontenay-sous-Bois,942,superette,2
+75,Paris 15e Arrondissement,751,superette,32
+77,Serris,775,superette,1
+78,Houdan,781,superette,2
+95,Soisy-sous-Montmorency,952,superette,2
+78,Bois-d'Arcy,784,superette,1
+78,Meulan-en-Yvelines,781,superette,2
+78,Magny-les-Hameaux,782,superette,1
+92,La Garenne-Colombes,922,superette,4
+93,Rosny-sous-Bois,931,superette,2
+93,Neuilly-Plaisance,932,superette,1
+93,Le Pré-Saint-Gervais,931,superette,2
+94,Créteil,941,superette,5
+77,Saint-Mard,771,superette,1
+92,Levallois-Perret,922,superette,8
+77,Nanteuil-lès-Meaux,771,superette,1
+78,La Celle-Saint-Cloud,783,superette,2
+78,Villepreux,783,superette,1
+95,Sarcelles,952,superette,7
+77,Vaux-le-Pénil,772,superette,1
+77,Montigny-sur-Loing,774,superette,2
+93,Aulnay-sous-Bois,932,superette,3
+91,Draveil,912,superette,1
+77,Rebais,773,superette,1
+78,Bougival,783,superette,1
+92,Villeneuve-la-Garenne,922,superette,2
+94,Fresnes,943,superette,2
+75,Paris 9e Arrondissement,751,superette,17
+94,Ivry-sur-Seine,941,superette,3
+95,Bruyères-sur-Oise,953,superette,1
+93,Bobigny,931,superette,2
+95,Bezons,951,superette,2
+95,Goussainville,952,superette,1
+91,Ballainvilliers,913,superette,1
+78,Sartrouville,783,superette,1
+77,La Rochette,772,superette,1
+77,Maisoncelles-en-Brie,771,superette,1
+95,Ermont,953,superette,2
+78,Cernay-la-Ville,782,superette,1
+93,Noisy-le-Grand,932,superette,1
+95,Sannois,951,superette,5
+92,Meudon,923,superette,2
+91,Vigneux-sur-Seine,912,superette,2
+95,Saint-Leu-la-Forêt,953,superette,2
+95,Frépillon,953,superette,1
+94,Saint-Mandé,942,superette,2
+95,Mériel,953,superette,1
+94,Vitry-sur-Seine,941,superette,1
+95,Montsoult,952,superette,1
+92,Colombes,922,superette,5
+94,Rungis,943,superette,1
+91,Cheptainville,913,superette,1
+77,Crécy-la-Chapelle,771,superette,2
+78,Andrésy,783,superette,1
+78,Triel-sur-Seine,783,superette,1
+78,Vernouillet,783,superette,2
+92,Nanterre,922,superette,6
+77,Tournan-en-Brie,772,superette,1
+91,Linas,913,superette,1
+78,Versailles,784,superette,11
+92,Garches,922,superette,2
+91,Fleury-Mérogis,912,superette,1
+77,Château-Landon,774,superette,1
+78,Jouy-en-Josas,784,superette,1
+77,Melun,772,superette,2
+91,Saint-Chéron,911,superette,1
+95,Gonesse,952,superette,3
+92,Chaville,923,superette,3
+93,Montreuil,931,superette,5
+77,Bagneaux-sur-Loing,774,superette,1
+95,Nesles-la-Vallée,953,superette,1
+94,Choisy-le-Roi,941,superette,4
+95,Vémars,952,superette,1
+78,Voisins-le-Bretonneux,782,superette,1
+77,Avon,774,superette,1
+95,Osny,953,superette,1
+92,Fontenay-aux-Roses,921,superette,2
+93,Stains,933,superette,1
+95,Cormeilles-en-Parisis,951,superette,1
+94,Nogent-sur-Marne,942,superette,5
+91,Champcueil,912,superette,1
+94,Bonneuil-sur-Marne,941,superette,1
+77,Bourron-Marlotte,774,superette,1
+92,Puteaux,922,superette,6
+75,Paris 2e Arrondissement,751,superette,9
+91,Igny,913,superette,2
+77,Savigny-le-Temple,772,superette,1
+78,Mantes-la-Ville,781,superette,1
+91,Ris-Orangis,912,superette,2
+94,Joinville-le-Pont,942,superette,3
+77,Nangis,773,superette,2
+92,Sèvres,923,superette,1
+93,Saint-Denis,933,superette,9
+91,Le Plessis-Pâté,913,superette,1
+93,Tremblay-en-France,932,superette,3
+94,Chevilly-Larue,943,superette,1
+95,Eaubonne,953,superette,1
+77,Brie-Comte-Robert,772,superette,1
+93,Pierrefitte-sur-Seine,933,superette,2
+91,Gometz-la-Ville,913,superette,1
+93,Épinay-sur-Seine,933,superette,3
+91,Montlhéry,913,superette,1
+77,Villeparisis,775,superette,2
+75,Paris 7e Arrondissement,751,superette,11
+92,Vanves,921,superette,3
+77,La Chapelle-Gauthier,772,superette,1
+91,Yerres,912,superette,3
+92,Courbevoie,922,superette,3
+91,Sainte-Geneviève-des-Bois,913,superette,2
+75,Paris 12e Arrondissement,751,superette,21
+95,Deuil-la-Barre,952,superette,3
+95,Argenteuil,951,superette,4
+78,Bonnières-sur-Seine,781,superette,1
+75,Paris 19e Arrondissement,751,superette,32
+78,Limay,781,superette,2
+94,Orly,941,superette,1
+94,Le Kremlin-Bicêtre,943,superette,3
+91,Viry-Châtillon,912,superette,1
+78,Aubergenville,781,superette,1
+95,Louvres,952,superette,1
+92,Le Plessis-Robinson,921,superette,1
+91,Ollainville,913,superette,1
+78,Le Chesnay,784,superette,1
+77,Voulx,774,superette,1
+78,Longnes,781,superette,1
+93,Romainville,931,superette,3
+91,Courcouronnes,912,superette,1
+92,Ville-d'Avray,923,superette,2
+93,Gournay-sur-Marne,932,superette,1
+94,Chennevières-sur-Marne,942,superette,1
+78,Les Bréviaires,782,superette,1
+91,Grigny,912,superette,1
+94,Limeil-Brévannes,941,superette,2
+92,Antony,921,superette,2
+77,Dammartin-en-Goële,771,superette,1
+77,Roissy-en-Brie,775,superette,2
+78,Plaisir,784,superette,2
+94,Le Plessis-Trévise,942,superette,1
+95,Valmondois,953,superette,1
+77,Chelles,775,superette,6
+78,Le Pecq,783,superette,1
+95,Saint-Gratien,952,superette,1
+93,Pantin,931,superette,2
+94,Gentilly,943,superette,2
+92,Gennevilliers,922,superette,1
+92,Saint-Cloud,923,superette,2
+93,Le Bourget,931,superette,1
+92,Asnières-sur-Seine,922,superette,10
+92,Bagneux,921,superette,2
+78,Porcheville,781,superette,1
+94,Thiais,943,superette,4
+91,Villiers-sur-Orge,913,superette,1
+91,Mennecy,912,superette,1
+94,Maisons-Alfort,941,superette,4
+95,Saint-Ouen-l'Aumône,953,superette,1
+77,Dammarie-les-Lys,772,superette,1
+94,Alfortville,941,superette,2
+77,Lognes,775,superette,4
+75,Paris 4e Arrondissement,751,superette,8
+75,Paris 13e Arrondissement,751,superette,24
+75,Paris 10e Arrondissement,751,superette,26
+91,Soisy-sur-Seine,912,superette,1
+93,Livry-Gargan,932,superette,3
+78,Le Perray-en-Yvelines,782,superette,1
+77,Champs-sur-Marne,775,superette,2
+77,Courtomer,772,epicerie,1
+78,Garancières,782,epicerie,1
+94,Cachan,943,epicerie,5
+77,Lagny-sur-Marne,775,epicerie,8
+91,Savigny-sur-Orge,913,epicerie,13
+93,Villemomble,931,epicerie,19
+77,Annet-sur-Marne,775,epicerie,1
+95,La Roche-Guyon,953,epicerie,1
+77,Le Mesnil-Amelot,771,epicerie,1
+78,Saint-Cyr-l'École,784,epicerie,7
+77,Jossigny,775,epicerie,1
+91,La Ferté-Alais,911,epicerie,1
+77,Perthes,772,epicerie,1
+92,Bois-Colombes,922,epicerie,13
+94,Mandres-les-Roses,941,epicerie,2
+78,Coignières,782,epicerie,2
+78,Le Tremblay-sur-Mauldre,782,epicerie,2
+77,Collégien,775,epicerie,1
+91,Saclas,911,epicerie,1
+93,Neuilly-sur-Marne,932,epicerie,14
+78,Louveciennes,783,epicerie,6
+77,Torcy,775,epicerie,9
+92,Boulogne-Billancourt,923,epicerie,63
+78,Saint-Rémy-lès-Chevreuse,782,epicerie,1
+77,Vaires-sur-Marne,775,epicerie,4
+78,Médan,783,epicerie,1
+78,Poissy,783,epicerie,12
+91,Bures-sur-Yvette,913,epicerie,1
+78,Septeuil,781,epicerie,1
+91,Juvisy-sur-Orge,913,epicerie,15
+93,Le Blanc-Mesnil,932,epicerie,15
+95,Montigny-lès-Cormeilles,951,epicerie,4
+77,Mareuil-lès-Meaux,771,epicerie,1
+77,Solers,772,epicerie,1
+95,Pontoise,953,epicerie,14
+77,Lorrez-le-Bocage-Préaux,774,epicerie,1
+77,Moissy-Cramayel,772,epicerie,6
+77,Bailly-Romainvilliers,775,epicerie,1
+77,Montévrain,775,epicerie,2
+93,Les Pavillons-sous-Bois,931,epicerie,15
+91,Breuillet,911,epicerie,1
+77,Fontainebleau,774,epicerie,6
+78,Bazemont,781,epicerie,1
+75,Paris 3e Arrondissement,751,epicerie,34
+94,Boissy-Saint-Léger,941,epicerie,4
+77,Rozay-en-Brie,773,epicerie,1
+77,Thorigny-sur-Marne,775,epicerie,4
+78,Saint-Arnoult-en-Yvelines,782,epicerie,1
+95,Herblay,951,epicerie,4
+95,Beaumont-sur-Oise,953,epicerie,4
+75,Paris 1er Arrondissement,751,epicerie,25
+78,Villiers-Saint-Frédéric,782,epicerie,1
+78,Vélizy-Villacoublay,784,epicerie,1
+93,Sevran,932,epicerie,19
+95,Commeny,953,epicerie,1
+91,Briis-sous-Forges,913,epicerie,1
+95,Bray-et-Lû,953,epicerie,1
+77,La Grande-Paroisse,773,epicerie,1
+77,Ozouer-le-Voulgis,772,epicerie,1
+91,Saint-Germain-lès-Corbeil,912,epicerie,1
+77,Sablonnières,773,epicerie,1
+95,Fosses,952,epicerie,5
+78,Épône,781,epicerie,1
+77,Bellot,773,epicerie,1
+95,Marines,953,epicerie,1
+77,Saint-Soupplets,771,epicerie,2
+91,Quincy-sous-Sénart,912,epicerie,1
+91,Saclay,913,epicerie,1
+94,Charenton-le-Pont,941,epicerie,11
+91,Ballancourt-sur-Essonne,912,epicerie,2
+77,Saint-Thibault-des-Vignes,775,epicerie,1
+78,Beynes,782,epicerie,3
+77,Esbly,771,epicerie,5
+92,Montrouge,921,epicerie,23
+91,Méréville,911,epicerie,1
+94,Villejuif,943,epicerie,20
+94,L'Haÿ-les-Roses,943,epicerie,8
+93,Drancy,931,epicerie,42
+91,Étréchy,911,epicerie,1
+94,Villiers-sur-Marne,942,epicerie,8
+78,Rambouillet,782,epicerie,5
+77,Égreville,774,epicerie,1
+95,Seraincourt,953,epicerie,1
+95,Margency,952,epicerie,2
+91,Nozay,913,epicerie,2
+91,Brières-les-Scellés,911,epicerie,1
+77,Blandy,772,epicerie,1
+77,Les Ormes-sur-Voulzie,773,epicerie,1
+77,Touquin,773,epicerie,1
+78,Orgerus,781,epicerie,1
+92,Neuilly-sur-Seine,922,epicerie,16
+92,Clamart,921,epicerie,23
+77,Saint-Mammès,774,epicerie,1
+77,Bussy-Saint-Georges,775,epicerie,2
+94,Périgny,941,epicerie,1
+77,Gretz-Armainvilliers,772,epicerie,4
+91,Ormoy-la-Rivière,911,epicerie,1
+77,Lizy-sur-Ourcq,771,epicerie,3
+94,Vincennes,942,epicerie,29
+77,Cesson,772,epicerie,1
+77,Saint-Jean-les-Deux-Jumeaux,771,epicerie,1
+77,Chaumes-en-Brie,772,epicerie,2
+77,Presles-en-Brie,772,epicerie,1
+78,La Queue-les-Yvelines,782,epicerie,2
+77,Échouboulains,772,epicerie,1
+91,Morigny-Champigny,911,epicerie,1
+95,Ézanville,952,epicerie,1
+91,Authon-la-Plaine,911,epicerie,1
+93,Aubervilliers,933,epicerie,79
+95,La Frette-sur-Seine,951,epicerie,2
+93,Saint-Ouen,933,epicerie,32
+75,Paris 16e Arrondissement,751,epicerie,107
+91,Longjumeau,913,epicerie,6
+77,Souppes-sur-Loing,774,epicerie,4
+91,Le Val-Saint-Germain,911,epicerie,1
+78,Les Mureaux,781,epicerie,17
+91,Limours,913,epicerie,1
+91,Orsay,913,epicerie,6
+91,Pecqueuse,913,epicerie,1
+78,Viroflay,784,epicerie,4
+75,Paris 17e Arrondissement,751,epicerie,137
+92,Bourg-la-Reine,921,epicerie,10
+93,Le Raincy,932,epicerie,12
+77,Mauregard,771,epicerie,2
+77,Châtenay-sur-Seine,773,epicerie,1
+77,Marolles-sur-Seine,773,epicerie,1
+92,Châtillon,921,epicerie,5
+94,Arcueil,943,epicerie,7
+78,Conflans-Sainte-Honorine,783,epicerie,5
+95,Cergy,953,epicerie,17
+77,Claye-Souilly,775,epicerie,1
+78,Achères,783,epicerie,3
+78,Les Clayes-sous-Bois,784,epicerie,3
+93,Noisy-le-Sec,931,epicerie,25
+77,Couilly-Pont-aux-Dames,771,epicerie,1
+92,Sceaux,921,epicerie,6
+91,Vauhallan,913,epicerie,2
+91,Boissy-le-Cutté,911,epicerie,1
+77,Saint-Fargeau-Ponthierry,772,epicerie,5
+93,Bagnolet,931,epicerie,21
+78,Noisy-le-Roi,783,epicerie,1
+78,Magnanville,781,epicerie,1
+92,Rueil-Malmaison,922,epicerie,13
+95,Santeuil,953,epicerie,1
+77,Combs-la-Ville,772,epicerie,2
+94,Saint-Maur-des-Fossés,941,epicerie,28
+91,Corbreuse,911,epicerie,1
+77,Courtry,775,epicerie,4
+94,Ablon-sur-Seine,941,epicerie,2
+78,Saint-Germain-en-Laye,783,epicerie,16
+77,Saint-Germain-Laval,773,epicerie,1
+77,Samois-sur-Seine,774,epicerie,1
+93,Villepinte,932,epicerie,5
+95,Jouy-le-Moutier,953,epicerie,2
+75,Paris 20e Arrondissement,751,epicerie,184
+78,Maurepas,782,epicerie,3
+93,Dugny,931,epicerie,7
+91,Leuville-sur-Orge,913,epicerie,2
+78,Montfort-l'Amaury,782,epicerie,3
+95,L'Isle-Adam,953,epicerie,1
+95,Magny-en-Vexin,953,epicerie,2
+91,Lardy,911,epicerie,3
+75,Paris 5e Arrondissement,751,epicerie,66
+77,Quincy-Voisins,771,epicerie,1
+78,Maisons-Laffitte,783,epicerie,6
+93,Gagny,932,epicerie,10
+77,Coubert,772,epicerie,1
+77,Mormant,772,epicerie,2
+91,La Norville,913,epicerie,1
+78,Bailly,783,epicerie,1
+95,Vauréal,953,epicerie,4
+94,Valenton,941,epicerie,5
+95,Montmagny,952,epicerie,2
+95,Courdimanche,953,epicerie,1
+77,Lésigny,772,epicerie,1
+91,Saulx-les-Chartreux,913,epicerie,4
+95,Cormeilles-en-Vexin,953,epicerie,2
+95,Taverny,953,epicerie,3
+78,Orgeval,783,epicerie,2
+78,Montigny-le-Bretonneux,784,epicerie,2
+78,Saint-Nom-la-Bretèche,783,epicerie,1
+91,Forges-les-Bains,913,epicerie,2
+77,Villemaréchal,774,epicerie,1
+77,Ozoir-la-Ferrière,775,epicerie,6
+78,La Boissière-École,782,epicerie,1
+91,Corbeil-Essonnes,912,epicerie,28
+75,Paris 18e Arrondissement,751,epicerie,260
+77,Villiers-Saint-Georges,773,epicerie,2
+95,Groslay,952,epicerie,6
+95,Garges-lès-Gonesse,952,epicerie,12
+91,Longpont-sur-Orge,913,epicerie,1
+91,Crosne,912,epicerie,5
+77,Meaux,771,epicerie,18
+92,Clichy,922,epicerie,40
+78,Bullion,782,epicerie,1
+94,Villeneuve-Saint-Georges,941,epicerie,26
+94,Le Perreux-sur-Marne,942,epicerie,12
+91,Wissous,913,epicerie,3
+78,Houilles,783,epicerie,13
+95,Le Mesnil-Aubry,952,epicerie,1
+92,Issy-les-Moulineaux,923,epicerie,19
+77,La Ferté-Gaucher,773,epicerie,2
+91,Boissy-sous-Saint-Yon,911,epicerie,1
+77,May-en-Multien,771,epicerie,2
+92,Malakoff,921,epicerie,15
+94,Sucy-en-Brie,941,epicerie,8
+75,Paris 6e Arrondissement,751,epicerie,40
+77,Coulommiers,771,epicerie,3
+77,Cély,772,epicerie,1
+77,Brou-sur-Chantereine,775,epicerie,3
+77,Pontcarré,775,epicerie,1
+77,Le Châtelet-en-Brie,772,epicerie,1
+77,Le Pin,775,epicerie,1
+95,Bessancourt,953,epicerie,1
+95,Enghien-les-Bains,952,epicerie,5
+91,Itteville,911,epicerie,1
+94,Saint-Maurice,941,epicerie,6
+95,Bouffémont,952,epicerie,1
+77,Noisiel,775,epicerie,12
+95,Nucourt,953,epicerie,2
+77,Servon,772,epicerie,1
+93,Villetaneuse,933,epicerie,3
+95,Montmorency,952,epicerie,3
+95,Le Thillay,952,epicerie,2
+91,Dourdan,911,epicerie,1
+78,Mantes-la-Jolie,781,epicerie,21
+95,Moisselles,952,epicerie,1
+93,Bondy,931,epicerie,24
+91,Athis-Mons,913,epicerie,5
+77,Jouy-le-Châtel,773,epicerie,1
+95,Franconville,953,epicerie,8
+91,Évry,912,epicerie,20
+77,Mitry-Mory,771,epicerie,6
+77,Thieux,771,epicerie,1
+94,Villeneuve-le-Roi,941,epicerie,6
+77,Seine-Port,772,epicerie,2
+75,Paris 8e Arrondissement,751,epicerie,51
+77,Lieusaint,772,epicerie,2
+95,Parmain,953,epicerie,1
+91,Morsang-sur-Orge,912,epicerie,3
+91,Angerville,911,epicerie,1
+93,Les Lilas,931,epicerie,10
+75,Paris 14e Arrondissement,751,epicerie,105
+75,Paris 11e Arrondissement,751,epicerie,154
+78,Neauphle-le-Château,782,epicerie,1
+77,Chailly-en-Bière,772,epicerie,1
+77,La Chapelle-Saint-Sulpice,773,epicerie,1
+95,Méry-sur-Oise,953,epicerie,1
+91,Le Coudray-Montceaux,912,epicerie,1
+77,Villeneuve-le-Comte,773,epicerie,1
+91,Villebon-sur-Yvette,913,epicerie,2
+77,Poigny,773,epicerie,1
+94,Champigny-sur-Marne,942,epicerie,41
+94,Fontenay-sous-Bois,942,epicerie,19
+75,Paris 15e Arrondissement,751,epicerie,132
+77,Serris,775,epicerie,1
+95,Maudétour-en-Vexin,953,epicerie,1
+78,Guernes,781,epicerie,1
+77,Jouy-sur-Morin,773,epicerie,2
+78,Houdan,781,epicerie,2
+78,Gargenville,781,epicerie,1
+95,Soisy-sous-Montmorency,952,epicerie,5
+78,Maule,781,epicerie,1
+78,Bois-d'Arcy,784,epicerie,1
+78,Élancourt,782,epicerie,6
+78,Meulan-en-Yvelines,781,epicerie,2
+91,Étampes,911,epicerie,9
+77,Fontenailles,772,epicerie,1
+91,Saint-Vrain,913,epicerie,1
+77,Le Mée-sur-Seine,772,epicerie,9
+78,Nézel,781,epicerie,1
+92,La Garenne-Colombes,922,epicerie,12
+93,Rosny-sous-Bois,931,epicerie,12
+93,Neuilly-Plaisance,932,epicerie,8
+77,Chenoise,773,epicerie,2
+91,Mondeville,911,epicerie,1
+93,Le Pré-Saint-Gervais,931,epicerie,16
+78,Issou,781,epicerie,1
+93,Vaujours,932,epicerie,4
+94,Créteil,941,epicerie,25
+92,Levallois-Perret,922,epicerie,30
+78,Gambais,781,epicerie,1
+77,Nanteuil-lès-Meaux,771,epicerie,3
+93,Clichy-sous-Bois,932,epicerie,18
+95,Viarmes,952,epicerie,2
+78,Bazainville,781,epicerie,1
+77,Congis-sur-Thérouanne,771,epicerie,1
+95,Puiseux-Pontoise,953,epicerie,1
+95,Arnouville,952,epicerie,10
+77,Croissy-Beaubourg,775,epicerie,1
+78,La Celle-Saint-Cloud,783,epicerie,3
+77,Montereau-Fault-Yonne,773,epicerie,17
+77,Marles-en-Brie,773,epicerie,1
+91,Palaiseau,913,epicerie,8
+95,Sarcelles,952,epicerie,35
+77,Vaux-le-Pénil,772,epicerie,3
+77,Chessy,775,epicerie,1
+95,Villiers-le-Bel,952,epicerie,16
+93,Aulnay-sous-Bois,932,epicerie,34
+95,Pierrelaye,953,epicerie,5
+91,Verrières-le-Buisson,913,epicerie,3
+91,Draveil,912,epicerie,11
+77,Rebais,773,epicerie,1
+78,Bougival,783,epicerie,4
+92,Villeneuve-la-Garenne,922,epicerie,5
+95,Saint-Clair-sur-Epte,953,epicerie,1
+93,Coubron,932,epicerie,2
+77,Champeaux,772,epicerie,1
+94,Fresnes,943,epicerie,4
+91,Villemoisson-sur-Orge,913,epicerie,3
+75,Paris 9e Arrondissement,751,epicerie,98
+77,Pontault-Combault,775,epicerie,9
+78,Montesson,783,epicerie,1
+94,Ivry-sur-Seine,941,epicerie,39
+95,Chaumontel,952,epicerie,1
+77,Condé-Sainte-Libiaire,771,epicerie,1
+77,Moret-sur-Loing,774,epicerie,3
+77,Courpalay,773,epicerie,1
+78,Les Essarts-le-Roi,782,epicerie,1
+91,Saint-Michel-sur-Orge,913,epicerie,6
+95,Domont,952,epicerie,1
+92,Châtenay-Malabry,921,epicerie,8
+93,Bobigny,931,epicerie,29
+77,Villenoy,771,epicerie,1
+95,Bezons,951,epicerie,12
+95,Goussainville,952,epicerie,22
+77,Écuelles,774,epicerie,1
+77,Varreddes,771,epicerie,1
+78,Sartrouville,783,epicerie,15
+77,Vieux-Champagne,773,epicerie,1
+78,Saint-Rémy-l'Honoré,782,epicerie,2
+77,La Rochette,772,epicerie,1
+95,Ermont,953,epicerie,6
+95,Saint-Brice-sous-Forêt,952,epicerie,5
+93,Noisy-le-Grand,932,epicerie,19
+95,Sannois,951,epicerie,6
+77,Héricy,774,epicerie,1
+77,Vendrest,771,epicerie,3
+92,Meudon,923,epicerie,13
+91,Vigneux-sur-Seine,912,epicerie,14
+77,Machault,772,epicerie,1
+77,Dampmart,775,epicerie,1
+95,Saint-Leu-la-Forêt,953,epicerie,4
+94,Saint-Mandé,942,epicerie,6
+77,Émerainville,775,epicerie,4
+95,Mériel,953,epicerie,1
+78,Fontenay-le-Fleury,784,epicerie,4
+94,Vitry-sur-Seine,941,epicerie,37
+92,Colombes,922,epicerie,41
+78,Chanteloup-les-Vignes,783,epicerie,2
+94,Rungis,943,epicerie,2
+78,Trappes,784,epicerie,15
+77,Boulancourt,774,epicerie,1
+91,Cheptainville,913,epicerie,1
+93,Montfermeil,932,epicerie,6
+77,Crécy-la-Chapelle,771,epicerie,1
+77,Livry-sur-Seine,772,epicerie,1
+78,Andrésy,783,epicerie,3
+78,Chatou,783,epicerie,12
+77,Chanteloup-en-Brie,775,epicerie,2
+78,Triel-sur-Seine,783,epicerie,3
+91,Villabé,912,epicerie,1
+78,Vernouillet,783,epicerie,3
+95,Saint-Prix,953,epicerie,1
+95,Andilly,952,epicerie,2
+78,Buc,784,epicerie,1
+77,Bombon,772,epicerie,2
+91,Brunoy,912,epicerie,4
+92,Nanterre,922,epicerie,21
+77,Tournan-en-Brie,772,epicerie,1
+78,Versailles,784,epicerie,38
+91,Morangis,913,epicerie,5
+77,Faremoutiers,771,epicerie,2
+92,Garches,922,epicerie,1
+95,Éragny,953,epicerie,3
+91,Fleury-Mérogis,912,epicerie,1
+78,Maurecourt,783,epicerie,1
+77,La Ferté-sous-Jouarre,771,epicerie,4
+78,Jouy-en-Josas,784,epicerie,1
+95,Vétheuil,953,epicerie,1
+77,Melun,772,epicerie,22
+78,Les Loges-en-Josas,784,epicerie,2
+91,Saint-Chéron,911,epicerie,1
+77,Beton-Bazoches,773,epicerie,1
+91,Ormoy,912,epicerie,1
+77,Treuzy-Levelay,774,epicerie,1
+95,Gonesse,952,epicerie,8
+92,Chaville,923,epicerie,6
+93,Montreuil,931,epicerie,79
+77,Bagneaux-sur-Loing,774,epicerie,1
+95,Beauchamp,953,epicerie,3
+77,Crisenoy,772,epicerie,1
+78,Mézières-sur-Seine,781,epicerie,2
+95,Nesles-la-Vallée,953,epicerie,1
+77,Chevry-Cossigny,772,epicerie,1
+77,Provins,773,epicerie,5
+94,Choisy-le-Roi,941,epicerie,23
+78,Voisins-le-Bretonneux,782,epicerie,1
+91,Épinay-sous-Sénart,912,epicerie,1
+78,Orvilliers,781,epicerie,1
+94,Villecresnes,941,epicerie,1
+77,Avon,774,epicerie,4
+95,Osny,953,epicerie,4
+77,La Houssaye-en-Brie,773,epicerie,1
+77,Mortcerf,773,epicerie,1
+78,Guyancourt,784,epicerie,4
+92,Fontenay-aux-Roses,921,epicerie,8
+94,La Queue-en-Brie,942,epicerie,4
+77,Trilport,771,epicerie,2
+93,Stains,933,epicerie,27
+77,Donnemarie-Dontilly,773,epicerie,2
+92,Vaucresson,923,epicerie,4
+95,Cormeilles-en-Parisis,951,epicerie,8
+78,Rosny-sur-Seine,781,epicerie,3
+91,Brétigny-sur-Orge,913,epicerie,4
+94,Nogent-sur-Marne,942,epicerie,9
+77,Charny,771,epicerie,1
+78,Jouars-Pontchartrain,782,epicerie,1
+78,Thiverval-Grignon,784,epicerie,1
+77,Choisy-en-Brie,773,epicerie,1
+91,Gif-sur-Yvette,913,epicerie,4
+94,Bonneuil-sur-Marne,941,epicerie,8
+77,Bourron-Marlotte,774,epicerie,1
+92,Puteaux,922,epicerie,27
+75,Paris 2e Arrondissement,751,epicerie,23
+77,Chevru,773,epicerie,2
+91,Igny,913,epicerie,1
+77,Champagne-sur-Seine,774,epicerie,1
+77,Grez-sur-Loing,774,epicerie,1
+77,Savigny-le-Temple,772,epicerie,6
+95,Vigny,953,epicerie,1
+78,Le Vésinet,783,epicerie,6
+77,Vernou-la-Celle-sur-Seine,774,epicerie,1
+78,Mantes-la-Ville,781,epicerie,6
+91,Ris-Orangis,912,epicerie,9
+94,Joinville-le-Pont,942,epicerie,8
+93,La Courneuve,933,epicerie,39
+77,Nangis,773,epicerie,1
+95,Champagne-sur-Oise,953,epicerie,2
+77,Boissy-le-Châtel,771,epicerie,2
+92,Sèvres,923,epicerie,8
+93,Saint-Denis,933,epicerie,75
+95,Saint-Witz,952,epicerie,1
+77,Pamfou,772,epicerie,1
+93,Tremblay-en-France,932,epicerie,8
+95,Auvers-sur-Oise,953,epicerie,1
+77,Le Vaudoué,774,epicerie,1
+94,Chevilly-Larue,943,epicerie,5
+95,Eaubonne,953,epicerie,6
+77,Brie-Comte-Robert,772,epicerie,4
+77,Isles-les-Meldeuses,771,epicerie,1
+91,Les Ulis,913,epicerie,2
+93,Pierrefitte-sur-Seine,933,epicerie,17
+93,Épinay-sur-Seine,933,epicerie,31
+91,Montlhéry,913,epicerie,4
+77,Vulaines-sur-Seine,774,epicerie,1
+91,Bièvres,913,epicerie,1
+77,Villeparisis,775,epicerie,7
+75,Paris 7e Arrondissement,751,epicerie,46
+92,Vanves,921,epicerie,6
+91,Chilly-Mazarin,913,epicerie,2
+77,Saint-Pierre-lès-Nemours,774,epicerie,1
+91,Yerres,912,epicerie,4
+77,Montry,771,epicerie,2
+77,Magny-le-Hongre,775,epicerie,1
+77,Barbizon,772,epicerie,1
+77,Nemours,774,epicerie,8
+77,Villeneuve-sur-Bellot,773,epicerie,1
+78,Condé-sur-Vesgre,781,epicerie,1
+92,Courbevoie,922,epicerie,25
+91,Sainte-Geneviève-des-Bois,913,epicerie,13
+75,Paris 12e Arrondissement,751,epicerie,106
+95,Deuil-la-Barre,952,epicerie,4
+91,Bouville,911,epicerie,1
+95,Écouen,952,epicerie,1
+77,Vert-Saint-Denis,772,epicerie,3
+91,Vert-le-Grand,912,epicerie,1
+77,Bray-sur-Seine,773,epicerie,2
+95,Argenteuil,951,epicerie,53
+78,Bonnières-sur-Seine,781,epicerie,1
+75,Paris 19e Arrondissement,751,epicerie,127
+78,Limay,781,epicerie,4
+94,Orly,941,epicerie,5
+94,Le Kremlin-Bicêtre,943,epicerie,10
+93,L'Île-Saint-Denis,933,epicerie,5
+91,Viry-Châtillon,912,epicerie,7
+78,Aubergenville,781,epicerie,6
+95,Le Plessis-Bouchard,953,epicerie,2
+95,Louvres,952,epicerie,4
+92,Le Plessis-Robinson,921,epicerie,5
+91,Massy,913,epicerie,9
+78,Le Port-Marly,783,epicerie,3
+78,Le Chesnay,784,epicerie,7
+77,Voulx,774,epicerie,3
+77,Saint-Cyr-sur-Morin,773,epicerie,1
+77,Montigny-Lencoup,773,epicerie,1
+77,Compans,771,epicerie,1
+95,Persan,953,epicerie,3
+93,Romainville,931,epicerie,18
+91,Courcouronnes,912,epicerie,4
+78,Limetz-Villez,781,epicerie,1
+77,Everly,773,epicerie,1
+92,Ville-d'Avray,923,epicerie,1
+93,Gournay-sur-Marne,932,epicerie,2
+94,Chennevières-sur-Marne,942,epicerie,3
+92,Suresnes,922,epicerie,20
+94,Ormesson-sur-Marne,942,epicerie,1
+77,Valence-en-Brie,772,epicerie,1
+78,Sonchamp,782,epicerie,1
+77,Ferrières-en-Brie,775,epicerie,1
+91,Grigny,912,epicerie,10
+94,Limeil-Brévannes,941,epicerie,4
+77,Saint-Pathus,771,epicerie,2
+92,Antony,921,epicerie,11
+77,Dammartin-en-Goële,771,epicerie,1
+77,Jouarre,771,epicerie,1
+77,Misy-sur-Yonne,773,epicerie,1
+77,Monthyon,771,epicerie,1
+77,Roissy-en-Brie,775,epicerie,4
+78,Plaisir,784,epicerie,4
+77,Guignes,772,epicerie,3
+78,Mézy-sur-Seine,781,epicerie,1
+94,Le Plessis-Trévise,942,epicerie,1
+77,Chelles,775,epicerie,16
+91,Milly-la-Forêt,912,epicerie,3
+77,Verdelot,773,epicerie,2
+77,Nandy,772,epicerie,1
+77,Évry-Grégy-sur-Yerre,772,epicerie,1
+78,Le Pecq,783,epicerie,2
+95,Saint-Gratien,952,epicerie,5
+93,Pantin,931,epicerie,42
+94,Gentilly,943,epicerie,11
+91,Pussay,911,epicerie,1
+92,Gennevilliers,922,epicerie,33
+92,Saint-Cloud,923,epicerie,12
+93,Le Bourget,931,epicerie,16
+92,Asnières-sur-Seine,922,epicerie,37
+92,Bagneux,921,epicerie,17
+77,Grisy-Suisnes,772,epicerie,1
+94,Thiais,943,epicerie,4
+77,Beaumont-du-Gâtinais,774,epicerie,1
+77,Messy,771,epicerie,1
+77,Mouroux,771,epicerie,2
+91,Mennecy,912,epicerie,1
+94,Maisons-Alfort,941,epicerie,27
+95,Saint-Ouen-l'Aumône,953,epicerie,9
+78,Carrières-sous-Poissy,783,epicerie,2
+78,Juziers,781,epicerie,1
+91,Arpajon,913,epicerie,9
+77,Dammarie-les-Lys,772,epicerie,4
+77,Salins,773,epicerie,1
+94,Alfortville,941,epicerie,40
+77,Bois-le-Roi,774,epicerie,2
+78,Les Mesnuls,782,epicerie,2
+77,Lognes,775,epicerie,2
+77,Saâcy-sur-Marne,771,epicerie,1
+95,Chars,953,epicerie,2
+75,Paris 4e Arrondissement,751,epicerie,42
+75,Paris 13e Arrondissement,751,epicerie,114
+77,Saint-Ouen-en-Brie,772,epicerie,1
+91,Paray-Vieille-Poste,913,epicerie,4
+91,Montgeron,912,epicerie,10
+77,Maincy,772,epicerie,1
+78,Chevreuse,782,epicerie,1
+78,Marly-le-Roi,783,epicerie,1
+75,Paris 10e Arrondissement,751,epicerie,153
+91,Soisy-sur-Seine,912,epicerie,3
+93,Livry-Gargan,932,epicerie,20
+95,Survilliers,952,epicerie,2
+78,Le Mesnil-le-Roi,783,epicerie,1
+77,Champs-sur-Marne,775,epicerie,2
+94,Bry-sur-Marne,942,epicerie,5
+78,Dampierre-en-Yvelines,782,epicerie,1
+91,Épinay-sur-Orge,913,epicerie,4
+95,Puiseux-en-France,952,boulangerie,1
+78,Garancières,782,boulangerie,1
+94,Santeny,941,boulangerie,2
+94,Cachan,943,boulangerie,15
+77,Lagny-sur-Marne,775,boulangerie,14
+91,Savigny-sur-Orge,913,boulangerie,22
+93,Villemomble,931,boulangerie,15
+77,Annet-sur-Marne,775,boulangerie,4
+95,La Roche-Guyon,953,boulangerie,1
+77,Bannost-Villegagnon,773,boulangerie,1
+77,Le Mesnil-Amelot,771,boulangerie,3
+78,Saint-Cyr-l'École,784,boulangerie,9
+78,Saint-Léger-en-Yvelines,782,boulangerie,1
+77,Jossigny,775,boulangerie,1
+91,La Ferté-Alais,911,boulangerie,2
+91,Marolles-en-Hurepoix,913,boulangerie,2
+92,Bois-Colombes,922,boulangerie,13
+94,Mandres-les-Roses,941,boulangerie,2
+78,Coignières,782,boulangerie,3
+77,Collégien,775,boulangerie,3
+91,Saclas,911,boulangerie,1
+93,Neuilly-sur-Marne,932,boulangerie,12
+78,La Verrière,782,boulangerie,2
+78,Louveciennes,783,boulangerie,2
+77,Fontaine-le-Port,772,boulangerie,1
+77,Torcy,775,boulangerie,8
+77,Châtenoy,774,boulangerie,1
+92,Boulogne-Billancourt,923,boulangerie,54
+78,Saint-Rémy-lès-Chevreuse,782,boulangerie,6
+78,Bouafle,781,boulangerie,2
+77,Vaires-sur-Marne,775,boulangerie,7
+78,Poissy,783,boulangerie,18
+91,Bures-sur-Yvette,913,boulangerie,2
+78,Septeuil,781,boulangerie,2
+91,Juvisy-sur-Orge,913,boulangerie,9
+93,Le Blanc-Mesnil,932,boulangerie,17
+95,Montigny-lès-Cormeilles,951,boulangerie,7
+77,Mareuil-lès-Meaux,771,boulangerie,1
+78,Chaufour-lès-Bonnières,781,boulangerie,1
+95,Pontoise,953,boulangerie,17
+77,Lorrez-le-Bocage-Préaux,774,boulangerie,1
+77,Moissy-Cramayel,772,boulangerie,4
+78,Vaux-sur-Seine,781,boulangerie,2
+77,Bailly-Romainvilliers,775,boulangerie,2
+77,Montévrain,775,boulangerie,3
+93,Les Pavillons-sous-Bois,931,boulangerie,16
+91,Breuillet,911,boulangerie,6
+77,Fontainebleau,774,boulangerie,17
+75,Paris 3e Arrondissement,751,boulangerie,36
+94,Boissy-Saint-Léger,941,boulangerie,6
+77,Rozay-en-Brie,773,boulangerie,2
+77,Thorigny-sur-Marne,775,boulangerie,4
+78,Saint-Arnoult-en-Yvelines,782,boulangerie,3
+91,Égly,913,boulangerie,1
+95,Herblay,951,boulangerie,8
+95,Beaumont-sur-Oise,953,boulangerie,8
+75,Paris 1er Arrondissement,751,boulangerie,36
+78,Villiers-Saint-Frédéric,782,boulangerie,1
+78,Vélizy-Villacoublay,784,boulangerie,7
+93,Sevran,932,boulangerie,19
+95,Commeny,953,boulangerie,1
+91,Briis-sous-Forges,913,boulangerie,1
+77,La Grande-Paroisse,773,boulangerie,1
+77,Voisenon,772,boulangerie,1
+77,Ozouer-le-Voulgis,772,boulangerie,1
+91,Saint-Germain-lès-Corbeil,912,boulangerie,2
+95,Fosses,952,boulangerie,5
+77,Saint-Augustin,771,boulangerie,1
+78,Épône,781,boulangerie,4
+77,Coupvray,775,boulangerie,2
+77,Saint-Siméon,773,boulangerie,1
+77,Trilbardou,771,boulangerie,1
+95,Marines,953,boulangerie,2
+77,Fontenay-Trésigny,773,boulangerie,2
+77,Saint-Soupplets,771,boulangerie,3
+91,Quincy-sous-Sénart,912,boulangerie,2
+91,Saclay,913,boulangerie,1
+94,Charenton-le-Pont,941,boulangerie,15
+91,Ballancourt-sur-Essonne,912,boulangerie,3
+77,Saint-Thibault-des-Vignes,775,boulangerie,1
+78,Beynes,782,boulangerie,5
+77,Esbly,771,boulangerie,2
+92,Montrouge,921,boulangerie,24
+91,Méréville,911,boulangerie,2
+94,Villejuif,943,boulangerie,26
+94,L'Haÿ-les-Roses,943,boulangerie,13
+93,Drancy,931,boulangerie,42
+91,Étréchy,911,boulangerie,4
+94,Villiers-sur-Marne,942,boulangerie,10
+91,Les Granges-le-Roi,911,boulangerie,1
+78,Rambouillet,782,boulangerie,12
+77,Égreville,774,boulangerie,1
+95,Seraincourt,953,boulangerie,1
+95,Margency,952,boulangerie,1
+91,Nozay,913,boulangerie,2
+91,Angervilliers,911,boulangerie,1
+77,Blandy,772,boulangerie,1
+77,Les Ormes-sur-Voulzie,773,boulangerie,1
+77,Touquin,773,boulangerie,1
+78,Orgerus,781,boulangerie,2
+92,Neuilly-sur-Seine,922,boulangerie,25
+92,Clamart,921,boulangerie,26
+91,Videlles,911,boulangerie,1
+77,Saint-Mammès,774,boulangerie,1
+77,Bussy-Saint-Georges,775,boulangerie,7
+77,Guérard,771,boulangerie,1
+77,Sivry-Courtry,772,boulangerie,1
+77,Gretz-Armainvilliers,772,boulangerie,6
+77,Flagy,774,boulangerie,1
+77,Lizy-sur-Ourcq,771,boulangerie,2
+91,Marcoussis,913,boulangerie,2
+94,Vincennes,942,boulangerie,25
+77,Cesson,772,boulangerie,5
+77,Saint-Jean-les-Deux-Jumeaux,771,boulangerie,1
+77,Chaumes-en-Brie,772,boulangerie,1
+77,Ury,774,boulangerie,3
+77,Presles-en-Brie,772,boulangerie,1
+77,Fleury-en-Bière,772,boulangerie,1
+78,La Queue-les-Yvelines,782,boulangerie,2
+77,Thomery,774,boulangerie,1
+91,Morigny-Champigny,911,boulangerie,1
+95,Ézanville,952,boulangerie,5
+93,Aubervilliers,933,boulangerie,56
+95,La Frette-sur-Seine,951,boulangerie,3
+77,Moisenay,772,boulangerie,1
+93,Saint-Ouen,933,boulangerie,33
+75,Paris 16e Arrondissement,751,boulangerie,105
+91,Longjumeau,913,boulangerie,11
+77,Souppes-sur-Loing,774,boulangerie,5
+78,Les Mureaux,781,boulangerie,15
+77,Villiers-sous-Grez,774,boulangerie,1
+77,Villenauxe-la-Petite,773,boulangerie,1
+91,Limours,913,boulangerie,4
+91,Orsay,913,boulangerie,10
+78,Fourqueux,783,boulangerie,1
+78,Viroflay,784,boulangerie,11
+95,Marly-la-Ville,952,boulangerie,1
+75,Paris 17e Arrondissement,751,boulangerie,133
+92,Bourg-la-Reine,921,boulangerie,10
+93,Le Raincy,932,boulangerie,16
+91,Roinville,911,boulangerie,1
+77,Mauregard,771,boulangerie,1
+77,Châtenay-sur-Seine,773,boulangerie,1
+77,Marolles-sur-Seine,773,boulangerie,3
+92,Châtillon,921,boulangerie,13
+94,Arcueil,943,boulangerie,9
+78,Conflans-Sainte-Honorine,783,boulangerie,20
+95,Cergy,953,boulangerie,23
+77,Claye-Souilly,775,boulangerie,8
+78,Achères,783,boulangerie,11
+78,Les Clayes-sous-Bois,784,boulangerie,9
+93,Noisy-le-Sec,931,boulangerie,18
+77,Couilly-Pont-aux-Dames,771,boulangerie,2
+92,Sceaux,921,boulangerie,9
+77,Pringy,772,boulangerie,2
+91,Vauhallan,913,boulangerie,1
+91,Boissy-le-Cutté,911,boulangerie,2
+77,Ville-Saint-Jacques,774,boulangerie,1
+77,Saint-Fargeau-Ponthierry,772,boulangerie,5
+93,Bagnolet,931,boulangerie,18
+78,Noisy-le-Roi,783,boulangerie,3
+78,Magnanville,781,boulangerie,1
+92,Rueil-Malmaison,922,boulangerie,35
+77,Combs-la-Ville,772,boulangerie,8
+94,Saint-Maur-des-Fossés,941,boulangerie,44
+95,Saint-Martin-du-Tertre,952,boulangerie,1
+77,Liverdy-en-Brie,772,boulangerie,2
+91,Corbreuse,911,boulangerie,1
+77,Courtry,775,boulangerie,2
+94,Ablon-sur-Seine,941,boulangerie,4
+78,Saint-Germain-en-Laye,783,boulangerie,27
+91,Tigery,912,boulangerie,1
+77,Saint-Germain-sur-Morin,771,boulangerie,2
+77,Samois-sur-Seine,774,boulangerie,1
+93,Villepinte,932,boulangerie,13
+95,Jouy-le-Moutier,953,boulangerie,1
+75,Paris 20e Arrondissement,751,boulangerie,124
+78,Maurepas,782,boulangerie,10
+93,Dugny,931,boulangerie,6
+91,Leuville-sur-Orge,913,boulangerie,2
+78,Montfort-l'Amaury,782,boulangerie,3
+95,L'Isle-Adam,953,boulangerie,8
+95,Magny-en-Vexin,953,boulangerie,5
+91,Lardy,911,boulangerie,2
+75,Paris 5e Arrondissement,751,boulangerie,73
+77,Quincy-Voisins,771,boulangerie,2
+78,Maisons-Laffitte,783,boulangerie,12
+93,Gagny,932,boulangerie,13
+77,Coubert,772,boulangerie,1
+77,Mormant,772,boulangerie,3
+91,Lisses,912,boulangerie,2
+91,La Norville,913,boulangerie,2
+78,Bailly,783,boulangerie,1
+95,Vauréal,953,boulangerie,5
+94,Valenton,941,boulangerie,5
+95,Montmagny,952,boulangerie,2
+95,Courdimanche,953,boulangerie,2
+77,Lésigny,772,boulangerie,2
+91,Saulx-les-Chartreux,913,boulangerie,1
+77,Soignolles-en-Brie,772,boulangerie,1
+95,Cormeilles-en-Vexin,953,boulangerie,3
+95,Taverny,953,boulangerie,10
+78,Orgeval,783,boulangerie,3
+78,Montigny-le-Bretonneux,784,boulangerie,13
+78,Saint-Nom-la-Bretèche,783,boulangerie,3
+91,Forges-les-Bains,913,boulangerie,2
+77,Ozoir-la-Ferrière,775,boulangerie,9
+95,Maffliers,952,boulangerie,1
+91,Corbeil-Essonnes,912,boulangerie,29
+75,Paris 18e Arrondissement,751,boulangerie,155
+77,Villiers-Saint-Georges,773,boulangerie,1
+95,Groslay,952,boulangerie,3
+95,Garges-lès-Gonesse,952,boulangerie,14
+91,Longpont-sur-Orge,913,boulangerie,3
+91,Crosne,912,boulangerie,4
+77,Meaux,771,boulangerie,43
+92,Clichy,922,boulangerie,34
+78,Bullion,782,boulangerie,1
+94,Villeneuve-Saint-Georges,941,boulangerie,22
+94,Le Perreux-sur-Marne,942,boulangerie,15
+77,Bazoches-lès-Bray,773,boulangerie,1
+91,Wissous,913,boulangerie,3
+78,Houilles,783,boulangerie,17
+92,Issy-les-Moulineaux,923,boulangerie,27
+77,La Ferté-Gaucher,773,boulangerie,4
+78,Carrières-sur-Seine,783,boulangerie,2
+91,Boissy-sous-Saint-Yon,911,boulangerie,2
+95,Luzarches,952,boulangerie,2
+92,Malakoff,921,boulangerie,19
+94,Sucy-en-Brie,941,boulangerie,6
+75,Paris 6e Arrondissement,751,boulangerie,56
+77,Coulommiers,771,boulangerie,13
+77,Brou-sur-Chantereine,775,boulangerie,2
+77,Pontcarré,775,boulangerie,3
+77,Le Châtelet-en-Brie,772,boulangerie,2
+77,Le Pin,775,boulangerie,1
+95,Bessancourt,953,boulangerie,5
+95,Enghien-les-Bains,952,boulangerie,14
+91,Itteville,911,boulangerie,1
+94,Saint-Maurice,941,boulangerie,3
+95,Bouffémont,952,boulangerie,2
+77,Noisiel,775,boulangerie,4
+95,Nucourt,953,boulangerie,1
+77,Servon,772,boulangerie,3
+93,Villetaneuse,933,boulangerie,4
+78,Bonnelles,782,boulangerie,1
+95,Montmorency,952,boulangerie,10
+95,Le Thillay,952,boulangerie,1
+77,Meilleray,773,boulangerie,1
+77,Bransles,774,boulangerie,1
+91,Dourdan,911,boulangerie,7
+95,Roissy-en-France,952,boulangerie,2
+78,Mantes-la-Jolie,781,boulangerie,34
+95,Moisselles,952,boulangerie,3
+93,Bondy,931,boulangerie,24
+91,Athis-Mons,913,boulangerie,18
+95,Montlignon,953,boulangerie,1
+78,Croissy-sur-Seine,783,boulangerie,2
+77,Jouy-le-Châtel,773,boulangerie,1
+95,Franconville,953,boulangerie,10
+91,Chalo-Saint-Mars,911,boulangerie,1
+91,Évry,912,boulangerie,25
+77,Mitry-Mory,771,boulangerie,11
+91,Bruyères-le-Châtel,913,boulangerie,1
+78,Hardricourt,781,boulangerie,2
+94,Villeneuve-le-Roi,941,boulangerie,8
+77,Seine-Port,772,boulangerie,1
+75,Paris 8e Arrondissement,751,boulangerie,61
+77,Lieusaint,772,boulangerie,3
+95,Parmain,953,boulangerie,2
+91,Morsang-sur-Orge,912,boulangerie,9
+91,Angerville,911,boulangerie,2
+93,Les Lilas,931,boulangerie,15
+75,Paris 14e Arrondissement,751,boulangerie,108
+77,Longueville,773,boulangerie,2
+75,Paris 11e Arrondissement,751,boulangerie,128
+78,Neauphle-le-Château,782,boulangerie,3
+77,Chailly-en-Bière,772,boulangerie,1
+95,Méry-sur-Oise,953,boulangerie,1
+91,Le Coudray-Montceaux,912,boulangerie,3
+77,Villeneuve-le-Comte,773,boulangerie,1
+91,Villebon-sur-Yvette,913,boulangerie,7
+77,Sognolles-en-Montois,773,boulangerie,1
+91,Vert-le-Petit,912,boulangerie,1
+94,Champigny-sur-Marne,942,boulangerie,39
+94,Fontenay-sous-Bois,942,boulangerie,25
+95,Presles,953,boulangerie,1
+75,Paris 15e Arrondissement,751,boulangerie,147
+77,Serris,775,boulangerie,6
+77,Jouy-sur-Morin,773,boulangerie,1
+78,Houdan,781,boulangerie,5
+78,Gargenville,781,boulangerie,3
+95,Soisy-sous-Montmorency,952,boulangerie,8
+78,Maule,781,boulangerie,4
+78,Bois-d'Arcy,784,boulangerie,6
+78,Élancourt,782,boulangerie,10
+77,Ussy-sur-Marne,771,boulangerie,1
+77,Varennes-sur-Seine,773,boulangerie,4
+78,Meulan-en-Yvelines,781,boulangerie,7
+91,Étampes,911,boulangerie,13
+78,Magny-les-Hameaux,782,boulangerie,3
+95,Asnières-sur-Oise,952,boulangerie,1
+91,Saint-Vrain,913,boulangerie,1
+77,Le Mée-sur-Seine,772,boulangerie,6
+78,Nézel,781,boulangerie,1
+92,La Garenne-Colombes,922,boulangerie,14
+93,Rosny-sous-Bois,931,boulangerie,18
+77,Villiers-en-Bière,772,boulangerie,1
+95,Menucourt,953,boulangerie,1
+78,Mareil-Marly,783,boulangerie,4
+93,Neuilly-Plaisance,932,boulangerie,10
+77,Chenoise,773,boulangerie,1
+93,Le Pré-Saint-Gervais,931,boulangerie,13
+78,Issou,781,boulangerie,3
+93,Vaujours,932,boulangerie,5
+94,Créteil,941,boulangerie,35
+77,Saint-Mard,771,boulangerie,1
+92,Levallois-Perret,922,boulangerie,34
+78,Gambais,781,boulangerie,1
+77,Nanteuil-lès-Meaux,771,boulangerie,3
+78,Rochefort-en-Yvelines,782,boulangerie,1
+93,Clichy-sous-Bois,932,boulangerie,13
+95,Viarmes,952,boulangerie,2
+77,Congis-sur-Thérouanne,771,boulangerie,1
+95,Puiseux-Pontoise,953,boulangerie,1
+95,Arnouville,952,boulangerie,12
+77,Croissy-Beaubourg,775,boulangerie,1
+78,La Celle-Saint-Cloud,783,boulangerie,9
+77,Montereau-Fault-Yonne,773,boulangerie,13
+78,Chambourcy,783,boulangerie,2
+77,Marles-en-Brie,773,boulangerie,1
+91,Palaiseau,913,boulangerie,9
+78,Villepreux,783,boulangerie,3
+95,Sarcelles,952,boulangerie,28
+77,Vaux-le-Pénil,772,boulangerie,5
+77,Chessy,775,boulangerie,2
+77,Montigny-sur-Loing,774,boulangerie,1
+95,Villiers-le-Bel,952,boulangerie,9
+93,Aulnay-sous-Bois,932,boulangerie,42
+91,La Ville-du-Bois,913,boulangerie,2
+95,Pierrelaye,953,boulangerie,3
+91,Verrières-le-Buisson,913,boulangerie,6
+91,Draveil,912,boulangerie,11
+77,Rebais,773,boulangerie,5
+78,Bougival,783,boulangerie,2
+92,Villeneuve-la-Garenne,922,boulangerie,10
+95,Saint-Clair-sur-Epte,953,boulangerie,1
+77,Othis,771,boulangerie,1
+93,Coubron,932,boulangerie,1
+77,Champeaux,772,boulangerie,1
+94,Fresnes,943,boulangerie,9
+91,Villemoisson-sur-Orge,913,boulangerie,2
+75,Paris 9e Arrondissement,751,boulangerie,78
+77,Pontault-Combault,775,boulangerie,18
+78,Flins-sur-Seine,781,boulangerie,1
+78,Montesson,783,boulangerie,4
+94,Ivry-sur-Seine,941,boulangerie,38
+95,Bruyères-sur-Oise,953,boulangerie,1
+95,Chaumontel,952,boulangerie,1
+77,Verneuil-l'Étang,772,boulangerie,3
+77,Condé-Sainte-Libiaire,771,boulangerie,1
+78,Feucherolles,783,boulangerie,1
+78,Vert,781,boulangerie,1
+77,Moret-sur-Loing,774,boulangerie,4
+77,Courpalay,773,boulangerie,1
+78,Les Essarts-le-Roi,782,boulangerie,2
+91,Saint-Michel-sur-Orge,913,boulangerie,4
+95,Domont,952,boulangerie,8
+91,Boussy-Saint-Antoine,912,boulangerie,4
+92,Châtenay-Malabry,921,boulangerie,11
+93,Bobigny,931,boulangerie,18
+77,Villenoy,771,boulangerie,4
+95,Bezons,951,boulangerie,15
+95,Goussainville,952,boulangerie,14
+77,Varreddes,771,boulangerie,1
+91,Monnerville,911,boulangerie,1
+91,Ballainvilliers,913,boulangerie,1
+77,Veneux-les-Sablons,774,boulangerie,3
+78,Sartrouville,783,boulangerie,28
+77,La Rochette,772,boulangerie,3
+95,Ermont,953,boulangerie,8
+95,Saint-Brice-sous-Forêt,952,boulangerie,8
+78,Cernay-la-Ville,782,boulangerie,1
+93,Noisy-le-Grand,932,boulangerie,19
+78,Verneuil-sur-Seine,783,boulangerie,6
+77,Maison-Rouge,773,boulangerie,1
+95,Sannois,951,boulangerie,9
+77,Héricy,774,boulangerie,2
+77,Vendrest,771,boulangerie,2
+92,Meudon,923,boulangerie,23
+91,Vigneux-sur-Seine,912,boulangerie,11
+91,Varennes-Jarcy,912,boulangerie,1
+77,Dampmart,775,boulangerie,1
+77,Gouaix,773,boulangerie,1
+95,Saint-Leu-la-Forêt,953,boulangerie,10
+95,Frépillon,953,boulangerie,1
+94,Saint-Mandé,942,boulangerie,14
+77,Émerainville,775,boulangerie,2
+95,Mériel,953,boulangerie,3
+78,Fontenay-le-Fleury,784,boulangerie,8
+94,Vitry-sur-Seine,941,boulangerie,38
+95,Montsoult,952,boulangerie,3
+92,Colombes,922,boulangerie,38
+78,Chanteloup-les-Vignes,783,boulangerie,3
+94,Rungis,943,boulangerie,5
+91,Baulne,911,boulangerie,1
+78,Trappes,784,boulangerie,10
+91,Cheptainville,913,boulangerie,2
+93,Montfermeil,932,boulangerie,12
+77,Crécy-la-Chapelle,771,boulangerie,3
+77,Moussy-le-Neuf,771,boulangerie,1
+77,Villiers-sur-Morin,771,boulangerie,2
+95,Belloy-en-France,952,boulangerie,1
+77,Livry-sur-Seine,772,boulangerie,1
+78,Andrésy,783,boulangerie,4
+78,Chatou,783,boulangerie,17
+77,Chanteloup-en-Brie,775,boulangerie,1
+78,Triel-sur-Seine,783,boulangerie,5
+91,Saint-Pierre-du-Perray,912,boulangerie,2
+77,Chambry,771,boulangerie,1
+91,Villabé,912,boulangerie,4
+78,Vernouillet,783,boulangerie,5
+95,Saint-Prix,953,boulangerie,3
+95,Andilly,952,boulangerie,1
+77,La Croix-en-Brie,773,boulangerie,1
+78,Buc,784,boulangerie,1
+77,Bombon,772,boulangerie,1
+91,Brunoy,912,boulangerie,16
+92,Nanterre,922,boulangerie,38
+95,Us,953,boulangerie,1
+77,Tournan-en-Brie,772,boulangerie,2
+91,Linas,913,boulangerie,3
+77,Oissery,771,boulangerie,1
+95,Boissy-l'Aillerie,953,boulangerie,1
+78,Morainvilliers,783,boulangerie,1
+77,Crégy-lès-Meaux,771,boulangerie,1
+78,Versailles,784,boulangerie,49
+91,Morangis,913,boulangerie,3
+77,Faremoutiers,771,boulangerie,2
+92,Garches,922,boulangerie,8
+95,Éragny,953,boulangerie,6
+91,Fleury-Mérogis,912,boulangerie,1
+77,Château-Landon,774,boulangerie,3
+78,Oinville-sur-Montcient,781,boulangerie,1
+78,Ablis,782,boulangerie,2
+78,Maurecourt,783,boulangerie,2
+78,Sainte-Mesme,782,boulangerie,1
+95,Neuville-sur-Oise,953,boulangerie,1
+77,La Ferté-sous-Jouarre,771,boulangerie,9
+77,Cannes-Écluse,773,boulangerie,1
+78,Jouy-en-Josas,784,boulangerie,4
+95,Vétheuil,953,boulangerie,1
+77,Melun,772,boulangerie,25
+91,Saint-Chéron,911,boulangerie,2
+77,Beton-Bazoches,773,boulangerie,1
+94,Noiseau,942,boulangerie,1
+91,Ormoy,912,boulangerie,1
+77,Bougligny,774,boulangerie,1
+95,Gonesse,952,boulangerie,9
+92,Chaville,923,boulangerie,8
+93,Montreuil,931,boulangerie,57
+77,Bagneaux-sur-Loing,774,boulangerie,1
+95,Beauchamp,953,boulangerie,6
+78,Mézières-sur-Seine,781,boulangerie,2
+95,Nesles-la-Vallée,953,boulangerie,2
+77,Chevry-Cossigny,772,boulangerie,1
+91,Saintry-sur-Seine,912,boulangerie,1
+77,Provins,773,boulangerie,9
+94,Choisy-le-Roi,941,boulangerie,24
+91,Courances,912,boulangerie,1
+95,Vémars,952,boulangerie,1
+78,Voisins-le-Bretonneux,782,boulangerie,5
+91,Épinay-sous-Sénart,912,boulangerie,2
+94,Villecresnes,941,boulangerie,3
+77,Avon,774,boulangerie,5
+95,Osny,953,boulangerie,5
+77,Chauconin-Neufmontiers,771,boulangerie,1
+78,Ecquevilly,781,boulangerie,2
+77,La Houssaye-en-Brie,773,boulangerie,1
+77,Mortcerf,773,boulangerie,1
+78,Guyancourt,784,boulangerie,8
+92,Fontenay-aux-Roses,921,boulangerie,8
+94,La Queue-en-Brie,942,boulangerie,5
+77,Trilport,771,boulangerie,4
+93,Stains,933,boulangerie,19
+77,Donnemarie-Dontilly,773,boulangerie,2
+91,Soisy-sur-École,912,boulangerie,1
+92,Vaucresson,923,boulangerie,5
+77,Doue,773,boulangerie,1
+77,Orly-sur-Morin,773,boulangerie,1
+95,Cormeilles-en-Parisis,951,boulangerie,12
+77,Sourdun,773,boulangerie,1
+78,Rosny-sur-Seine,781,boulangerie,2
+91,Brétigny-sur-Orge,913,boulangerie,7
+94,Nogent-sur-Marne,942,boulangerie,18
+78,Freneuse,781,boulangerie,1
+77,Charny,771,boulangerie,1
+78,Jouars-Pontchartrain,782,boulangerie,2
+91,Boutigny-sur-Essonne,911,boulangerie,1
+77,Choisy-en-Brie,773,boulangerie,1
+91,Gif-sur-Yvette,913,boulangerie,6
+95,Piscop,952,boulangerie,1
+91,Champcueil,912,boulangerie,1
+94,Bonneuil-sur-Marne,941,boulangerie,8
+78,Les Alluets-le-Roi,783,boulangerie,1
+78,Guerville,781,boulangerie,1
+77,Bourron-Marlotte,774,boulangerie,4
+77,Réau,772,boulangerie,1
+92,Puteaux,922,boulangerie,32
+75,Paris 2e Arrondissement,751,boulangerie,29
+91,Igny,913,boulangerie,3
+77,Champagne-sur-Seine,774,boulangerie,4
+77,Guermantes,775,boulangerie,3
+77,Grez-sur-Loing,774,boulangerie,1
+77,Savigny-le-Temple,772,boulangerie,8
+95,Vigny,953,boulangerie,2
+78,Le Vésinet,783,boulangerie,10
+77,Vernou-la-Celle-sur-Seine,774,boulangerie,2
+78,Gazeran,782,boulangerie,1
+77,La Celle-sur-Morin,771,boulangerie,1
+77,Villeneuve-sous-Dammartin,771,boulangerie,1
+78,Mantes-la-Ville,781,boulangerie,10
+91,Étiolles,912,boulangerie,2
+91,Ris-Orangis,912,boulangerie,12
+94,Joinville-le-Pont,942,boulangerie,11
+77,Pommeuse,771,boulangerie,1
+93,La Courneuve,933,boulangerie,25
+77,Nangis,773,boulangerie,5
+95,Champagne-sur-Oise,953,boulangerie,1
+77,Boissy-le-Châtel,771,boulangerie,2
+92,Sèvres,923,boulangerie,10
+93,Saint-Denis,933,boulangerie,67
+95,Saint-Witz,952,boulangerie,1
+91,Champlan,913,boulangerie,1
+91,Le Plessis-Pâté,913,boulangerie,1
+93,Tremblay-en-France,932,boulangerie,14
+95,Auvers-sur-Oise,953,boulangerie,2
+95,Baillet-en-France,952,boulangerie,1
+77,La Chapelle-la-Reine,774,boulangerie,1
+91,Vaugrigneuse,913,boulangerie,1
+94,Chevilly-Larue,943,boulangerie,7
+95,Eaubonne,953,boulangerie,10
+77,Brie-Comte-Robert,772,boulangerie,10
+77,Samoreau,774,boulangerie,1
+91,Les Ulis,913,boulangerie,6
+93,Pierrefitte-sur-Seine,933,boulangerie,15
+93,Épinay-sur-Seine,933,boulangerie,21
+77,Larchant,774,boulangerie,1
+91,Montlhéry,913,boulangerie,3
+77,Vulaines-sur-Seine,774,boulangerie,1
+91,Bièvres,913,boulangerie,3
+77,Villeparisis,775,boulangerie,13
+75,Paris 7e Arrondissement,751,boulangerie,56
+92,Vanves,921,boulangerie,10
+91,Chilly-Mazarin,913,boulangerie,9
+77,Saint-Pierre-lès-Nemours,774,boulangerie,1
+78,Thoiry,782,boulangerie,1
+77,La Chapelle-Gauthier,772,boulangerie,1
+91,Yerres,912,boulangerie,14
+77,Montry,771,boulangerie,1
+94,Marolles-en-Brie,941,boulangerie,1
+77,Magny-le-Hongre,775,boulangerie,4
+77,Barbizon,772,boulangerie,3
+77,Nemours,774,boulangerie,12
+77,Dormelles,774,boulangerie,1
+77,Villeneuve-sur-Bellot,773,boulangerie,1
+78,Condé-sur-Vesgre,781,boulangerie,1
+92,Courbevoie,922,boulangerie,37
+91,Sainte-Geneviève-des-Bois,913,boulangerie,22
+75,Paris 12e Arrondissement,751,boulangerie,123
+95,Deuil-la-Barre,952,boulangerie,10
+95,Ennery,953,boulangerie,1
+95,Écouen,952,boulangerie,3
+77,Vert-Saint-Denis,772,boulangerie,2
+91,Vert-le-Grand,912,boulangerie,2
+78,Bennecourt,781,boulangerie,1
+77,Bray-sur-Seine,773,boulangerie,2
+78,Villennes-sur-Seine,783,boulangerie,1
+95,Argenteuil,951,boulangerie,53
+78,Bonnières-sur-Seine,781,boulangerie,4
+75,Paris 19e Arrondissement,751,boulangerie,118
+78,Limay,781,boulangerie,4
+94,Orly,941,boulangerie,12
+78,Crespières,783,boulangerie,1
+94,Le Kremlin-Bicêtre,943,boulangerie,13
+95,Sagy,953,boulangerie,1
+78,Auffargis,782,boulangerie,1
+93,L'Île-Saint-Denis,933,boulangerie,2
+91,Viry-Châtillon,912,boulangerie,15
+77,Achères-la-Forêt,774,boulangerie,1
+78,L'Étang-la-Ville,783,boulangerie,1
+78,Aubergenville,781,boulangerie,5
+95,Le Plessis-Bouchard,953,boulangerie,2
+95,Louvres,952,boulangerie,5
+78,Bréval,781,boulangerie,2
+92,Le Plessis-Robinson,921,boulangerie,10
+78,Dammartin-en-Serve,781,boulangerie,2
+91,Massy,913,boulangerie,17
+91,Ollainville,913,boulangerie,1
+95,Vallangoujard,953,boulangerie,1
+78,Le Chesnay,784,boulangerie,11
+77,Voulx,774,boulangerie,2
+77,Saint-Cyr-sur-Morin,773,boulangerie,1
+78,Longnes,781,boulangerie,1
+77,Montigny-Lencoup,773,boulangerie,1
+91,Cerny,911,boulangerie,2
+78,Buchelay,781,boulangerie,2
+78,Maulette,781,boulangerie,1
+95,Persan,953,boulangerie,3
+93,Romainville,931,boulangerie,14
+91,Courcouronnes,912,boulangerie,4
+78,Limetz-Villez,781,boulangerie,1
+91,Les Molières,913,boulangerie,1
+77,Everly,773,boulangerie,1
+78,Châteaufort,784,boulangerie,1
+92,Ville-d'Avray,923,boulangerie,2
+93,Gournay-sur-Marne,932,boulangerie,3
+94,Chennevières-sur-Marne,942,boulangerie,9
+92,Suresnes,922,boulangerie,22
+94,Ormesson-sur-Marne,942,boulangerie,4
+91,Bondoufle,912,boulangerie,3
+77,Ferrières-en-Brie,775,boulangerie,2
+91,Grigny,912,boulangerie,8
+94,Limeil-Brévannes,941,boulangerie,5
+91,Maisse,912,boulangerie,2
+77,Crouy-sur-Ourcq,771,boulangerie,1
+77,Saint-Pathus,771,boulangerie,2
+92,Antony,921,boulangerie,18
+77,Dammartin-en-Goële,771,boulangerie,3
+77,Jouarre,771,boulangerie,3
+77,Sainte-Colombe,773,boulangerie,2
+77,Monthyon,771,boulangerie,1
+77,Roissy-en-Brie,775,boulangerie,7
+78,Plaisir,784,boulangerie,8
+77,Guignes,772,boulangerie,2
+94,Le Plessis-Trévise,942,boulangerie,4
+95,Valmondois,953,boulangerie,1
+77,Chelles,775,boulangerie,27
+91,Milly-la-Forêt,912,boulangerie,4
+78,Le Mesnil-Saint-Denis,782,boulangerie,3
+77,Évry-Grégy-sur-Yerre,772,boulangerie,1
+78,Le Pecq,783,boulangerie,5
+95,Saint-Gratien,952,boulangerie,12
+93,Pantin,931,boulangerie,35
+94,Gentilly,943,boulangerie,13
+91,Pussay,911,boulangerie,2
+92,Gennevilliers,922,boulangerie,19
+92,Saint-Cloud,923,boulangerie,9
+93,Le Bourget,931,boulangerie,5
+92,Asnières-sur-Seine,922,boulangerie,47
+92,Bagneux,921,boulangerie,19
+77,Grisy-Suisnes,772,boulangerie,2
+95,Grisy-les-Plâtres,953,boulangerie,2
+78,Porcheville,781,boulangerie,1
+94,Thiais,943,boulangerie,10
+77,Beaumont-du-Gâtinais,774,boulangerie,2
+77,Chartrettes,772,boulangerie,1
+91,Villiers-sur-Orge,913,boulangerie,1
+77,Gouvernes,775,boulangerie,3
+77,Mouroux,771,boulangerie,3
+91,Mennecy,912,boulangerie,6
+94,Maisons-Alfort,941,boulangerie,29
+95,Saint-Ouen-l'Aumône,953,boulangerie,7
+78,Carrières-sous-Poissy,783,boulangerie,3
+78,Juziers,781,boulangerie,1
+78,Mareil-sur-Mauldre,781,boulangerie,2
+91,Arpajon,913,boulangerie,9
+77,Dammarie-les-Lys,772,boulangerie,11
+94,Alfortville,941,boulangerie,31
+77,Bois-le-Roi,774,boulangerie,2
+78,Les Mesnuls,782,boulangerie,1
+77,Lognes,775,boulangerie,3
+77,Saâcy-sur-Marne,771,boulangerie,2
+95,Chars,953,boulangerie,2
+75,Paris 4e Arrondissement,751,boulangerie,45
+75,Paris 13e Arrondissement,751,boulangerie,104
+91,Paray-Vieille-Poste,913,boulangerie,4
+91,Montgeron,912,boulangerie,13
+77,Maincy,772,boulangerie,1
+78,Chevreuse,782,boulangerie,3
+78,Marly-le-Roi,783,boulangerie,7
+75,Paris 10e Arrondissement,751,boulangerie,85
+91,Soisy-sur-Seine,912,boulangerie,4
+93,Livry-Gargan,932,boulangerie,21
+95,Survilliers,952,boulangerie,1
+91,Bouray-sur-Juine,911,boulangerie,1
+77,Saints,771,boulangerie,1
+78,Le Mesnil-le-Roi,783,boulangerie,3
+78,Le Perray-en-Yvelines,782,boulangerie,2
+77,Champs-sur-Marne,775,boulangerie,7
+94,Bry-sur-Marne,942,boulangerie,9
+78,Dampierre-en-Yvelines,782,boulangerie,1
+91,Épinay-sur-Orge,913,boulangerie,4
+94,Cachan,943,boucherie_charcuterie,7
+77,Lagny-sur-Marne,775,boucherie_charcuterie,6
+91,Savigny-sur-Orge,913,boucherie_charcuterie,13
+93,Villemomble,931,boucherie_charcuterie,7
+78,Saint-Cyr-l'École,784,boucherie_charcuterie,4
+91,La Ferté-Alais,911,boucherie_charcuterie,3
+77,Perthes,772,boucherie_charcuterie,1
+92,Bois-Colombes,922,boucherie_charcuterie,8
+94,Mandres-les-Roses,941,boucherie_charcuterie,2
+78,Coignières,782,boucherie_charcuterie,3
+91,Saclas,911,boucherie_charcuterie,2
+93,Neuilly-sur-Marne,932,boucherie_charcuterie,3
+78,La Verrière,782,boucherie_charcuterie,1
+78,Louveciennes,783,boucherie_charcuterie,2
+77,Sept-Sorts,771,boucherie_charcuterie,1
+77,Torcy,775,boucherie_charcuterie,2
+92,Boulogne-Billancourt,923,boucherie_charcuterie,30
+78,Saint-Rémy-lès-Chevreuse,782,boucherie_charcuterie,1
+77,Andrezel,772,boucherie_charcuterie,1
+78,Bouafle,781,boucherie_charcuterie,1
+77,Vaires-sur-Marne,775,boucherie_charcuterie,2
+78,Poissy,783,boucherie_charcuterie,8
+91,Bures-sur-Yvette,913,boucherie_charcuterie,1
+78,Septeuil,781,boucherie_charcuterie,1
+91,Juvisy-sur-Orge,913,boucherie_charcuterie,2
+93,Le Blanc-Mesnil,932,boucherie_charcuterie,5
+95,Montigny-lès-Cormeilles,951,boucherie_charcuterie,4
+77,Solers,772,boucherie_charcuterie,1
+95,Pontoise,953,boucherie_charcuterie,11
+77,Lorrez-le-Bocage-Préaux,774,boucherie_charcuterie,1
+77,Moissy-Cramayel,772,boucherie_charcuterie,3
+78,Vaux-sur-Seine,781,boucherie_charcuterie,1
+77,Bailly-Romainvilliers,775,boucherie_charcuterie,1
+77,Montévrain,775,boucherie_charcuterie,6
+93,Les Pavillons-sous-Bois,931,boucherie_charcuterie,13
+91,Breuillet,911,boucherie_charcuterie,1
+77,Fontainebleau,774,boucherie_charcuterie,3
+75,Paris 3e Arrondissement,751,boucherie_charcuterie,5
+94,Boissy-Saint-Léger,941,boucherie_charcuterie,5
+77,Thorigny-sur-Marne,775,boucherie_charcuterie,2
+78,Saint-Arnoult-en-Yvelines,782,boucherie_charcuterie,2
+95,Herblay,951,boucherie_charcuterie,8
+95,Beaumont-sur-Oise,953,boucherie_charcuterie,2
+75,Paris 1er Arrondissement,751,boucherie_charcuterie,10
+78,Vélizy-Villacoublay,784,boucherie_charcuterie,4
+93,Sevran,932,boucherie_charcuterie,9
+95,Commeny,953,boucherie_charcuterie,1
+91,Briis-sous-Forges,913,boucherie_charcuterie,2
+91,Saint-Germain-lès-Corbeil,912,boucherie_charcuterie,1
+95,Fosses,952,boucherie_charcuterie,2
+77,Saint-Augustin,771,boucherie_charcuterie,1
+78,Épône,781,boucherie_charcuterie,1
+77,Trilbardou,771,boucherie_charcuterie,2
+95,Marines,953,boucherie_charcuterie,2
+77,Fontenay-Trésigny,773,boucherie_charcuterie,2
+77,Dammartin-sur-Tigeaux,773,boucherie_charcuterie,1
+77,Saint-Soupplets,771,boucherie_charcuterie,1
+91,Quincy-sous-Sénart,912,boucherie_charcuterie,1
+94,Charenton-le-Pont,941,boucherie_charcuterie,5
+77,Saint-Thibault-des-Vignes,775,boucherie_charcuterie,1
+78,Beynes,782,boucherie_charcuterie,2
+77,Esbly,771,boucherie_charcuterie,1
+92,Montrouge,921,boucherie_charcuterie,12
+94,Villejuif,943,boucherie_charcuterie,10
+94,L'Haÿ-les-Roses,943,boucherie_charcuterie,6
+93,Drancy,931,boucherie_charcuterie,20
+91,Étréchy,911,boucherie_charcuterie,2
+94,Villiers-sur-Marne,942,boucherie_charcuterie,8
+78,Rambouillet,782,boucherie_charcuterie,6
+77,Égreville,774,boucherie_charcuterie,1
+95,Seraincourt,953,boucherie_charcuterie,1
+91,Nozay,913,boucherie_charcuterie,2
+78,Orgerus,781,boucherie_charcuterie,1
+92,Neuilly-sur-Seine,922,boucherie_charcuterie,23
+92,Clamart,921,boucherie_charcuterie,18
+77,Saint-Mammès,774,boucherie_charcuterie,1
+77,Bussy-Saint-Georges,775,boucherie_charcuterie,1
+77,Gretz-Armainvilliers,772,boucherie_charcuterie,2
+77,Lizy-sur-Ourcq,771,boucherie_charcuterie,1
+91,Marcoussis,913,boucherie_charcuterie,3
+94,Vincennes,942,boucherie_charcuterie,16
+77,Cesson,772,boucherie_charcuterie,1
+77,Chaumes-en-Brie,772,boucherie_charcuterie,1
+77,Ury,774,boucherie_charcuterie,1
+78,La Queue-les-Yvelines,782,boucherie_charcuterie,1
+95,Ézanville,952,boucherie_charcuterie,2
+93,Aubervilliers,933,boucherie_charcuterie,40
+95,La Frette-sur-Seine,951,boucherie_charcuterie,1
+93,Saint-Ouen,933,boucherie_charcuterie,10
+75,Paris 16e Arrondissement,751,boucherie_charcuterie,57
+91,Longjumeau,913,boucherie_charcuterie,9
+77,Souppes-sur-Loing,774,boucherie_charcuterie,1
+91,Le Val-Saint-Germain,911,boucherie_charcuterie,2
+78,Les Mureaux,781,boucherie_charcuterie,13
+91,Limours,913,boucherie_charcuterie,3
+91,Orsay,913,boucherie_charcuterie,4
+78,Viroflay,784,boucherie_charcuterie,4
+95,Marly-la-Ville,952,boucherie_charcuterie,1
+75,Paris 17e Arrondissement,751,boucherie_charcuterie,77
+92,Bourg-la-Reine,921,boucherie_charcuterie,5
+93,Le Raincy,932,boucherie_charcuterie,8
+77,Marolles-sur-Seine,773,boucherie_charcuterie,1
+92,Châtillon,921,boucherie_charcuterie,3
+94,Arcueil,943,boucherie_charcuterie,5
+78,Conflans-Sainte-Honorine,783,boucherie_charcuterie,10
+95,Cergy,953,boucherie_charcuterie,9
+77,Claye-Souilly,775,boucherie_charcuterie,6
+78,Achères,783,boucherie_charcuterie,4
+78,Les Clayes-sous-Bois,784,boucherie_charcuterie,4
+93,Noisy-le-Sec,931,boucherie_charcuterie,12
+77,Couilly-Pont-aux-Dames,771,boucherie_charcuterie,1
+92,Sceaux,921,boucherie_charcuterie,8
+77,Pringy,772,boucherie_charcuterie,1
+77,Saint-Fargeau-Ponthierry,772,boucherie_charcuterie,4
+93,Bagnolet,931,boucherie_charcuterie,9
+78,Noisy-le-Roi,783,boucherie_charcuterie,3
+78,Magnanville,781,boucherie_charcuterie,3
+92,Rueil-Malmaison,922,boucherie_charcuterie,16
+77,Combs-la-Ville,772,boucherie_charcuterie,2
+94,Saint-Maur-des-Fossés,941,boucherie_charcuterie,30
+95,Saint-Martin-du-Tertre,952,boucherie_charcuterie,1
+77,Liverdy-en-Brie,772,boucherie_charcuterie,2
+94,Ablon-sur-Seine,941,boucherie_charcuterie,1
+78,Saint-Germain-en-Laye,783,boucherie_charcuterie,9
+91,Tigery,912,boucherie_charcuterie,1
+77,Saint-Germain-sur-Morin,771,boucherie_charcuterie,1
+93,Villepinte,932,boucherie_charcuterie,8
+95,Jouy-le-Moutier,953,boucherie_charcuterie,2
+75,Paris 20e Arrondissement,751,boucherie_charcuterie,84
+78,Maurepas,782,boucherie_charcuterie,3
+93,Dugny,931,boucherie_charcuterie,4
+91,Leuville-sur-Orge,913,boucherie_charcuterie,1
+78,Montfort-l'Amaury,782,boucherie_charcuterie,4
+95,L'Isle-Adam,953,boucherie_charcuterie,3
+95,Magny-en-Vexin,953,boucherie_charcuterie,2
+91,Lardy,911,boucherie_charcuterie,1
+75,Paris 5e Arrondissement,751,boucherie_charcuterie,28
+77,Quincy-Voisins,771,boucherie_charcuterie,1
+78,Maisons-Laffitte,783,boucherie_charcuterie,6
+93,Gagny,932,boucherie_charcuterie,3
+77,Coubert,772,boucherie_charcuterie,1
+77,Mormant,772,boucherie_charcuterie,1
+78,Bailly,783,boucherie_charcuterie,1
+95,Vauréal,953,boucherie_charcuterie,3
+94,Valenton,941,boucherie_charcuterie,3
+95,Montmagny,952,boucherie_charcuterie,1
+95,Courdimanche,953,boucherie_charcuterie,1
+77,Lésigny,772,boucherie_charcuterie,2
+91,Saulx-les-Chartreux,913,boucherie_charcuterie,3
+95,Chennevières-lès-Louvres,952,boucherie_charcuterie,1
+95,Taverny,953,boucherie_charcuterie,6
+78,Orgeval,783,boucherie_charcuterie,1
+78,Montigny-le-Bretonneux,784,boucherie_charcuterie,5
+78,Saint-Nom-la-Bretèche,783,boucherie_charcuterie,1
+77,Ozoir-la-Ferrière,775,boucherie_charcuterie,3
+91,Corbeil-Essonnes,912,boucherie_charcuterie,10
+75,Paris 18e Arrondissement,751,boucherie_charcuterie,116
+95,Groslay,952,boucherie_charcuterie,2
+95,Garges-lès-Gonesse,952,boucherie_charcuterie,9
+91,Crosne,912,boucherie_charcuterie,3
+77,Meaux,771,boucherie_charcuterie,14
+92,Clichy,922,boucherie_charcuterie,19
+94,Villeneuve-Saint-Georges,941,boucherie_charcuterie,7
+94,Le Perreux-sur-Marne,942,boucherie_charcuterie,7
+77,Bazoches-lès-Bray,773,boucherie_charcuterie,1
+91,Wissous,913,boucherie_charcuterie,2
+78,Houilles,783,boucherie_charcuterie,7
+95,Le Mesnil-Aubry,952,boucherie_charcuterie,1
+92,Issy-les-Moulineaux,923,boucherie_charcuterie,8
+77,La Ferté-Gaucher,773,boucherie_charcuterie,2
+78,Carrières-sur-Seine,783,boucherie_charcuterie,4
+95,Luzarches,952,boucherie_charcuterie,1
+92,Malakoff,921,boucherie_charcuterie,8
+94,Sucy-en-Brie,941,boucherie_charcuterie,4
+75,Paris 6e Arrondissement,751,boucherie_charcuterie,18
+77,Coulommiers,771,boucherie_charcuterie,6
+77,Brou-sur-Chantereine,775,boucherie_charcuterie,3
+77,Le Châtelet-en-Brie,772,boucherie_charcuterie,1
+77,Le Pin,775,boucherie_charcuterie,1
+95,Bessancourt,953,boucherie_charcuterie,2
+95,Enghien-les-Bains,952,boucherie_charcuterie,4
+91,Itteville,911,boucherie_charcuterie,1
+94,Saint-Maurice,941,boucherie_charcuterie,1
+77,Noisiel,775,boucherie_charcuterie,2
+93,Villetaneuse,933,boucherie_charcuterie,3
+95,Montmorency,952,boucherie_charcuterie,4
+95,Le Thillay,952,boucherie_charcuterie,2
+95,Wy-dit-Joli-Village,953,boucherie_charcuterie,1
+91,Dourdan,911,boucherie_charcuterie,6
+78,Mantes-la-Jolie,781,boucherie_charcuterie,19
+77,Sammeron,771,boucherie_charcuterie,1
+93,Bondy,931,boucherie_charcuterie,16
+91,Athis-Mons,913,boucherie_charcuterie,5
+78,Croissy-sur-Seine,783,boucherie_charcuterie,4
+77,Jouy-le-Châtel,773,boucherie_charcuterie,1
+95,Franconville,953,boucherie_charcuterie,7
+91,Chalo-Saint-Mars,911,boucherie_charcuterie,1
+91,Évry,912,boucherie_charcuterie,9
+77,Mitry-Mory,771,boucherie_charcuterie,7
+91,Bruyères-le-Châtel,913,boucherie_charcuterie,1
+77,Carnetin,775,boucherie_charcuterie,1
+94,Villeneuve-le-Roi,941,boucherie_charcuterie,10
+77,Seine-Port,772,boucherie_charcuterie,1
+75,Paris 8e Arrondissement,751,boucherie_charcuterie,15
+95,Parmain,953,boucherie_charcuterie,2
+91,Morsang-sur-Orge,912,boucherie_charcuterie,4
+91,Angerville,911,boucherie_charcuterie,2
+93,Les Lilas,931,boucherie_charcuterie,10
+75,Paris 14e Arrondissement,751,boucherie_charcuterie,47
+75,Paris 11e Arrondissement,751,boucherie_charcuterie,68
+78,Neauphle-le-Château,782,boucherie_charcuterie,1
+95,Méry-sur-Oise,953,boucherie_charcuterie,2
+91,Le Coudray-Montceaux,912,boucherie_charcuterie,2
+77,Villeneuve-le-Comte,773,boucherie_charcuterie,1
+94,Champigny-sur-Marne,942,boucherie_charcuterie,18
+94,Fontenay-sous-Bois,942,boucherie_charcuterie,10
+95,Bernes-sur-Oise,953,boucherie_charcuterie,1
+75,Paris 15e Arrondissement,751,boucherie_charcuterie,71
+95,Ableiges,953,boucherie_charcuterie,1
+77,Jouy-sur-Morin,773,boucherie_charcuterie,1
+78,Houdan,781,boucherie_charcuterie,3
+78,Gargenville,781,boucherie_charcuterie,2
+77,Précy-sur-Marne,771,boucherie_charcuterie,1
+95,Soisy-sous-Montmorency,952,boucherie_charcuterie,5
+78,Maule,781,boucherie_charcuterie,2
+78,Bois-d'Arcy,784,boucherie_charcuterie,2
+78,Élancourt,782,boucherie_charcuterie,3
+77,Ussy-sur-Marne,771,boucherie_charcuterie,1
+77,Varennes-sur-Seine,773,boucherie_charcuterie,3
+78,Meulan-en-Yvelines,781,boucherie_charcuterie,7
+91,Étampes,911,boucherie_charcuterie,9
+78,Magny-les-Hameaux,782,boucherie_charcuterie,1
+78,Tilly,781,boucherie_charcuterie,1
+95,Asnières-sur-Oise,952,boucherie_charcuterie,2
+91,Saint-Vrain,913,boucherie_charcuterie,1
+77,Le Mée-sur-Seine,772,boucherie_charcuterie,4
+92,La Garenne-Colombes,922,boucherie_charcuterie,6
+93,Rosny-sous-Bois,931,boucherie_charcuterie,7
+78,Boinville-le-Gaillard,782,boucherie_charcuterie,3
+78,Mareil-Marly,783,boucherie_charcuterie,1
+93,Neuilly-Plaisance,932,boucherie_charcuterie,6
+77,Chenoise,773,boucherie_charcuterie,1
+93,Le Pré-Saint-Gervais,931,boucherie_charcuterie,5
+78,Issou,781,boucherie_charcuterie,1
+93,Vaujours,932,boucherie_charcuterie,1
+94,Créteil,941,boucherie_charcuterie,17
+77,Saint-Mard,771,boucherie_charcuterie,2
+92,Levallois-Perret,922,boucherie_charcuterie,18
+78,Gambais,781,boucherie_charcuterie,1
+77,Nanteuil-lès-Meaux,771,boucherie_charcuterie,3
+93,Clichy-sous-Bois,932,boucherie_charcuterie,7
+95,Viarmes,952,boucherie_charcuterie,1
+78,Bazainville,781,boucherie_charcuterie,2
+77,Congis-sur-Thérouanne,771,boucherie_charcuterie,1
+95,Puiseux-Pontoise,953,boucherie_charcuterie,1
+95,Arnouville,952,boucherie_charcuterie,9
+78,La Celle-Saint-Cloud,783,boucherie_charcuterie,6
+77,Jablines,775,boucherie_charcuterie,1
+77,Montereau-Fault-Yonne,773,boucherie_charcuterie,9
+78,Chambourcy,783,boucherie_charcuterie,1
+91,Palaiseau,913,boucherie_charcuterie,9
+78,Villepreux,783,boucherie_charcuterie,1
+95,Sarcelles,952,boucherie_charcuterie,23
+77,Vaux-le-Pénil,772,boucherie_charcuterie,2
+77,Chessy,775,boucherie_charcuterie,1
+95,Villiers-le-Bel,952,boucherie_charcuterie,4
+93,Aulnay-sous-Bois,932,boucherie_charcuterie,18
+91,La Ville-du-Bois,913,boucherie_charcuterie,3
+95,Pierrelaye,953,boucherie_charcuterie,1
+77,Boissise-le-Roi,772,boucherie_charcuterie,1
+91,Verrières-le-Buisson,913,boucherie_charcuterie,3
+91,Draveil,912,boucherie_charcuterie,8
+77,Rebais,773,boucherie_charcuterie,1
+78,Bougival,783,boucherie_charcuterie,2
+92,Villeneuve-la-Garenne,922,boucherie_charcuterie,3
+95,Saint-Clair-sur-Epte,953,boucherie_charcuterie,1
+93,Coubron,932,boucherie_charcuterie,2
+78,Poigny-la-Forêt,782,boucherie_charcuterie,1
+94,Fresnes,943,boucherie_charcuterie,3
+91,Villemoisson-sur-Orge,913,boucherie_charcuterie,1
+75,Paris 9e Arrondissement,751,boucherie_charcuterie,34
+77,Pontault-Combault,775,boucherie_charcuterie,4
+78,Flins-sur-Seine,781,boucherie_charcuterie,1
+78,Montesson,783,boucherie_charcuterie,3
+94,Ivry-sur-Seine,941,boucherie_charcuterie,16
+78,Tessancourt-sur-Aubette,781,boucherie_charcuterie,1
+95,Chaumontel,952,boucherie_charcuterie,1
+78,Feucherolles,783,boucherie_charcuterie,1
+77,Moret-sur-Loing,774,boucherie_charcuterie,3
+78,Les Essarts-le-Roi,782,boucherie_charcuterie,1
+91,Saint-Michel-sur-Orge,913,boucherie_charcuterie,5
+95,Domont,952,boucherie_charcuterie,2
+92,Châtenay-Malabry,921,boucherie_charcuterie,5
+93,Bobigny,931,boucherie_charcuterie,8
+77,Villenoy,771,boucherie_charcuterie,1
+95,Bezons,951,boucherie_charcuterie,7
+95,Goussainville,952,boucherie_charcuterie,10
+77,Varreddes,771,boucherie_charcuterie,1
+77,Veneux-les-Sablons,774,boucherie_charcuterie,1
+78,Sartrouville,783,boucherie_charcuterie,12
+77,La Rochette,772,boucherie_charcuterie,1
+95,Ermont,953,boucherie_charcuterie,5
+95,Saint-Brice-sous-Forêt,952,boucherie_charcuterie,3
+78,Cernay-la-Ville,782,boucherie_charcuterie,2
+93,Noisy-le-Grand,932,boucherie_charcuterie,13
+78,Verneuil-sur-Seine,783,boucherie_charcuterie,1
+95,Sannois,951,boucherie_charcuterie,8
+78,Rocquencourt,784,boucherie_charcuterie,1
+92,Meudon,923,boucherie_charcuterie,12
+91,Vigneux-sur-Seine,912,boucherie_charcuterie,5
+91,Varennes-Jarcy,912,boucherie_charcuterie,1
+95,Saint-Leu-la-Forêt,953,boucherie_charcuterie,7
+94,Saint-Mandé,942,boucherie_charcuterie,7
+77,Émerainville,775,boucherie_charcuterie,1
+95,Mériel,953,boucherie_charcuterie,1
+78,Fontenay-le-Fleury,784,boucherie_charcuterie,3
+94,Vitry-sur-Seine,941,boucherie_charcuterie,18
+95,Montsoult,952,boucherie_charcuterie,1
+92,Colombes,922,boucherie_charcuterie,19
+78,Chanteloup-les-Vignes,783,boucherie_charcuterie,2
+94,Rungis,943,boucherie_charcuterie,8
+78,Trappes,784,boucherie_charcuterie,9
+93,Montfermeil,932,boucherie_charcuterie,5
+77,Crécy-la-Chapelle,771,boucherie_charcuterie,2
+77,Livry-sur-Seine,772,boucherie_charcuterie,1
+78,Andrésy,783,boucherie_charcuterie,4
+78,Chatou,783,boucherie_charcuterie,7
+78,Triel-sur-Seine,783,boucherie_charcuterie,2
+91,Saint-Pierre-du-Perray,912,boucherie_charcuterie,1
+78,Vernouillet,783,boucherie_charcuterie,2
+95,Saint-Prix,953,boucherie_charcuterie,1
+77,Montgé-en-Goële,771,boucherie_charcuterie,2
+91,Brunoy,912,boucherie_charcuterie,10
+92,Nanterre,922,boucherie_charcuterie,18
+77,Pomponne,775,boucherie_charcuterie,1
+77,Tournan-en-Brie,772,boucherie_charcuterie,2
+91,Linas,913,boucherie_charcuterie,1
+78,Versailles,784,boucherie_charcuterie,33
+91,Morangis,913,boucherie_charcuterie,4
+77,Faremoutiers,771,boucherie_charcuterie,2
+92,Garches,922,boucherie_charcuterie,4
+95,Éragny,953,boucherie_charcuterie,3
+91,Fleury-Mérogis,912,boucherie_charcuterie,1
+77,Château-Landon,774,boucherie_charcuterie,3
+78,Oinville-sur-Montcient,781,boucherie_charcuterie,1
+78,Ablis,782,boucherie_charcuterie,1
+78,Maurecourt,783,boucherie_charcuterie,1
+95,Neuville-sur-Oise,953,boucherie_charcuterie,1
+77,La Ferté-sous-Jouarre,771,boucherie_charcuterie,3
+77,Tousson,774,boucherie_charcuterie,1
+78,Jouy-en-Josas,784,boucherie_charcuterie,2
+77,Melun,772,boucherie_charcuterie,9
+91,Saint-Chéron,911,boucherie_charcuterie,2
+77,Beton-Bazoches,773,boucherie_charcuterie,1
+95,Gonesse,952,boucherie_charcuterie,5
+92,Chaville,923,boucherie_charcuterie,4
+93,Montreuil,931,boucherie_charcuterie,34
+95,Beauchamp,953,boucherie_charcuterie,2
+78,Mézières-sur-Seine,781,boucherie_charcuterie,1
+95,Nesles-la-Vallée,953,boucherie_charcuterie,1
+77,Chevry-Cossigny,772,boucherie_charcuterie,1
+77,Provins,773,boucherie_charcuterie,7
+78,Évecquemont,781,boucherie_charcuterie,1
+94,Choisy-le-Roi,941,boucherie_charcuterie,14
+78,Voisins-le-Bretonneux,782,boucherie_charcuterie,1
+91,Épinay-sous-Sénart,912,boucherie_charcuterie,2
+94,Villecresnes,941,boucherie_charcuterie,2
+77,Avon,774,boucherie_charcuterie,3
+95,Osny,953,boucherie_charcuterie,2
+78,Ecquevilly,781,boucherie_charcuterie,1
+78,Guyancourt,784,boucherie_charcuterie,3
+92,Fontenay-aux-Roses,921,boucherie_charcuterie,1
+77,Trilport,771,boucherie_charcuterie,3
+93,Stains,933,boucherie_charcuterie,13
+77,Donnemarie-Dontilly,773,boucherie_charcuterie,1
+78,La Villeneuve-en-Chevrie,781,boucherie_charcuterie,1
+92,Vaucresson,923,boucherie_charcuterie,2
+95,Cormeilles-en-Parisis,951,boucherie_charcuterie,3
+91,Brétigny-sur-Orge,913,boucherie_charcuterie,5
+94,Nogent-sur-Marne,942,boucherie_charcuterie,5
+78,Freneuse,781,boucherie_charcuterie,1
+78,Jouars-Pontchartrain,782,boucherie_charcuterie,1
+91,Boutigny-sur-Essonne,911,boucherie_charcuterie,1
+77,Choisy-en-Brie,773,boucherie_charcuterie,1
+91,Gif-sur-Yvette,913,boucherie_charcuterie,6
+95,Piscop,952,boucherie_charcuterie,1
+91,Champcueil,912,boucherie_charcuterie,1
+94,Bonneuil-sur-Marne,941,boucherie_charcuterie,6
+78,Les Alluets-le-Roi,783,boucherie_charcuterie,1
+77,Bourron-Marlotte,774,boucherie_charcuterie,1
+92,Puteaux,922,boucherie_charcuterie,12
+75,Paris 2e Arrondissement,751,boucherie_charcuterie,10
+91,Igny,913,boucherie_charcuterie,3
+77,Champagne-sur-Seine,774,boucherie_charcuterie,2
+77,Savigny-le-Temple,772,boucherie_charcuterie,4
+78,Le Vésinet,783,boucherie_charcuterie,10
+78,Mantes-la-Ville,781,boucherie_charcuterie,4
+91,Ris-Orangis,912,boucherie_charcuterie,12
+94,Joinville-le-Pont,942,boucherie_charcuterie,7
+93,La Courneuve,933,boucherie_charcuterie,21
+77,Nangis,773,boucherie_charcuterie,2
+77,Boissy-le-Châtel,771,boucherie_charcuterie,1
+92,Sèvres,923,boucherie_charcuterie,2
+93,Saint-Denis,933,boucherie_charcuterie,36
+95,Saint-Witz,952,boucherie_charcuterie,1
+93,Tremblay-en-France,932,boucherie_charcuterie,6
+95,Auvers-sur-Oise,953,boucherie_charcuterie,1
+94,Chevilly-Larue,943,boucherie_charcuterie,2
+95,Eaubonne,953,boucherie_charcuterie,3
+77,Brie-Comte-Robert,772,boucherie_charcuterie,5
+77,Samoreau,774,boucherie_charcuterie,1
+91,Les Ulis,913,boucherie_charcuterie,3
+93,Pierrefitte-sur-Seine,933,boucherie_charcuterie,6
+93,Épinay-sur-Seine,933,boucherie_charcuterie,10
+91,Montlhéry,913,boucherie_charcuterie,2
+91,Bièvres,913,boucherie_charcuterie,1
+77,Villeparisis,775,boucherie_charcuterie,5
+75,Paris 7e Arrondissement,751,boucherie_charcuterie,22
+92,Vanves,921,boucherie_charcuterie,4
+91,Chilly-Mazarin,913,boucherie_charcuterie,4
+78,Thoiry,782,boucherie_charcuterie,1
+77,La Chapelle-Gauthier,772,boucherie_charcuterie,1
+91,Yerres,912,boucherie_charcuterie,3
+94,Marolles-en-Brie,941,boucherie_charcuterie,1
+77,Barbizon,772,boucherie_charcuterie,2
+77,Nemours,774,boucherie_charcuterie,5
+92,Courbevoie,922,boucherie_charcuterie,18
+91,Sainte-Geneviève-des-Bois,913,boucherie_charcuterie,12
+75,Paris 12e Arrondissement,751,boucherie_charcuterie,53
+95,Deuil-la-Barre,952,boucherie_charcuterie,7
+77,Vert-Saint-Denis,772,boucherie_charcuterie,1
+78,Bennecourt,781,boucherie_charcuterie,1
+77,Bray-sur-Seine,773,boucherie_charcuterie,3
+78,Villennes-sur-Seine,783,boucherie_charcuterie,1
+95,Argenteuil,951,boucherie_charcuterie,39
+78,Bonnières-sur-Seine,781,boucherie_charcuterie,3
+77,Villevaudé,775,boucherie_charcuterie,1
+77,Voulton,773,boucherie_charcuterie,1
+75,Paris 19e Arrondissement,751,boucherie_charcuterie,68
+78,Limay,781,boucherie_charcuterie,6
+94,Orly,941,boucherie_charcuterie,8
+78,Crespières,783,boucherie_charcuterie,1
+94,Le Kremlin-Bicêtre,943,boucherie_charcuterie,13
+95,Sagy,953,boucherie_charcuterie,1
+91,Viry-Châtillon,912,boucherie_charcuterie,3
+78,Aubergenville,781,boucherie_charcuterie,3
+95,Le Plessis-Bouchard,953,boucherie_charcuterie,1
+95,Seugy,952,boucherie_charcuterie,1
+95,Louvres,952,boucherie_charcuterie,2
+78,Bréval,781,boucherie_charcuterie,1
+92,Le Plessis-Robinson,921,boucherie_charcuterie,2
+91,Massy,913,boucherie_charcuterie,12
+91,Ollainville,913,boucherie_charcuterie,1
+78,Le Chesnay,784,boucherie_charcuterie,2
+95,Persan,953,boucherie_charcuterie,4
+93,Romainville,931,boucherie_charcuterie,10
+91,Courcouronnes,912,boucherie_charcuterie,6
+91,Les Molières,913,boucherie_charcuterie,1
+92,Ville-d'Avray,923,boucherie_charcuterie,1
+93,Gournay-sur-Marne,932,boucherie_charcuterie,1
+92,Suresnes,922,boucherie_charcuterie,9
+94,Ormesson-sur-Marne,942,boucherie_charcuterie,5
+91,Grigny,912,boucherie_charcuterie,6
+94,Limeil-Brévannes,941,boucherie_charcuterie,1
+91,Maisse,912,boucherie_charcuterie,1
+77,Crouy-sur-Ourcq,771,boucherie_charcuterie,1
+92,Antony,921,boucherie_charcuterie,13
+77,Dammartin-en-Goële,771,boucherie_charcuterie,1
+77,Jouarre,771,boucherie_charcuterie,2
+77,Sainte-Colombe,773,boucherie_charcuterie,1
+77,Monthyon,771,boucherie_charcuterie,1
+77,Roissy-en-Brie,775,boucherie_charcuterie,2
+78,Plaisir,784,boucherie_charcuterie,3
+94,Le Plessis-Trévise,942,boucherie_charcuterie,7
+77,Chelles,775,boucherie_charcuterie,16
+91,Milly-la-Forêt,912,boucherie_charcuterie,3
+78,Le Mesnil-Saint-Denis,782,boucherie_charcuterie,1
+78,Le Pecq,783,boucherie_charcuterie,1
+95,Saint-Gratien,952,boucherie_charcuterie,7
+93,Pantin,931,boucherie_charcuterie,22
+94,Gentilly,943,boucherie_charcuterie,5
+92,Gennevilliers,922,boucherie_charcuterie,12
+78,Chapet,781,boucherie_charcuterie,1
+92,Saint-Cloud,923,boucherie_charcuterie,2
+93,Le Bourget,931,boucherie_charcuterie,4
+92,Asnières-sur-Seine,922,boucherie_charcuterie,31
+92,Bagneux,921,boucherie_charcuterie,7
+94,Thiais,943,boucherie_charcuterie,5
+91,Villiers-sur-Orge,913,boucherie_charcuterie,2
+91,Avrainville,913,boucherie_charcuterie,1
+91,Mennecy,912,boucherie_charcuterie,3
+94,Maisons-Alfort,941,boucherie_charcuterie,15
+95,Saint-Ouen-l'Aumône,953,boucherie_charcuterie,7
+78,Carrières-sous-Poissy,783,boucherie_charcuterie,3
+78,Juziers,781,boucherie_charcuterie,1
+91,Arpajon,913,boucherie_charcuterie,8
+77,Dammarie-les-Lys,772,boucherie_charcuterie,9
+94,Alfortville,941,boucherie_charcuterie,14
+77,Bois-le-Roi,774,boucherie_charcuterie,3
+77,Saâcy-sur-Marne,771,boucherie_charcuterie,3
+95,Chars,953,boucherie_charcuterie,1
+75,Paris 4e Arrondissement,751,boucherie_charcuterie,16
+75,Paris 13e Arrondissement,751,boucherie_charcuterie,48
+91,Paray-Vieille-Poste,913,boucherie_charcuterie,4
+91,Montgeron,912,boucherie_charcuterie,6
+78,Chevreuse,782,boucherie_charcuterie,2
+78,Marly-le-Roi,783,boucherie_charcuterie,1
+75,Paris 10e Arrondissement,751,boucherie_charcuterie,68
+91,Soisy-sur-Seine,912,boucherie_charcuterie,4
+93,Livry-Gargan,932,boucherie_charcuterie,12
+91,Bouray-sur-Juine,911,boucherie_charcuterie,1
+78,Le Mesnil-le-Roi,783,boucherie_charcuterie,1
+78,Le Perray-en-Yvelines,782,boucherie_charcuterie,1
+77,Champs-sur-Marne,775,boucherie_charcuterie,1
+94,Bry-sur-Marne,942,boucherie_charcuterie,4
+78,Bourdonné,781,boucherie_charcuterie,1
+91,Épinay-sur-Orge,913,boucherie_charcuterie,3
+94,Cachan,943,produits_surgeles,1
+91,Savigny-sur-Orge,913,produits_surgeles,1
+93,Villemomble,931,produits_surgeles,1
+78,Saint-Cyr-l'École,784,produits_surgeles,1
+92,Bois-Colombes,922,produits_surgeles,1
+93,Neuilly-sur-Marne,932,produits_surgeles,1
+77,Torcy,775,produits_surgeles,2
+92,Boulogne-Billancourt,923,produits_surgeles,6
+78,Saint-Rémy-lès-Chevreuse,782,produits_surgeles,1
+78,Poissy,783,produits_surgeles,1
+77,Hautefeuille,773,produits_surgeles,1
+95,Montigny-lès-Cormeilles,951,produits_surgeles,1
+77,Mareuil-lès-Meaux,771,produits_surgeles,1
+95,Pontoise,953,produits_surgeles,1
+93,Les Pavillons-sous-Bois,931,produits_surgeles,1
+77,Fontainebleau,774,produits_surgeles,1
+75,Paris 3e Arrondissement,751,produits_surgeles,3
+91,Saint-Germain-lès-Corbeil,912,produits_surgeles,1
+78,Épône,781,produits_surgeles,1
+91,Quincy-sous-Sénart,912,produits_surgeles,1
+94,Charenton-le-Pont,941,produits_surgeles,1
+91,Ballancourt-sur-Essonne,912,produits_surgeles,1
+77,Saint-Thibault-des-Vignes,775,produits_surgeles,1
+77,Esbly,771,produits_surgeles,1
+92,Montrouge,921,produits_surgeles,3
+94,Villejuif,943,produits_surgeles,1
+94,L'Haÿ-les-Roses,943,produits_surgeles,1
+93,Drancy,931,produits_surgeles,2
+94,Villiers-sur-Marne,942,produits_surgeles,1
+78,Rambouillet,782,produits_surgeles,1
+92,Neuilly-sur-Seine,922,produits_surgeles,3
+92,Clamart,921,produits_surgeles,2
+77,Bussy-Saint-Georges,775,produits_surgeles,2
+77,Lizy-sur-Ourcq,771,produits_surgeles,1
+94,Vincennes,942,produits_surgeles,3
+95,Ézanville,952,produits_surgeles,1
+93,Aubervilliers,933,produits_surgeles,1
+75,Paris 16e Arrondissement,751,produits_surgeles,5
+78,Les Mureaux,781,produits_surgeles,1
+91,Orsay,913,produits_surgeles,1
+78,Viroflay,784,produits_surgeles,2
+75,Paris 17e Arrondissement,751,produits_surgeles,9
+92,Bourg-la-Reine,921,produits_surgeles,1
+93,Le Raincy,932,produits_surgeles,1
+92,Châtillon,921,produits_surgeles,1
+78,Conflans-Sainte-Honorine,783,produits_surgeles,1
+77,Claye-Souilly,775,produits_surgeles,1
+78,Achères,783,produits_surgeles,1
+93,Noisy-le-Sec,931,produits_surgeles,1
+92,Sceaux,921,produits_surgeles,1
+93,Bagnolet,931,produits_surgeles,2
+78,Noisy-le-Roi,783,produits_surgeles,1
+92,Rueil-Malmaison,922,produits_surgeles,3
+77,Combs-la-Ville,772,produits_surgeles,1
+94,Saint-Maur-des-Fossés,941,produits_surgeles,4
+78,Saint-Germain-en-Laye,783,produits_surgeles,2
+75,Paris 20e Arrondissement,751,produits_surgeles,8
+78,Maurepas,782,produits_surgeles,1
+95,L'Isle-Adam,953,produits_surgeles,1
+75,Paris 5e Arrondissement,751,produits_surgeles,6
+78,Maisons-Laffitte,783,produits_surgeles,1
+95,Vauréal,953,produits_surgeles,1
+94,Valenton,941,produits_surgeles,2
+95,Taverny,953,produits_surgeles,1
+78,Montigny-le-Bretonneux,784,produits_surgeles,2
+75,Paris 18e Arrondissement,751,produits_surgeles,9
+77,Meaux,771,produits_surgeles,2
+92,Clichy,922,produits_surgeles,1
+94,Le Perreux-sur-Marne,942,produits_surgeles,1
+78,Houilles,783,produits_surgeles,1
+92,Issy-les-Moulineaux,923,produits_surgeles,3
+92,Malakoff,921,produits_surgeles,1
+94,Sucy-en-Brie,941,produits_surgeles,1
+75,Paris 6e Arrondissement,751,produits_surgeles,2
+77,Coulommiers,771,produits_surgeles,1
+77,Le Châtelet-en-Brie,772,produits_surgeles,1
+78,Mantes-la-Jolie,781,produits_surgeles,1
+93,Bondy,931,produits_surgeles,1
+91,Athis-Mons,913,produits_surgeles,1
+78,Croissy-sur-Seine,783,produits_surgeles,1
+95,Franconville,953,produits_surgeles,1
+91,Évry,912,produits_surgeles,1
+94,Villeneuve-le-Roi,941,produits_surgeles,1
+75,Paris 8e Arrondissement,751,produits_surgeles,5
+77,Lieusaint,772,produits_surgeles,1
+93,Les Lilas,931,produits_surgeles,1
+75,Paris 14e Arrondissement,751,produits_surgeles,7
+75,Paris 11e Arrondissement,751,produits_surgeles,10
+91,Villebon-sur-Yvette,913,produits_surgeles,1
+94,Champigny-sur-Marne,942,produits_surgeles,1
+94,Fontenay-sous-Bois,942,produits_surgeles,2
+75,Paris 15e Arrondissement,751,produits_surgeles,14
+95,Soisy-sous-Montmorency,952,produits_surgeles,1
+78,Bois-d'Arcy,784,produits_surgeles,1
+77,Varennes-sur-Seine,773,produits_surgeles,1
+78,Meulan-en-Yvelines,781,produits_surgeles,1
+91,Étampes,911,produits_surgeles,1
+92,La Garenne-Colombes,922,produits_surgeles,1
+93,Rosny-sous-Bois,931,produits_surgeles,2
+77,Villiers-en-Bière,772,produits_surgeles,1
+93,Vaujours,932,produits_surgeles,1
+94,Créteil,941,produits_surgeles,3
+92,Levallois-Perret,922,produits_surgeles,2
+78,Chambourcy,783,produits_surgeles,1
+93,Aulnay-sous-Bois,932,produits_surgeles,1
+91,Verrières-le-Buisson,913,produits_surgeles,1
+91,Draveil,912,produits_surgeles,1
+94,Fresnes,943,produits_surgeles,1
+75,Paris 9e Arrondissement,751,produits_surgeles,2
+77,Pontault-Combault,775,produits_surgeles,1
+78,Flins-sur-Seine,781,produits_surgeles,1
+78,Montesson,783,produits_surgeles,2
+94,Ivry-sur-Seine,941,produits_surgeles,1
+95,Ermont,953,produits_surgeles,1
+95,Saint-Brice-sous-Forêt,952,produits_surgeles,1
+93,Noisy-le-Grand,932,produits_surgeles,1
+78,Verneuil-sur-Seine,783,produits_surgeles,1
+95,Sannois,951,produits_surgeles,1
+92,Meudon,923,produits_surgeles,2
+95,Saint-Leu-la-Forêt,953,produits_surgeles,1
+94,Saint-Mandé,942,produits_surgeles,1
+94,Vitry-sur-Seine,941,produits_surgeles,1
+92,Colombes,922,produits_surgeles,2
+93,Montfermeil,932,produits_surgeles,1
+78,Andrésy,783,produits_surgeles,1
+78,Chatou,783,produits_surgeles,1
+77,Rubelles,772,produits_surgeles,1
+91,Villabé,912,produits_surgeles,1
+91,Brunoy,912,produits_surgeles,1
+92,Nanterre,922,produits_surgeles,2
+78,Versailles,784,produits_surgeles,3
+92,Garches,922,produits_surgeles,1
+77,La Ferté-sous-Jouarre,771,produits_surgeles,1
+78,Jouy-en-Josas,784,produits_surgeles,1
+77,Melun,772,produits_surgeles,1
+95,Gonesse,952,produits_surgeles,1
+92,Chaville,923,produits_surgeles,1
+93,Montreuil,931,produits_surgeles,2
+78,Mézières-sur-Seine,781,produits_surgeles,1
+77,Provins,773,produits_surgeles,1
+78,Voisins-le-Bretonneux,782,produits_surgeles,1
+77,Avon,774,produits_surgeles,1
+95,Osny,953,produits_surgeles,2
+92,Fontenay-aux-Roses,921,produits_surgeles,1
+92,Vaucresson,923,produits_surgeles,1
+95,Cormeilles-en-Parisis,951,produits_surgeles,1
+91,Brétigny-sur-Orge,913,produits_surgeles,1
+94,Nogent-sur-Marne,942,produits_surgeles,1
+78,Jouars-Pontchartrain,782,produits_surgeles,1
+91,Gif-sur-Yvette,913,produits_surgeles,1
+94,Bonneuil-sur-Marne,941,produits_surgeles,1
+78,Les Alluets-le-Roi,783,produits_surgeles,1
+92,Puteaux,922,produits_surgeles,1
+75,Paris 2e Arrondissement,751,produits_surgeles,1
+77,Savigny-le-Temple,772,produits_surgeles,1
+78,Le Vésinet,783,produits_surgeles,1
+78,Mantes-la-Ville,781,produits_surgeles,1
+91,Ris-Orangis,912,produits_surgeles,2
+94,Joinville-le-Pont,942,produits_surgeles,1
+92,Sèvres,923,produits_surgeles,1
+93,Saint-Denis,933,produits_surgeles,2
+95,Eaubonne,953,produits_surgeles,1
+77,Brie-Comte-Robert,772,produits_surgeles,1
+93,Épinay-sur-Seine,933,produits_surgeles,1
+91,Montlhéry,913,produits_surgeles,1
+77,Villeparisis,775,produits_surgeles,1
+75,Paris 7e Arrondissement,751,produits_surgeles,2
+91,Chilly-Mazarin,913,produits_surgeles,1
+94,Marolles-en-Brie,941,produits_surgeles,1
+77,Nemours,774,produits_surgeles,1
+92,Courbevoie,922,produits_surgeles,2
+91,Sainte-Geneviève-des-Bois,913,produits_surgeles,2
+75,Paris 12e Arrondissement,751,produits_surgeles,10
+95,Deuil-la-Barre,952,produits_surgeles,1
+77,Vert-Saint-Denis,772,produits_surgeles,1
+95,Argenteuil,951,produits_surgeles,1
+75,Paris 19e Arrondissement,751,produits_surgeles,10
+94,Le Kremlin-Bicêtre,943,produits_surgeles,1
+91,Viry-Châtillon,912,produits_surgeles,1
+92,Le Plessis-Robinson,921,produits_surgeles,1
+91,Massy,913,produits_surgeles,1
+78,Le Port-Marly,783,produits_surgeles,1
+78,Le Chesnay,784,produits_surgeles,1
+95,Persan,953,produits_surgeles,1
+92,Ville-d'Avray,923,produits_surgeles,1
+94,Chennevières-sur-Marne,942,produits_surgeles,2
+92,Suresnes,922,produits_surgeles,2
+91,Bondoufle,912,produits_surgeles,1
+77,Ferrières-en-Brie,775,produits_surgeles,1
+92,Antony,921,produits_surgeles,1
+78,Plaisir,784,produits_surgeles,1
+94,Le Plessis-Trévise,942,produits_surgeles,1
+77,Chelles,775,produits_surgeles,2
+78,Le Pecq,783,produits_surgeles,1
+95,Saint-Gratien,952,produits_surgeles,1
+93,Pantin,931,produits_surgeles,1
+92,Saint-Cloud,923,produits_surgeles,1
+92,Asnières-sur-Seine,922,produits_surgeles,2
+94,Thiais,943,produits_surgeles,1
+94,Maisons-Alfort,941,produits_surgeles,1
+95,Saint-Ouen-l'Aumône,953,produits_surgeles,1
+91,Arpajon,913,produits_surgeles,1
+94,Alfortville,941,produits_surgeles,1
+77,Lognes,775,produits_surgeles,1
+75,Paris 13e Arrondissement,751,produits_surgeles,10
+91,Montgeron,912,produits_surgeles,2
+78,Marly-le-Roi,783,produits_surgeles,1
+75,Paris 10e Arrondissement,751,produits_surgeles,7
+93,Livry-Gargan,932,produits_surgeles,1
+91,Épinay-sur-Orge,913,produits_surgeles,1
+94,Cachan,943,poissonnerie,1
+77,Lagny-sur-Marne,775,poissonnerie,2
+93,Villemomble,931,poissonnerie,1
+92,Bois-Colombes,922,poissonnerie,2
+92,Boulogne-Billancourt,923,poissonnerie,8
+78,Poissy,783,poissonnerie,1
+91,Juvisy-sur-Orge,913,poissonnerie,2
+93,Le Blanc-Mesnil,932,poissonnerie,2
+95,Pontoise,953,poissonnerie,1
+77,Fontainebleau,774,poissonnerie,1
+78,Bazemont,781,poissonnerie,1
+75,Paris 3e Arrondissement,751,poissonnerie,1
+91,Saint-Cyr-sous-Dourdan,911,poissonnerie,1
+75,Paris 1er Arrondissement,751,poissonnerie,2
+78,Villiers-Saint-Frédéric,782,poissonnerie,1
+78,Vélizy-Villacoublay,784,poissonnerie,1
+93,Sevran,932,poissonnerie,1
+77,Arville,774,poissonnerie,1
+77,Esbly,771,poissonnerie,1
+92,Montrouge,921,poissonnerie,2
+94,L'Haÿ-les-Roses,943,poissonnerie,5
+93,Drancy,931,poissonnerie,1
+78,Rambouillet,782,poissonnerie,1
+92,Neuilly-sur-Seine,922,poissonnerie,3
+92,Clamart,921,poissonnerie,2
+77,Gretz-Armainvilliers,772,poissonnerie,2
+94,Vincennes,942,poissonnerie,1
+93,Aubervilliers,933,poissonnerie,1
+75,Paris 16e Arrondissement,751,poissonnerie,13
+91,Limours,913,poissonnerie,1
+91,Orsay,913,poissonnerie,1
+75,Paris 17e Arrondissement,751,poissonnerie,14
+92,Châtillon,921,poissonnerie,1
+95,Cergy,953,poissonnerie,2
+78,Achères,783,poissonnerie,1
+78,Les Clayes-sous-Bois,784,poissonnerie,1
+93,Noisy-le-Sec,931,poissonnerie,2
+92,Sceaux,921,poissonnerie,2
+93,Bagnolet,931,poissonnerie,1
+92,Rueil-Malmaison,922,poissonnerie,2
+77,Combs-la-Ville,772,poissonnerie,1
+94,Saint-Maur-des-Fossés,941,poissonnerie,1
+78,Saint-Germain-en-Laye,783,poissonnerie,1
+75,Paris 20e Arrondissement,751,poissonnerie,5
+78,Montfort-l'Amaury,782,poissonnerie,2
+95,Magny-en-Vexin,953,poissonnerie,1
+75,Paris 5e Arrondissement,751,poissonnerie,6
+93,Gagny,932,poissonnerie,1
+91,La Norville,913,poissonnerie,1
+77,Lumigny-Nesles-Ormeaux,773,poissonnerie,1
+77,Lésigny,772,poissonnerie,1
+91,Oncy-sur-École,912,poissonnerie,1
+77,Ozoir-la-Ferrière,775,poissonnerie,1
+95,Maffliers,952,poissonnerie,1
+91,Corbeil-Essonnes,912,poissonnerie,2
+75,Paris 18e Arrondissement,751,poissonnerie,20
+77,Meaux,771,poissonnerie,2
+92,Malakoff,921,poissonnerie,2
+94,Sucy-en-Brie,941,poissonnerie,1
+75,Paris 6e Arrondissement,751,poissonnerie,5
+77,Coulommiers,771,poissonnerie,1
+77,Cély,772,poissonnerie,1
+95,Enghien-les-Bains,952,poissonnerie,1
+95,Montmorency,952,poissonnerie,2
+91,Dourdan,911,poissonnerie,1
+78,Mantes-la-Jolie,781,poissonnerie,2
+93,Bondy,931,poissonnerie,3
+95,Franconville,953,poissonnerie,1
+75,Paris 8e Arrondissement,751,poissonnerie,1
+75,Paris 14e Arrondissement,751,poissonnerie,8
+75,Paris 11e Arrondissement,751,poissonnerie,7
+94,Champigny-sur-Marne,942,poissonnerie,2
+94,Fontenay-sous-Bois,942,poissonnerie,3
+75,Paris 15e Arrondissement,751,poissonnerie,14
+78,Houdan,781,poissonnerie,2
+78,Meulan-en-Yvelines,781,poissonnerie,1
+91,Étampes,911,poissonnerie,1
+92,La Garenne-Colombes,922,poissonnerie,1
+93,Neuilly-Plaisance,932,poissonnerie,1
+94,Créteil,941,poissonnerie,1
+92,Levallois-Perret,922,poissonnerie,2
+77,Nanteuil-lès-Meaux,771,poissonnerie,1
+95,Arnouville,952,poissonnerie,1
+77,Montereau-Fault-Yonne,773,poissonnerie,1
+91,Palaiseau,913,poissonnerie,1
+95,Sarcelles,952,poissonnerie,1
+77,Montigny-sur-Loing,774,poissonnerie,1
+93,Aulnay-sous-Bois,932,poissonnerie,2
+91,Verrières-le-Buisson,913,poissonnerie,1
+91,Draveil,912,poissonnerie,3
+75,Paris 9e Arrondissement,751,poissonnerie,4
+78,Montesson,783,poissonnerie,1
+78,Les Essarts-le-Roi,782,poissonnerie,1
+95,Bezons,951,poissonnerie,1
+95,Goussainville,952,poissonnerie,1
+77,Beauvoir,772,poissonnerie,1
+78,Verneuil-sur-Seine,783,poissonnerie,1
+94,Saint-Mandé,942,poissonnerie,2
+94,Vitry-sur-Seine,941,poissonnerie,1
+92,Colombes,922,poissonnerie,2
+94,Rungis,943,poissonnerie,2
+78,Trappes,784,poissonnerie,1
+93,Montfermeil,932,poissonnerie,1
+77,Moussy-le-Neuf,771,poissonnerie,1
+78,Saint-Germain-de-la-Grange,782,poissonnerie,1
+91,Brunoy,912,poissonnerie,1
+92,Nanterre,922,poissonnerie,4
+77,Tournan-en-Brie,772,poissonnerie,1
+91,Linas,913,poissonnerie,1
+78,Versailles,784,poissonnerie,2
+91,Morangis,913,poissonnerie,1
+77,Melun,772,poissonnerie,3
+91,Saint-Chéron,911,poissonnerie,1
+92,Chaville,923,poissonnerie,1
+93,Montreuil,931,poissonnerie,5
+95,Beauchamp,953,poissonnerie,3
+94,Choisy-le-Roi,941,poissonnerie,1
+78,Ecquevilly,781,poissonnerie,1
+92,Vaucresson,923,poissonnerie,1
+95,Cormeilles-en-Parisis,951,poissonnerie,1
+91,Brétigny-sur-Orge,913,poissonnerie,1
+94,Nogent-sur-Marne,942,poissonnerie,1
+78,Freneuse,781,poissonnerie,1
+91,Gif-sur-Yvette,913,poissonnerie,1
+94,Bonneuil-sur-Marne,941,poissonnerie,1
+92,Puteaux,922,poissonnerie,1
+75,Paris 2e Arrondissement,751,poissonnerie,1
+77,Champagne-sur-Seine,774,poissonnerie,1
+78,Le Vésinet,783,poissonnerie,1
+91,Ris-Orangis,912,poissonnerie,1
+93,La Courneuve,933,poissonnerie,1
+93,Saint-Denis,933,poissonnerie,2
+91,Champlan,913,poissonnerie,1
+94,Chevilly-Larue,943,poissonnerie,2
+91,Bièvres,913,poissonnerie,1
+75,Paris 7e Arrondissement,751,poissonnerie,4
+77,Nemours,774,poissonnerie,1
+92,Courbevoie,922,poissonnerie,3
+91,Sainte-Geneviève-des-Bois,913,poissonnerie,4
+75,Paris 12e Arrondissement,751,poissonnerie,8
+95,Argenteuil,951,poissonnerie,1
+75,Paris 19e Arrondissement,751,poissonnerie,11
+94,Le Kremlin-Bicêtre,943,poissonnerie,1
+78,Aubergenville,781,poissonnerie,1
+91,Massy,913,poissonnerie,1
+78,Le Chesnay,784,poissonnerie,1
+77,Voulx,774,poissonnerie,1
+78,Maulette,781,poissonnerie,1
+93,Gournay-sur-Marne,932,poissonnerie,1
+94,Chennevières-sur-Marne,942,poissonnerie,1
+92,Suresnes,922,poissonnerie,1
+94,Ormesson-sur-Marne,942,poissonnerie,1
+77,Crouy-sur-Ourcq,771,poissonnerie,1
+92,Antony,921,poissonnerie,2
+78,Mézy-sur-Seine,781,poissonnerie,1
+77,Chelles,775,poissonnerie,1
+77,Nandy,772,poissonnerie,1
+93,Pantin,931,poissonnerie,1
+92,Gennevilliers,922,poissonnerie,1
+95,Saint-Ouen-l'Aumône,953,poissonnerie,1
+78,Mareil-sur-Mauldre,781,poissonnerie,1
+91,Arpajon,913,poissonnerie,2
+94,Alfortville,941,poissonnerie,1
+75,Paris 4e Arrondissement,751,poissonnerie,2
+75,Paris 13e Arrondissement,751,poissonnerie,4
+91,Montgeron,912,poissonnerie,1
+75,Paris 10e Arrondissement,751,poissonnerie,8
+93,Livry-Gargan,932,poissonnerie,1
+77,Champs-sur-Marne,775,poissonnerie,2
+94,Bry-sur-Marne,942,poissonnerie,1
